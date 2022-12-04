@@ -1,0 +1,974 @@
+artist,artist_id,name,song_id,emo,duration,popularity,url
+Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,Before You Go,2gMXnyrvIjhVBUZwvLZDMP,sadness,00:03:35,82,https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP
+Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,It'll Be Okay,2KnLkZ3z7PO3kgVGHGqDpD,sadness,00:03:42,82,https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD
+Lauren Spencer-Smith,79AyR6ATpj2LTPxfb6FX50,Fingers Crossed,5S9Zs5g9lTWnLIboN1pdlU,sadness,00:02:55,45,https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU
+Benson Boone,22wbnEMDvgVIAGdFeek6ET,GHOST TOWN,135Lf4Q0CzlMNfOxbEUsLH,sadness,00:03:13,81,https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH
+Olivia Rodrigo,1McMsnEElThX1knmY4oliG,traitor,5CZ40GBx1sQ9agT82CLQCT,sadness,00:03:49,89,https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT
+Clinton Kane,7okSU80WTrn4LXlyXYbX3P,I GUESS I'M IN LOVE,1is8gU4RVcN4J8xItxWoOY,sadness,00:03:24,80,https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY
+Harry Styles,6KImCVD70vtIoJWnq6nGn3,Boyfriends,6qj02zSeEJGWZ4c0dn5QzJ,sadness,00:03:14,87,https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ
+Lauren Spencer-Smith,79AyR6ATpj2LTPxfb6FX50,Flowers,6Z165JvPnS8PYvGW8oLGLc,sadness,00:02:37,82,https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc
+Dean Lewis,3QSQFmccmX81fWCUSPTS7y,Hurtless,6HJizCbaqaEQG1eLjn341Z,sadness,00:03:00,77,https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z
+Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Lonely (with benny blanco),3S8jK1mGzQi24ilFb45DAZ,sadness,00:02:29,73,https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ
+Adele,4dpARuHxo51G3z768sgnrY,Easy On Me,46IZ0fSY2mpAiktS3KOqds,sadness,00:03:44,84,https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds
+Sarah Cothran,3kft86DbqCNr7rjq3pEj0G,As the World Caves In,7LAmsNJpBaNvNg7VZPXxSv,sadness,00:02:41,2,https://open.spotify.com/track/7LAmsNJpBaNvNg7VZPXxSv
+Beach House,56ZTgzPBDge0OvCGgMO3OY,Space Song,1ujxjsoNvh4XgS2fUNwkZ2,sadness,00:05:20,73,https://open.spotify.com/track/1ujxjsoNvh4XgS2fUNwkZ2
+Lexi Jayde,69761NObDw2KwmmFgZmxzC,drunk text me,2tbu7dOzCjM5JrPGr0sIes,sadness,00:03:33,66,https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes
+Dominic Fike,6USv9qhCn6zfxlBQIYJ9qs,"Elliot's Song (with Dominic Fike, Zendaya & Labrinth)",5BjcI61j62j5lDmJowxcRG,sadness,00:02:30,55,https://open.spotify.com/track/5BjcI61j62j5lDmJowxcRG
+flora cash,6GpcBKNmZDIrRzYkPJu7Wd,You're Somebody Else,0pdKRp2sUthTPe7RLWpPqQ,sadness,00:03:38,74,https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ
+Lord Huron,6ltzsmQQbmdoHHbLZ4ZN25,The Night We Met,0QZ5yyl6B6utIWkxeBDxQN,sadness,00:03:28,77,https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN
+Olivia Rodrigo,1McMsnEElThX1knmY4oliG,drivers license,7lPN2DXiMsVn7XUKtOW1CS,sadness,00:04:02,31,https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS
+Giveon,4fxd5Ee7UefO4CUXgwJ7IP,Heartbreak Anniversary,3FAJ6O0NOHQV8Mc5Ri6ENp,sadness,00:03:18,83,https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp
+SYML,6AyATGg7mDgBlZ4N5uNog0,Where's My Love,2NeM9rfWo70KQej9GxeaoL,sadness,00:03:22,29,https://open.spotify.com/track/2NeM9rfWo70KQej9GxeaoL
+Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,Someone You Loved,7qEHsqek33rTcFNT9PFqLf,sadness,00:03:02,86,https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf
+Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Visiting Hours,44V6EzbUSYgyfsNiP0FrlA,sadness,00:03:35,73,https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA
+Emily Burns,6Gi8ZaXGx8MK79HwzXpuVZ,Is It Just Me? (feat. JP Cooper),754zNJgoWQaGETFzSYVlmC,sadness,00:03:23,65,https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC
+Malachi Gagnon,5ypiXY7PJ0KSUk5YbaNv3t,Psychopath,1bRpAoj8CvguxDwMbVXC4e,sadness,00:03:22,50,https://open.spotify.com/track/1bRpAoj8CvguxDwMbVXC4e
+Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,everyone at this party,43klOCoUcqtkNWCqQQvh9W,sadness,00:02:48,62,https://open.spotify.com/track/43klOCoUcqtkNWCqQQvh9W
+Nova Miller,69iZuswGpLplhnKBE0MxcA,cold feet,7lHd4eqgPeDMMmcinSTfQF,sadness,00:02:52,43,https://open.spotify.com/track/7lHd4eqgPeDMMmcinSTfQF
+ZAYN,5ZsFI1h6hIdQRw2ti0hz81,Dusk Till Dawn (feat. Sia) - Radio Edit,1j4kHkkpqZRBwE0A4CN4Yv,sadness,00:03:59,78,https://open.spotify.com/track/1j4kHkkpqZRBwE0A4CN4Yv
+James Arthur,4IWBUUAFIplrNtaOHcJPRM,Say You Won't Let Go,5uCax9HTNlzGybIStD3vDh,sadness,00:03:31,84,https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh
+Jacob Tillberg,6aJRwrwfOffz7RMh2Cfm8e,Still Lost,74TyVgCIQH6RTf2x49UaUO,sadness,00:02:56,43,https://open.spotify.com/track/74TyVgCIQH6RTf2x49UaUO
+NGO,3UKatg0fWx5md56wN6mEYb,Just For You,4oNwIK0YAbcTFMFKKaPHr3,sadness,00:02:29,52,https://open.spotify.com/track/4oNwIK0YAbcTFMFKKaPHr3
+Mimi Webb,3GxKJzJK4LpsYGXQrw77wz,5��24��,1A6gT680oQr98VtDkNzys7,sadness,00:02:38,61,https://open.spotify.com/track/1A6gT680oQr98VtDkNzys7
+Bri Fletcher,7L0vBPI3KGaA64mN3j1x3m,There's Still Tomorrow,73aGWwY52gv78xBGsjC3gk,sadness,00:03:06,45,https://open.spotify.com/track/73aGWwY52gv78xBGsjC3gk
+Post Malone,246dkjvS1zLTtiykXe5h60,I Fall Apart,75ZvA4QfFiZvzhj2xkaWAh,sadness,00:03:43,80,https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh
+Danyál,1ctB1UK1a79EJJaNKWWjeh,Time Is Gone,051dVNuyD7t0IwOWZ7gZEO,sadness,00:03:27,44,https://open.spotify.com/track/051dVNuyD7t0IwOWZ7gZEO
+Alexa Kate Henry,7Ia1uOjvIjOeCvRl1WGxgu,Your type,1LnwcJj2cqhtTAK0YoIEGD,sadness,00:02:37,39,https://open.spotify.com/track/1LnwcJj2cqhtTAK0YoIEGD
+NF,6fOMl44jA4Sp5b9PpYCkzz,Let You Down,52okn5MNA47tk87PeZJLEL,sadness,00:03:32,80,https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL
+Jonny West,3WZbnaao6ao4diqMVvDJXk,Holyfield,6DdlGv4y8iFabb9K8adgns,sadness,00:03:18,34,https://open.spotify.com/track/6DdlGv4y8iFabb9K8adgns
+Tate McRae,45dkTj5sMRSjrmBSBeiHym,you broke me first,45bE4HXI0AwGZXfZtMp8JR,sadness,00:02:49,84,https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR
+Westrin & Mowry,4g6bagrdZFR1kaKZqoExA2,Love You More,6NMTssSfB0GlWuJOfJmb1T,sadness,00:03:51,37,https://open.spotify.com/track/6NMTssSfB0GlWuJOfJmb1T
+Calum Scott,6ydoSd3N2mwgwBHtF6K7eX,You Are The Reason,69vToJ9BMbbLlFZo7k7A7B,sadness,00:03:24,80,https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B
+The Sometimes Island,3SqtHH9uGzfm9UIc7veyuK,Barbara Wants,0fx5TUxwrHlz6hKjNZfQpp,sadness,00:05:08,53,https://open.spotify.com/track/0fx5TUxwrHlz6hKjNZfQpp
+Olivia Rodrigo,1McMsnEElThX1knmY4oliG,happier,2tGvwE8GcFKwNdAXMnlbfl,sadness,00:02:55,86,https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl
+Edwrd,00XyHLLLzyDqJ517a9KuuT,Everything,57oilX1OZ0L69BO0Xs7tv7,sadness,00:02:45,42,https://open.spotify.com/track/57oilX1OZ0L69BO0Xs7tv7
+Thee JAE,3L5sqWmhlRhqcfZAAk4rFV,HOLD ME DOWN,7G6VaNeMTfKW2ojJ86EPRB,sadness,00:02:37,39,https://open.spotify.com/track/7G6VaNeMTfKW2ojJ86EPRB
+Dean Lewis,3QSQFmccmX81fWCUSPTS7y,Be Alright,3EPXxR3ImUwfayaurPi3cm,sadness,00:03:16,80,https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm
+harris,0ON7FATSdTyyyi5ZMy4Jjo,Liquid Courage,2ZST0ukwHgf45Kh6eTffqF,sadness,00:04:27,38,https://open.spotify.com/track/2ZST0ukwHgf45Kh6eTffqF
+Rosie Darling,6kDXH8d9LugUAsHIozzDAI,Coping,4RX020eHQpZbZFP5jpbwOP,sadness,00:03:10,71,https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP
+Tom Walker,7z2avKuuiMAT4XZJFv8Rvh,Serotonin,7qGTqLLIHXStOkmnSkZAbY,sadness,00:02:57,67,https://open.spotify.com/track/7qGTqLLIHXStOkmnSkZAbY
+Apollo Clone,6iD1omJ46ssXjwFeeyAgah,29 (Separate Ways),1gSCHl5sMDndmFcu3Eq7DU,sadness,00:02:24,41,https://open.spotify.com/track/1gSCHl5sMDndmFcu3Eq7DU
+Conan Gray,4Uc8Dsxct0oMqx0P6i60ea,Heather,4xqrdfXkTW4T0RauPLv3WA,sadness,00:03:18,86,https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA
+TOB Duke,0swrkotfXHdeJNfkELoFkS,Forgive Me (feat. NoCap),0nNzHcIlG8rCoXDCM8Sdli,sadness,00:02:37,42,https://open.spotify.com/track/0nNzHcIlG8rCoXDCM8Sdli
+Dean Lewis,3QSQFmccmX81fWCUSPTS7y,Half A Man,1ugQtcwmKOXvKAYzhjncmv,sadness,00:02:59,76,https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv
+Luki,5OZOCvyJ2yxpzvA85ASGZk,SUMMER LOVE LETTERS,0C3iUG0ahkI7RkHLXlGHka,sadness,00:03:48,40,https://open.spotify.com/track/0C3iUG0ahkI7RkHLXlGHka
+harris,0ON7FATSdTyyyi5ZMy4Jjo,Shapeshifter,6O8ECP0BRhR8emAlSdNC9d,sadness,00:04:46,47,https://open.spotify.com/track/6O8ECP0BRhR8emAlSdNC9d
+Jen Awad,3ZvL8EjGXF2Kthpc3kpbpF,Moonlight,1nKK8aUIdPMyfDY2WVn6TU,sadness,00:03:52,39,https://open.spotify.com/track/1nKK8aUIdPMyfDY2WVn6TU
+Alexander 23,6sFHvCyqklnJpXC9Nh1aag,IDK You Yet,47EWMOElkkbMp5m9SBkx7d,sadness,00:03:04,11,https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d
+Alec Benjamin,5IH6FPUwQTxPSXurCrcIov,Let Me Down Slowly,2qxmye6gAegTMjLKEBoR3d,sadness,00:02:49,84,https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d
+D-BLOCH,26UBrVgeN3qbGfjrKguQ1E,DREAMS,40TjHYHUViviMeyH5noUdI,sadness,00:02:44,42,https://open.spotify.com/track/40TjHYHUViviMeyH5noUdI
+Jessie Murph,2yLzlEFtIS0Q9UkyBZdQA7,Always Been You,2zpZkOV7sD9C4Cv0cukoHV,sadness,00:02:11,75,https://open.spotify.com/track/2zpZkOV7sD9C4Cv0cukoHV
+Ruel,5xkAtLTf309LAGZTbvULBn,LET THE GRASS GROW,2BN5ZMErVAhbEroB99b3no,sadness,00:02:55,65,https://open.spotify.com/track/2BN5ZMErVAhbEroB99b3no
+Blu Jay,6wTCrom9eOUIgNwXGyB7A5,Unusual,3N18JE9zDDp1puxcGj9VDO,sadness,00:02:46,38,https://open.spotify.com/track/3N18JE9zDDp1puxcGj9VDO
+Jeremy Zucker,3gIRvgZssIb9aiirIg0nI3,comethru,18uwL0vNUanqZH0ro2QcOP,sadness,00:03:01,79,https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP
+saturdayco,0Vfg5xMwP6RWZHZVIufE6f,forever stay never,4tg2l5IYTINL5m78gFpqkc,sadness,00:03:31,31,https://open.spotify.com/track/4tg2l5IYTINL5m78gFpqkc
+Justin Bieber,1uNFoZAHBGtllmzznpCI3s,2 Much,0oaY19dUwZimIgzn3ZZLZO,sadness,00:02:32,71,https://open.spotify.com/track/0oaY19dUwZimIgzn3ZZLZO
+Caroline Romano,1MgbE6bu4MzbVLfAesPRol,Hollister (I Want To be Her Version),2LBizzvHjn2oIZ5csVBfJ6,sadness,00:02:29,34,https://open.spotify.com/track/2LBizzvHjn2oIZ5csVBfJ6
+Olivia Rodrigo,1McMsnEElThX1knmY4oliG,favorite crime,5JCoSi02qi3jJeHdZXMmR8,sadness,00:02:32,86,https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8
+Sody,01y8iBZYk8aeNfPsuTVrAt,Old Flame,23KrgrkSQN9rY3DWbklgMc,sadness,00:02:47,48,https://open.spotify.com/track/23KrgrkSQN9rY3DWbklgMc
+Jeremy Zucker,3gIRvgZssIb9aiirIg0nI3,you were good to me (bonus track),0JnSoyZMTYZLWFVdVT1JFZ,sadness,00:03:39,0,https://open.spotify.com/track/0JnSoyZMTYZLWFVdVT1JFZ
+BAINS.,1k1UhxIjS2zMahE8gK3a0g,Feel Awful,1l02ZKNQu37krlwPXJKrKf,sadness,00:03:35,36,https://open.spotify.com/track/1l02ZKNQu37krlwPXJKrKf
+Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,Bruises,4Of7rzpRpV1mWRbhp5rAqG,sadness,00:03:40,79,https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG
+Austin Riddle,2JXusS4jyG8qQpxsY8Rw2T,Thrill,1c3xW9bGInGIpuufPmkwYS,sadness,00:02:40,38,https://open.spotify.com/track/1c3xW9bGInGIpuufPmkwYS
+Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,Imagination,21TcDbGosp7w9YhTjOszgA,sadness,00:03:37,75,https://open.spotify.com/track/21TcDbGosp7w9YhTjOszgA
+Benjamin Quay,1fnFh9k2AOJgHqYWnRJ6R0,Beautiful Places,5JvUk9n534IN810q02NtE0,sadness,00:03:39,35,https://open.spotify.com/track/5JvUk9n534IN810q02NtE0
+Sik World,39G9Mcs99KhOEtVuthwztS,7 Years (Remix),1kFlDnWmBTvCBxxeGDpIdp,sadness,00:02:14,71,https://open.spotify.com/track/1kFlDnWmBTvCBxxeGDpIdp
+Harry Styles,6KImCVD70vtIoJWnq6nGn3,Falling,1ZMiCix7XSAbfAJlEZWMCp,sadness,00:04:00,86,https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp
+Anna Shoemaker,3STjhKc10jr3X60mDRpHV4,Mariah,4dKoYP74fpQJCvFDU38QcD,sadness,00:02:56,45,https://open.spotify.com/track/4dKoYP74fpQJCvFDU38QcD
+Lukas Graham,25u4wHJWxCA9vO0CzxAbK7,Love Someone,2JqnpexlO9dmvjUMCaLCLJ,sadness,00:03:25,67,https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ
+Maddie Ashman,0kUfq7dUYNktJeT3OgFhtO,6AM,64lgSa3o47h9fv2S1RO8Co,sadness,00:02:44,34,https://open.spotify.com/track/64lgSa3o47h9fv2S1RO8Co
+Cabela and Schmitt,2H54cElVw72XtIIXnlcja1,Now That You Know,2TS1vtFXyaiWttLbmQUYHa,sadness,00:06:31,38,https://open.spotify.com/track/2TS1vtFXyaiWttLbmQUYHa
+XXXTENTACION,15UsOTVnJzReFVN1VCnxy4,changes,7AFASza1mXqntmGtbxXprO,sadness,00:02:01,80,https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO
+Old Zebulon Rd,74rkfAl5V1OIEqQ5YupbSt,I See You,0JBtjjUaCUktubMljnMfpb,sadness,00:04:29,34,https://open.spotify.com/track/0JBtjjUaCUktubMljnMfpb
+NF,6fOMl44jA4Sp5b9PpYCkzz,If You Want Love,3i5qVV8azKqGFK4Gzdt5YS,sadness,00:03:19,76,https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS
+Jared Anthony,5jojdq6ltCT6cbv6WpKikI,Old Ways,2p9mp7ndfhWZrEpKkAw3sp,sadness,00:03:19,38,https://open.spotify.com/track/2p9mp7ndfhWZrEpKkAw3sp
+Tate McRae,45dkTj5sMRSjrmBSBeiHym,lie to me,4f9IfFvBFm7Gsf1IVEudyf,sadness,00:02:57,66,https://open.spotify.com/track/4f9IfFvBFm7Gsf1IVEudyf
+REBORN,4R63UnHZa7LKusZEASpYiZ,Oceans,6I0Crgbsk0Qk2r0oS1h7ba,sadness,00:03:53,39,https://open.spotify.com/track/6I0Crgbsk0Qk2r0oS1h7ba
+Joji,3MZsBdqDrRTJihTHQrO6Dq,Afterthought,6zvqq50PL7io0rprbkrYc9,sadness,00:03:14,69,https://open.spotify.com/track/6zvqq50PL7io0rprbkrYc9
+Jackie Bristow,7zdcCbbwjjBh7dHEfIUzyJ,Without You,4llq5JSXSVLqYK3swb1Wyi,sadness,00:03:46,29,https://open.spotify.com/track/4llq5JSXSVLqYK3swb1Wyi
+Allocai,35hdnctklAphlKzgR8aHpq,Bad For Me,10am1LvdZrQpZR0wmUz8ds,sadness,00:03:08,56,https://open.spotify.com/track/10am1LvdZrQpZR0wmUz8ds
+Tate McRae,45dkTj5sMRSjrmBSBeiHym,that way,7l97ElWmIdVHWUaOeeU5ZC,sadness,00:02:55,79,https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC
+PETER LAKE,2LO6MZ0w06BnfgIfoJHIe6,Pour Your Lies,3zaqBEkPpIMBi3ll1lESHH,sadness,00:03:30,42,https://open.spotify.com/track/3zaqBEkPpIMBi3ll1lESHH
+Kina,4qIVPF0s71ZYW3qzhu5GkF,Can We Kiss Forever?,58wyJLv6yH1La9NIZPl3ne,sadness,00:03:07,77,https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne
+Benjamin Quay,1fnFh9k2AOJgHqYWnRJ6R0,Flicker,7C6K76g54tlY9uEOQ5K29D,sadness,00:04:05,34,https://open.spotify.com/track/7C6K76g54tlY9uEOQ5K29D
+AIR APPARENT,1t4CeVXKlDWTwwroCmPdk8,100%,06pdg7OlsE63vMAn5B3jSQ,sadness,00:02:51,38,https://open.spotify.com/track/06pdg7OlsE63vMAn5B3jSQ
+Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,lovely (with Khalid),0u2P5u6lvoDfwTYjAADbn4,sadness,00:03:20,87,https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4
+Chlo Subia,22eHwBuc3AdGzax5T5AsDj,STARSIGN,3Rymk6zx8IuQL24P3vIFiB,sadness,00:03:02,37,https://open.spotify.com/track/3Rymk6zx8IuQL24P3vIFiB
+Olivia Rodrigo,1McMsnEElThX1knmY4oliG,hope ur ok,1zejeOnykpCoyVSit6Bwp3,sadness,00:03:29,78,https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3
+Nick Kandler,6tmzRs9PljJyKrLArTgWr2,Kill You Slowly,3BZJYRUTFiXpAMyRZfaXSa,sadness,00:02:17,28,https://open.spotify.com/track/3BZJYRUTFiXpAMyRZfaXSa
+Zach Hood,5aHlyw2WWqZW0HLICBuv7U,never knew a heart could break itself,4d2ZJ9W7dkQuITwUCTuD5n,sadness,00:02:35,65,https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n
+Duncan Laurence,3klZnJvYGIbWritVwQD434,Arcade,1J14CdDAvBTE1AJYUOwl6C,sadness,00:03:05,75,https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C
+Maddie Ashman,0kUfq7dUYNktJeT3OgFhtO,I Care,6mXstnWJ2CLvIke9QvmL2d,sadness,00:02:48,29,https://open.spotify.com/track/6mXstnWJ2CLvIke9QvmL2d
+Stephen Sanchez,5XKFrudbV4IiuE5WuTPRmT,Until I Found You,0T5iIrXA4p5GsubkhuBIKV,sadness,00:02:57,91,https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV
+Joji,3MZsBdqDrRTJihTHQrO6Dq,Glimpse of Us,6xGruZOHLs39ZbVccQTuPZ,sadness,00:03:53,96,https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ
+Hinshi,6K1Arugub6xpjLfkJfgCZL,closer,6YnthMWv62JY3ka2YAvCCh,sadness,00:01:55,46,https://open.spotify.com/track/6YnthMWv62JY3ka2YAvCCh
+Tom Rosenthal,1AgxgADPuRIW1wyaA4OKcB,Lights Are On,4IhTXiZLKATmwhMZIb1GQN,sadness,00:03:13,80,https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN
+Delaney Bailey,3Os4q49SgEN0Tv3fxKw3Sp,Oh Love,28Obqqr7EtnSNul1TJiQcX,sadness,00:02:44,52,https://open.spotify.com/track/28Obqqr7EtnSNul1TJiQcX
+luca.,7rvToKFpMMPIwV1kr6MUJI,someone who'll care,3qpq58IwLwMtsZ667ch7BP,sadness,00:02:44,45,https://open.spotify.com/track/3qpq58IwLwMtsZ667ch7BP
+Bruno Major,0hDjKSKjl1DC7ovYTDJHe8,Nothing,2IAR0DziHCjSu16gR4ihvy,sadness,00:02:42,80,https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy
+Beach House,56ZTgzPBDge0OvCGgMO3OY,Space Song,1ujxjsoNvh4XgS2fUNwkZ2,sadness,00:05:20,73,https://open.spotify.com/track/1ujxjsoNvh4XgS2fUNwkZ2
+The Cinematic Orchestra,32ogthv0BdaSMPml02X9YB,To Build A Home,54KFQB6N4pn926IUUYZGzK,sadness,00:06:11,74,https://open.spotify.com/track/54KFQB6N4pn926IUUYZGzK
+Sølace,62AlnDIQccDoQ5FPZRrSL3,remedy,6BtaOqGNg6mILnDL24RrdE,sadness,00:04:06,47,https://open.spotify.com/track/6BtaOqGNg6mILnDL24RrdE
+Kina,4qIVPF0s71ZYW3qzhu5GkF,Get You The Moon (feat. Snøw),4ZLzoOkj0MPWrTLvooIuaa,sadness,00:02:59,80,https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa
+SYML,6AyATGg7mDgBlZ4N5uNog0,Where's My Love,2NeM9rfWo70KQej9GxeaoL,sadness,00:03:22,29,https://open.spotify.com/track/2NeM9rfWo70KQej9GxeaoL
+Joji,3MZsBdqDrRTJihTHQrO6Dq,SLOW DANCING IN THE DARK,0rKtyWc8bvkriBthvHKY8d,sadness,00:03:29,85,https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d
+yaeow,4Abe9XH0fplj8dbOddoYgH,I Need U,6tmZRSTEAW90RI8nXsly1f,sadness,00:02:22,61,https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f
+Valera,5408YTsXEeDoU6JMfu6S1p,WANT U BAD,1w9yRUuQjZSG5rONZjJE6z,sadness,00:02:13,45,https://open.spotify.com/track/1w9yRUuQjZSG5rONZjJE6z
+Hayd,1adGvsK8A0XG2D18ufk7fZ,What Did I Do?,3olUFMwgASQGeXrlm4g6OH,sadness,00:03:35,59,https://open.spotify.com/track/3olUFMwgASQGeXrlm4g6OH
+Novo Amor,0rZp7G3gIH6WkyeXbrZnGi,Repeat Until Death,5PzWVmfzu7rePAuFkxPQf0,sadness,00:03:54,71,https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0
+Charlotte Lawrence,7LImGq5KnzQobZciDJpeJb,Everybody Loves You,1gegwT9vR2vlhO2xyQTroA,sadness,00:03:24,0,https://open.spotify.com/track/1gegwT9vR2vlhO2xyQTroA
+Coyote Theory,48vmXfV0QPy3ljXBp81Fwn,This Side of Paradise - slowed,3BIBnyt40zWjPCNqRyGwPp,sadness,00:05:04,65,https://open.spotify.com/track/3BIBnyt40zWjPCNqRyGwPp
+Kodaline,4BxCuXFJrSWGi1KHcVqaU4,All I Want,0NlGoUyOJSuSHmngoibVAs,sadness,00:05:05,82,https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs
+Before You Exit,64NYWpxh4HgzMb1SwCCjMw,Same Sun,3lAdYuIqkk9T6I9Yc7yw4L,sadness,00:03:55,49,https://open.spotify.com/track/3lAdYuIqkk9T6I9Yc7yw4L
+Kehard,6bQNj9hzQAggybweFsY8G8,sick of love,2LGEb04cnweMm8wUehz1Qd,sadness,00:02:08,43,https://open.spotify.com/track/2LGEb04cnweMm8wUehz1Qd
+JANNABI,2SY6OktZyMLdOnscX3DCyS,for lovers who hesitate,5BqwC9kOBbqYkzdOKeXFFk,sadness,00:04:25,61,https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk
+Kina,4qIVPF0s71ZYW3qzhu5GkF,Can We Kiss Forever?,58wyJLv6yH1La9NIZPl3ne,sadness,00:03:07,77,https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne
+Anson Seabra,2jHp7gQArCQrlMvdrIVFCg,Broken,2AHKsVXN6BjBO8SEVX6cBC,sadness,00:05:05,64,https://open.spotify.com/track/2AHKsVXN6BjBO8SEVX6cBC
+Swik,7IgAHxP7vH6TfXJtf8Kbai,i feel wasted,1WSirpUds0qbXIePLlgiwU,sadness,00:02:26,44,https://open.spotify.com/track/1WSirpUds0qbXIePLlgiwU
+Tom Rosenthal,1AgxgADPuRIW1wyaA4OKcB,It's Ok,2Iyfw8YfKruAagJwGc4G07,sadness,00:03:11,69,https://open.spotify.com/track/2Iyfw8YfKruAagJwGc4G07
+Ruth B.,2WzaAvm2bBCf4pEhyuDgCY,If By Chance,21dpBHPTV7ythCHBI6Slcw,sadness,00:05:03,71,https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw
+Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,listen before i go,0tMSssfxAL2oV8Vri0mFHE,sadness,00:04:02,76,https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE
+Cigarettes After Sex,1QAJqy2dA3ihHBFIHRphZj,Apocalypse,7McZS9J6h0SKoZBR6cfcFe,sadness,00:04:50,0,https://open.spotify.com/track/7McZS9J6h0SKoZBR6cfcFe
+Madson.,2NT393laOOfABIx8c29xWB,its better like this,2TjmKNPHohHn03OKOWbT91,sadness,00:02:53,41,https://open.spotify.com/track/2TjmKNPHohHn03OKOWbT91
+Kina,4qIVPF0s71ZYW3qzhu5GkF,Baby You're Worth It,6vJ6FR4WtlKSxe8lmh3F1C,sadness,00:02:10,15,https://open.spotify.com/track/6vJ6FR4WtlKSxe8lmh3F1C
+Sunset Rollercoaster,7BqRcZsHYYQeqMAOp7e532,My Jinji,59Bc4RPzSL3nYPANh25a6J,sadness,00:06:40,61,https://open.spotify.com/track/59Bc4RPzSL3nYPANh25a6J
+Teqkoi,6fOKLk8GmQ8xKogCRuuAwD,You Broke My Heart Again,3jZDWsoxRHzzp3DYV8qeXE,sadness,00:01:43,67,https://open.spotify.com/track/3jZDWsoxRHzzp3DYV8qeXE
+Anson Seabra,2jHp7gQArCQrlMvdrIVFCg,Robin Hood,5dyihZecYMcEPq09Bk2OL2,sadness,00:03:41,65,https://open.spotify.com/track/5dyihZecYMcEPq09Bk2OL2
+Nick Leng,2fR4D8OveDTHMvCvm7paAO,Lonely Shade of Blue,5rTjMOVDiXDxkJavr2GxEL,sadness,00:04:22,52,https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL
+Ollie MN,5sH4dr4r46Vm0Qu84PAYvk,Please Never Fall in Love Again,42H6GeQfrBkT3vTUTdpB1M,sadness,00:02:34,65,https://open.spotify.com/track/42H6GeQfrBkT3vTUTdpB1M
+Fran Vasili?,08xR1XU2SWgC2K0yx6lEYm,"It's Been a Fun Ride, but It's Time to Say Goodbye.",4W9um2P0mOY9QwxQY9GS2F,sadness,00:04:36,46,https://open.spotify.com/track/4W9um2P0mOY9QwxQY9GS2F
+Before You Exit,64NYWpxh4HgzMb1SwCCjMw,Clouds,0FiInivN1aBhzKM3UtHM3l,sadness,00:04:31,60,https://open.spotify.com/track/0FiInivN1aBhzKM3UtHM3l
+Maberry,4hogj0YFfrnp8n2XqnFwq9,when i was young,5nI0hFEpZNxZczhm5fnZzT,sadness,00:02:40,40,https://open.spotify.com/track/5nI0hFEpZNxZczhm5fnZzT
+The Walters,027TpXKGwdXP7iwbjUSpV8,I Love You So - Acoustic,5cjagrNaegv6IQZKflkPTf,sadness,00:02:27,66,https://open.spotify.com/track/5cjagrNaegv6IQZKflkPTf
+Hayd,1adGvsK8A0XG2D18ufk7fZ,Changes,2v8GT5HHcqFaTXS2xijw4r,sadness,00:03:34,1,https://open.spotify.com/track/2v8GT5HHcqFaTXS2xijw4r
+ORYL,2hyUZZUXjxznTGBAgqTR7V,Better Now,5OV8NQLC9eWzMN3jeKs3MJ,sadness,00:02:10,45,https://open.spotify.com/track/5OV8NQLC9eWzMN3jeKs3MJ
+Bruno Major,0hDjKSKjl1DC7ovYTDJHe8,Places We Won't Walk,30QNjcM3Q1GnLFIIJjWQL1,sadness,00:02:49,67,https://open.spotify.com/track/30QNjcM3Q1GnLFIIJjWQL1
+Beowülf,4owATw6JCMuUxeWdh3eiyg,savior,1vQaOx0V3jIeBepn5GPtTP,sadness,00:01:50,3,https://open.spotify.com/track/1vQaOx0V3jIeBepn5GPtTP
+Monty Datta,5Hx084y0lkukp4MHLFmj3S,Say Goodbye,3xNIVmBIe839tAsoGe3A4b,sadness,00:02:30,67,https://open.spotify.com/track/3xNIVmBIe839tAsoGe3A4b
+Paravi,3hu0zovv9ZERrUy09lIsTH,Home,1hObXlE3sFyMCvWeyRV9QF,sadness,00:03:35,55,https://open.spotify.com/track/1hObXlE3sFyMCvWeyRV9QF
+Joji,3MZsBdqDrRTJihTHQrO6Dq,worldstar money (interlude),0baNzeUcPQnQSagpe8T0mD,sadness,00:02:06,80,https://open.spotify.com/track/0baNzeUcPQnQSagpe8T0mD
+Vancouver Sleep Clinic,77BznF1Dr1k5KyEZ6Nn3jB,Someone To Stay,7tMbZ0RGW0jFsBw7ipEPEV,sadness,00:04:14,59,https://open.spotify.com/track/7tMbZ0RGW0jFsBw7ipEPEV
+Rnla,5lKJ1MdVwexXUEEUFLI4l9,Free With You,37KYM3zuGyozpEwDuO2OVw,sadness,00:02:48,58,https://open.spotify.com/track/37KYM3zuGyozpEwDuO2OVw
+Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,Someone You Loved,2TIlqbIneP0ZY1O0EzYLlc,sadness,00:03:02,74,https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc
+Hayd,1adGvsK8A0XG2D18ufk7fZ,Head In The Clouds,3CeKc83EsgRPItgvlDHo5B,sadness,00:03:04,68,https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B
+Lemmy Alone,0TEfC1ScZ49pHIWVCormL7,And She Will Miss You,0PysvqxlGX0AvoigxA7wLt,sadness,00:03:19,46,https://open.spotify.com/track/0PysvqxlGX0AvoigxA7wLt
+Rnla,5lKJ1MdVwexXUEEUFLI4l9,Broken,3pvXNqXnuDJgkG1ZDwhQ9E,sadness,00:02:40,48,https://open.spotify.com/track/3pvXNqXnuDJgkG1ZDwhQ9E
+Anson Seabra,2jHp7gQArCQrlMvdrIVFCg,That's Us,7sTDqaGUr9NM8NHQ5SNHi1,sadness,00:04:30,66,https://open.spotify.com/track/7sTDqaGUr9NM8NHQ5SNHi1
+omarr,6VlR5v7VgUjpqIrIgrZ7wb,Was I Not Good Enough?,2TJs37x1zLNpRpFSHiMeVr,sadness,00:02:25,51,https://open.spotify.com/track/2TJs37x1zLNpRpFSHiMeVr
+SadBoyProlific,0inkJpjAKDnQOv2VHBCU0Z,Alone,6tAqYm2Wcy2yrPixShJMS6,sadness,00:02:40,3,https://open.spotify.com/track/6tAqYm2Wcy2yrPixShJMS6
+Maisie Peters,2RVvqRBon9NgaGXKfywDSs,Worst of You,54iSfkh69fxhnSNrgvTEBp,sadness,00:03:17,64,https://open.spotify.com/track/54iSfkh69fxhnSNrgvTEBp
+yaeow,4Abe9XH0fplj8dbOddoYgH,"always, and forever (with my little sister)",7gdGFqMtL5XFHRP36N2Qdb,sadness,00:01:38,43,https://open.spotify.com/track/7gdGFqMtL5XFHRP36N2Qdb
+Sarcastic Sounds,1bq8rqNnfrojn0OSAfeNXJ,I Don't Sleep,0f0gfm6wHjhqrBMHBn9Ajr,sadness,00:01:45,61,https://open.spotify.com/track/0f0gfm6wHjhqrBMHBn9Ajr
+Post Malone,246dkjvS1zLTtiykXe5h60,Goodbyes (feat. Young Thug),0t3ZvGKlmYmVsDzBJAXK8C,sadness,00:02:54,79,https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C
+yaeow,4Abe9XH0fplj8dbOddoYgH,One More Time,6SOjqqblrBD2PprPuav43M,sadness,00:02:31,50,https://open.spotify.com/track/6SOjqqblrBD2PprPuav43M
+Anson Seabra,2jHp7gQArCQrlMvdrIVFCg,Walked Through Hell,6c7N5N7amAOpeMykjlovjI,sadness,00:03:36,68,https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI
+Hayd,1adGvsK8A0XG2D18ufk7fZ,Closure,0mKQl9k1EErmEPk11aWZEl,sadness,00:03:16,0,https://open.spotify.com/track/0mKQl9k1EErmEPk11aWZEl
+Delaney Bailey,3Os4q49SgEN0Tv3fxKw3Sp,j's lullaby (darlin' i'd wait for you),7LNm1oWd6PniO9wRYpNY5o,sadness,00:04:50,72,https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o
+Kurt Hugo Schneider,2BHswvFd8tMBizVWGcAMLm,Sweater Weather,0kn9QwZW8Ow9eTuZgxVEz8,sadness,00:03:48,67,https://open.spotify.com/track/0kn9QwZW8Ow9eTuZgxVEz8
+the bootleg boy,2i17uDAKnwPO7PlDT4nLaz,the day i died,50HURWGNsCiJw4qFDQu40X,sadness,00:02:14,57,https://open.spotify.com/track/50HURWGNsCiJw4qFDQu40X
+Joji,3MZsBdqDrRTJihTHQrO6Dq,Sanctuary,0rOLFkjY5DSIViVBNnzOuK,sadness,00:03:00,76,https://open.spotify.com/track/0rOLFkjY5DSIViVBNnzOuK
+MASN,4HAfqyKr4Sqtab6ttHWXgE,Hate Me!,6jmf4OxSGzdgthZruXtcqu,sadness,00:02:34,68,https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu
+Roderick Porter,7Lcln0AXqNHMahrca8KVpy,Ghost (feat. Ivri),6VyUWfImAgTrYAnYWonuhM,sadness,00:02:46,59,https://open.spotify.com/track/6VyUWfImAgTrYAnYWonuhM
+Troye Sivan,3WGpXCj9YhhfX11TToZcXP,could cry just thinkin about you - Full Version,3H7oAhHxkEkSf9iomv2mbG,sadness,00:02:38,66,https://open.spotify.com/track/3H7oAhHxkEkSf9iomv2mbG
+Avery Grey,2d1j4rluvg8fH89PgEQDrl,Smoking for the Aesthetic,7HrWPQ6ISUcLNxhmdGB7bu,sadness,00:03:01,50,https://open.spotify.com/track/7HrWPQ6ISUcLNxhmdGB7bu
+Joy Again,4jCIAMb0zEArF3GYEYzoDk,Necromancer,0aVM2DspPoHNTDBm7ehySx,sadness,00:02:33,61,https://open.spotify.com/track/0aVM2DspPoHNTDBm7ehySx
+Shae Delea,31RyxI6WpYu2zgzT5Etfkg,A Lost Promise,4ExQEPkWtBr85Hw4iFKLu8,sadness,00:02:31,41,https://open.spotify.com/track/4ExQEPkWtBr85Hw4iFKLu8
+Winter Aid,15S89CUJtshT2P7WIa2M5l,The Wisp Sings,68RI4I6SKm57SxjG06OYvN,sadness,00:05:13,72,https://open.spotify.com/track/68RI4I6SKm57SxjG06OYvN
+luca.,7rvToKFpMMPIwV1kr6MUJI,don't wanna be too forward,51uDgJppNXfG3IAxPpkZZo,sadness,00:02:34,41,https://open.spotify.com/track/51uDgJppNXfG3IAxPpkZZo
+Faye,46OMcdfGCQJUOaA7o15lJG,Screams and Dreams,6SDGLeILo8nY3KeZyVG0o6,sadness,00:04:17,0,https://open.spotify.com/track/6SDGLeILo8nY3KeZyVG0o6
+HONNE,0Vw76uk7P8yVtTClWyOhac,free love - dream edit,3HAsf0o0TJY9WL4zKCzE3u,sadness,00:04:09,55,https://open.spotify.com/track/3HAsf0o0TJY9WL4zKCzE3u
+Alex & Sierra,58MLl9nC29IXbE4nEtuoP2,Little Do You Know,1almCHdsfikRPfVB9VrEdT,sadness,00:03:05,77,https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT
+jagger finn,4b1cEwAKl1Wdg6x8kkraJa,Vas,6S7o12almFeL57rbRvdY5l,sadness,00:01:30,77,https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l
+Powfu,6bmlMHgSheBauioMgKv2tn,don't fall asleep yet,7sQhhSlMui3JOZ4s2j4IjM,sadness,00:02:26,53,https://open.spotify.com/track/7sQhhSlMui3JOZ4s2j4IjM
+yaeow,4Abe9XH0fplj8dbOddoYgH,don't give up,1fl2pEDROb4TFyqQtV6LBL,sadness,00:01:54,52,https://open.spotify.com/track/1fl2pEDROb4TFyqQtV6LBL
+Yaiko Kaori,6Y1X1y0lolpyo4xCpB458o,Maybe i'm alone,3MWcUX999bO6D0AyDY64xL,sadness,00:02:20,48,https://open.spotify.com/track/3MWcUX999bO6D0AyDY64xL
+yaeow,4Abe9XH0fplj8dbOddoYgH,Behind the Clouds,6l8mSWXw3Jy7TvM0r8W6LR,sadness,00:02:40,53,https://open.spotify.com/track/6l8mSWXw3Jy7TvM0r8W6LR
+Teqkoi,6fOKLk8GmQ8xKogCRuuAwD,Baby I'm Falling,2WxjuqpSOCNQLULYsUExs2,sadness,00:02:34,43,https://open.spotify.com/track/2WxjuqpSOCNQLULYsUExs2
+Verzache,59KX7XUUgAOOo5IyDjca0T,The Loser,0yTGQpPOgcsS8Xqp5bQO58,sadness,00:02:11,71,https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58
+"Dream, Ivory",0qZyvjwZauLmrobrpJmvib,welcome and goodbye,5F3DM6Iz4axGiLUhxvQLs1,sadness,00:02:20,7,https://open.spotify.com/track/5F3DM6Iz4axGiLUhxvQLs1
+Snøw,5fSVkkuijRIpxuvSqysYiP,Sunset/Sunrise,5bryfrnYaxlofC6MAG6vde,sadness,00:01:27,65,https://open.spotify.com/track/5bryfrnYaxlofC6MAG6vde
+Ondi Vil,4ZguwlmrdElUZaO36dRTbn,Drowning,6fee735D9oJHuz9k3tp215,sadness,00:01:40,52,https://open.spotify.com/track/6fee735D9oJHuz9k3tp215
+Kina,4qIVPF0s71ZYW3qzhu5GkF,Nobody Cares,4CALLtGlZBwdpfQvMQvhH2,sadness,00:02:55,29,https://open.spotify.com/track/4CALLtGlZBwdpfQvMQvhH2
+Chord Overstreet,5D3muNJhYYunbRkh3FKgX0,Hold On,5vjLSffimiIP26QG5WcN2K,sadness,00:03:18,82,https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K
+MASN,4HAfqyKr4Sqtab6ttHWXgE,Hold Me (feat. Mishaal),6qsVVFBn0CuPrEgx9u4QzK,sadness,00:03:40,49,https://open.spotify.com/track/6qsVVFBn0CuPrEgx9u4QzK
+mehro,1ZwhhTSUPr7EBZHd1GjOT7,perfume,1kvkYrjZh561EJwERr8EsK,sadness,00:02:29,68,https://open.spotify.com/track/1kvkYrjZh561EJwERr8EsK
+Teqkoi,6fOKLk8GmQ8xKogCRuuAwD,It'll Be Alright,5ezVqhuo9PDNqsGKsKOPyG,sadness,00:02:13,57,https://open.spotify.com/track/5ezVqhuo9PDNqsGKsKOPyG
+yaeow,4Abe9XH0fplj8dbOddoYgH,When I'm No Longer Here,091BHawNKMMYOPh1W2N4jr,sadness,00:02:39,0,https://open.spotify.com/track/091BHawNKMMYOPh1W2N4jr
+Jeremy Zucker,3gIRvgZssIb9aiirIg0nI3,scared,6r2JV75tE0vNgNCv4HKsBC,sadness,00:03:27,66,https://open.spotify.com/track/6r2JV75tE0vNgNCv4HKsBC
+Matt Maltese,12j6dJrPXanCBwY599pZxf,As the World Caves In,3NM41PVVUr0ceootKAtkAj,sadness,00:03:38,71,https://open.spotify.com/track/3NM41PVVUr0ceootKAtkAj
+Harry Styles,6KImCVD70vtIoJWnq6nGn3,Music For a Sushi Restaurant,5LYMamLv12UPbemOaTPyeV,joy,00:03:13,92,https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV
+Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Malibu,1UZOjK1BwmwWU14Erba9CZ,joy,00:03:51,80,https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ
+Van Morrison,44NX2ffIYHr6D4n7RaZF7A,Brown Eyed Girl,3yrSvpt2l1xhsV9Em88Pul,joy,00:03:03,80,https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul
+Redbone,0w7HLMvZOHatWVbAKee1zF,Come and Get Your Love - Single Version,7GVUmCP00eSsqc4tzj1sDD,joy,00:03:25,77,https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD
+Hozier,2FXC3k01G6Gw61bmprjgqS,Someone New,2DNXgvkyv35vTWvdgjs7qn,joy,00:03:42,70,https://open.spotify.com/track/2DNXgvkyv35vTWvdgjs7qn
+"Earth, Wind & Fire",4QQgXkCYTt3BlENzhyNETg,September,2grjqo0Frpf2okIBiifQKs,joy,00:03:35,82,https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs
+Whitney Houston,6XpaIBNiVzIetEPCWDvAFP,I Wanna Dance with Somebody (Who Loves Me),2tUBqZG2AbRi7Q0BIrVrEj,joy,00:04:51,82,https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj
+Ricky Martin,7slfeZO9LsJbWgpkIoXBUJ,Livin' la Vida Loca,0Ph6L4l8dYUuXFmb71Ajnd,joy,00:04:03,75,https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd
+Electric Light Orchestra,7jefIIksOi1EazgRTfW2Pk,Mr. Blue Sky,2RlgNHKcydI9sayD2Df2xp,joy,00:05:03,81,https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp
+Avril Lavigne,0p4nmQO2msCgU4IF37Wi3j,Breakaway,74kqTZLnGoPtCwGecA37Xi,joy,00:03:43,66,https://open.spotify.com/track/74kqTZLnGoPtCwGecA37Xi
+Outkast,1G9G7WwrXka3Z1r7aIDjI7,Hey Ya!,3AszgPDZd9q0DpDFt4HFBy,joy,00:03:59,64,https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy
+Mike Posner,2KsP6tYLJlTBvSUxnwlVWa,Please Don't Go,6jg5SRvdGxvJ0DzNV0UqEK,joy,00:03:16,70,https://open.spotify.com/track/6jg5SRvdGxvJ0DzNV0UqEK
+Superfruit,50VoYemccTaftNfFqWtlXd,GUY.exe,3JTjLyrnevl9ASw3ayGO2P,joy,00:03:42,79,https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P
+Mariah Carey,4iHNK0tOyZPYnBU7nGAgpQ,Fantasy,6xkryXuiZU360Lngd4sx13,joy,00:04:03,76,https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13
+Chairlift,7hAolICGSgXJuM6DUpK5rp,I Belong in Your Arms,0aqRkWPAL9BGCvvdSiXaE9,joy,00:03:27,63,https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9
+Sia,5WUlDfRSoLAfcVSX1WnrxN,Unstoppable,1yvMUkIOTeUNtNWlWRgANS,joy,00:03:37,81,https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS
+Quinn XCII,3ApUX1o6oSz321MMECyIYd,Straightjacket,51LIqkda3pTeECZUhMnool,joy,00:03:26,63,https://open.spotify.com/track/51LIqkda3pTeECZUhMnool
+Bill Withers,1ThoqLcyIYvZn7iWbj8fsj,Lovely Day,0bRXwKfigvpKZUurwqAlEh,joy,00:04:14,77,https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh
+Modest Mouse,1yAwtBaoHLEDWAnWR87hBT,Float On,2lwwrWVKdf3LR9lbbhnr6R,joy,00:03:28,73,https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R
+Dominic Fike,6USv9qhCn6zfxlBQIYJ9qs,3 Nights,0uI7yAKUf52Cn7y3sYyjiX,joy,00:02:57,72,https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX
+Beyoncé,6vWDO969PvNqNYHIOW5v0m,Love On Top,1z6WtY7X4HQJvzxC4UgkSf,joy,00:04:27,76,https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf
+Samuel Jack,78rEst9B8h5utylmzIoUgb,Feels Like Summer,0ZERGmkfuDSrLaIzEGFdiH,joy,00:03:07,66,https://open.spotify.com/track/0ZERGmkfuDSrLaIzEGFdiH
+Cosmo's Midnight,4VivsO1n4n2Mi2Btyb5gfL,Bang My Line (feat. Tkay Maidza),5phuEZAscX7xyQgvxyLKir,joy,00:02:33,56,https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir
+Britney Spears,26dSoYclwsYLMAKD3tpOr4,Lucky,2TTYIwTM2iLC1YOyHuhRMt,joy,00:03:26,67,https://open.spotify.com/track/2TTYIwTM2iLC1YOyHuhRMt
+Journey,0rvjqX7ttXeg3mTy8Xscbt,Don't Stop Believin',4bHsxqR3GMrXTxEPLuK5ue,joy,00:04:10,82,https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue
+Sly & The Family Stone,5m8H6zSadhu1j9Yi04VLqD,If You Want Me to Stay,2BydLQAh7CUIFvSEqAMc4x,joy,00:03:00,67,https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x
+Becky G,4obzFoKoKRHIphyHzJ35G3,BAIL? CON MI EX,0Yc0ziTsyjahYqlWXVXlTU,joy,00:02:41,75,https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU
+Prince,5a2EaR3hamoenG9rDuVn8j,Hot Summer,5MztBRRywrACJFq8tPNanu,joy,00:03:32,38,https://open.spotify.com/track/5MztBRRywrACJFq8tPNanu
+Sara Bareilles,2Sqr0DXoaYABbjBo9HaMkM,King of Anything,3VA8T3rNy5V24AXxNK5u9E,joy,00:03:27,62,https://open.spotify.com/track/3VA8T3rNy5V24AXxNK5u9E
+Natasha Bedingfield,7o95ZoZt5ZYn31e9z1Hc0a,Unwritten,3U5JVgI2x4rDyHGObzJfNf,joy,00:04:19,77,https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf
+Joy Again,4jCIAMb0zEArF3GYEYzoDk,Looking Out for You,3jfZ9M23l0L7RxzYMTgBTv,joy,00:02:59,80,https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv
+Mariah Carey,4iHNK0tOyZPYnBU7nGAgpQ,Dreamlover,6HcQZfMrw3KwGyzrKw1Pjy,joy,00:03:52,60,https://open.spotify.com/track/6HcQZfMrw3KwGyzrKw1Pjy
+Albert Hammond,34E3csCxpXunPGEkOVVX2g,It Never Rains in Southern California,6tunhVGD8C05MZNjSVIsjw,joy,00:03:53,66,https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw
+A$AP Rocky,13ubrt8QOOCPljQ2FL1Kca,Sundress,2aPTvyE09vUCRwVvj0I8WK,joy,00:02:38,78,https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK
+Ruth B.,2WzaAvm2bBCf4pEhyuDgCY,Dandelions,2eAvDnpXP5W0cVtiI0PUxV,joy,00:03:53,90,https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV
+Elvis Presley,43ZHCT0cAZBISjO8DG9PnE,Suspicious Minds,1H5IfYyIIAlgDX8zguUzns,joy,00:04:21,73,https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns
+Meghan Trainor,6JL8zeS1NmiOftqZTRgdTz,Title,0k5hoseEJnCAbpRh38dNoI,joy,00:02:54,75,https://open.spotify.com/track/0k5hoseEJnCAbpRh38dNoI
+MKTO,2l35CQqtYRh3d8ZIiBep4v,Classic,2Dz8KeCYs9awlwUJStJlmh,joy,00:02:55,0,https://open.spotify.com/track/2Dz8KeCYs9awlwUJStJlmh
+Pharrell Williams,2RdwBSPQiwcmiDo9kixcl8,Hug Me,6eVM9lCmIqwGTUOoeH61Lu,joy,00:02:20,76,https://open.spotify.com/track/6eVM9lCmIqwGTUOoeH61Lu
+We Three,5oYuKMBiaAc0W8Gt7FVIjb,Full Time Job,4gtkHMuEMhysN6ZitUSRBf,joy,00:02:27,51,https://open.spotify.com/track/4gtkHMuEMhysN6ZitUSRBf
+Cherub,00dwwnz3V4kRfu3UFYpJLz,Doses & Mimosas,44CZRkOxv7UItaAUmh8PgN,joy,00:05:23,70,https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN
+P!nk,1KCSPY1glIKqW2TotWuXOR,Raise Your Glass,1gv4xPanImH17bKZ9rOveR,joy,00:03:22,77,https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR
+Kesha,6LqNN22kT3074XbTVUrhzX,TiK ToK,0HPD5WQqrq7wPWR7P7Dw1i,joy,00:03:19,81,https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i
+dempsey hope,6ZzYOQMKYTj2lJeAitjSl7,strawberry cheesecake,4bh2jy0vLIrXE1Cnq2u8gG,joy,00:02:20,25,https://open.spotify.com/track/4bh2jy0vLIrXE1Cnq2u8gG
+The Chainsmokers,69GGBxA162lTqCwzJG5jLp,This Feeling,4NBTZtAt1F13VvlSKe6KTl,joy,00:03:17,74,https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl
+Shakira,0EmeFodog0BfCgMzAIvKQp,"Whenever, Wherever - Pepsi Super Bowl LIV Halftime Show Remix",59QI3gSnv576kHyV4Jqt36,joy,00:02:36,54,https://open.spotify.com/track/59QI3gSnv576kHyV4Jqt36
+Meghan Trainor,6JL8zeS1NmiOftqZTRgdTz,Dear Future Husband,3cU2wBxuV6nFiuf6PJZNlC,joy,00:03:04,74,https://open.spotify.com/track/3cU2wBxuV6nFiuf6PJZNlC
+Train,3FUY2gzHeIiaesXtOAdB7A,Turn the Radio Up (feat. Jewel),1nNfkK3cfckAyTmNRk1b60,joy,00:03:19,45,https://open.spotify.com/track/1nNfkK3cfckAyTmNRk1b60
+Miguel,360IAlyVv4PCEVjgyMZrxK,Sure Thing,0JXXNGljqupsJaZsgSbMZV,joy,00:03:15,79,https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV
+Sally Boy,0FizvTDN8BVHmV5j2fL9Hf,i love u,4h83bb7xRzB7Qo735CjLMH,joy,00:02:43,29,https://open.spotify.com/track/4h83bb7xRzB7Qo735CjLMH
+John K,73eAAfRkS2Vi4hx68oTJJE,A LOT - Remix,1cxPOIEirHd43X5qeGebUY,joy,00:02:28,58,https://open.spotify.com/track/1cxPOIEirHd43X5qeGebUY
+Haywood,3rFhVqmS6XqZl4LcGLDzAu,Human to Fall Apart,76ZRoeAgtae628jiFYDLCT,joy,00:02:54,29,https://open.spotify.com/track/76ZRoeAgtae628jiFYDLCT
+CNCO,0eecdvMrqBftK0M1VKhaF4,La Equivocada,4hM1rUoUrthsX8D4BH74MO,joy,00:03:18,67,https://open.spotify.com/track/4hM1rUoUrthsX8D4BH74MO
+Mati Gómez,23mC5tLCbMk9zqrR2dFtNE,Tu Debilidad (feat. Emilia),1XzihhvRzOHYmVImIZ9g8Q,joy,00:02:41,46,https://open.spotify.com/track/1XzihhvRzOHYmVImIZ9g8Q
+Audrey Mika,3JDG63cSaK3xgDnB2H55Xp,Strangers,16k7sLX58uNRKuueVzG6jy,joy,00:02:48,47,https://open.spotify.com/track/16k7sLX58uNRKuueVzG6jy
+Kygo,23fqKkggKUBHNkbKtXEls4,Higher Love,6oJ6le65B3SEqPwMRNXWjY,joy,00:03:48,77,https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY
+P!nk,1KCSPY1glIKqW2TotWuXOR,True Love (feat. Lily Allen),1QNqrsNQ1JVLEwncov3lEY,joy,00:03:50,72,https://open.spotify.com/track/1QNqrsNQ1JVLEwncov3lEY
+Harry Nilsson,3RTzAwFprBqiskp550eSJX,Gotta Get Up,6fvIzrJ6boUDFF19fH4S2s,joy,00:02:24,59,https://open.spotify.com/track/6fvIzrJ6boUDFF19fH4S2s
+Sean Kingston,6S0dmVVn4udvppDhZIWxCr,Beautiful Girls,1hGy2eLcmC8eKx7qr1tOqx,joy,00:03:45,79,https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx
+Sam Cooke,6hnWRPzGGKiapVX1UCdEAC,Twistin' the Night Away,7FS541dJh3iQAEXEZoDhE6,joy,00:02:39,62,https://open.spotify.com/track/7FS541dJh3iQAEXEZoDhE6
+Daryl Hall & John Oates,77tT1kLj6mCWtFNqiOmP9H,You Make My Dreams (Come True),2dlEdDEmuQsrcXaAL3Znzi,joy,00:03:10,59,https://open.spotify.com/track/2dlEdDEmuQsrcXaAL3Znzi
+Wham!,5lpH0xAS4fVfLkACg9DAuM,Wake Me Up Before You Go-Go,0ikz6tENMONtK6qGkOrU3c,joy,00:03:51,80,https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c
+Mariah Carey,4iHNK0tOyZPYnBU7nGAgpQ,Always Be My Baby,2aBxt229cbLDOvtL7Xbb9x,joy,00:04:18,73,https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x
+Billy Ocean,5IDs1CK15HegSAhGEbSYXo,"Get Outta My Dreams, Get into My Car",0pBhA8yQ5FUKyQG13x2Qmh,joy,00:05:34,58,https://open.spotify.com/track/0pBhA8yQ5FUKyQG13x2Qmh
+Boney M.,54R6Y0I7jGUCveDTtI21nb,Sunny,3pf96IFggfQuT6Gafqx2rt,joy,00:04:02,69,https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt
+Cage The Elephant,26T3LtbuGT1Fu9m0eRq5X3,Cigarette Daydreams,2tznHmp70DxMyr2XhWLOW0,joy,00:03:28,79,https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0
+Billy Joel,6zFYqv1mOsgBRQbae3JJ9e,Uptown Girl,3CSpzkoL1XgDBZ1q9aDCUV,joy,00:03:14,63,https://open.spotify.com/track/3CSpzkoL1XgDBZ1q9aDCUV
+The Romantics,3daM7asS0gCFvyLemNx2EE,What I Like About You,4VRJfWj7cNKivIggXeje8z,joy,00:02:54,37,https://open.spotify.com/track/4VRJfWj7cNKivIggXeje8z
+Justin Timberlake,31TPClRtHm23RisEBtV3X7,Mirrors,4rHZZAmHpZrA3iH5zx8frV,joy,00:08:04,79,https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV
+Pharrell Williams,2RdwBSPQiwcmiDo9kixcl8,"Happy - From ""Despicable Me 2""",60nZcImufyMA1MKQY3dcCH,joy,00:03:52,81,https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH
+Latto,3MdXrJWsbVzdn6fe5JYkSQ,Big Energy (feat. DJ Khaled) - Remix,0EJ3Kofm9hYq3hL4VZ881G,joy,00:03:01,74,https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G
+Justin Timberlake,31TPClRtHm23RisEBtV3X7,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",1WkMMavIMc4JZ8cfMmxHkI,joy,00:03:57,74,https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI
+WALK THE MOON,6DIS6PRrLS3wbnZsf7vYic,Can You Handle My Love??,7GKMstqz3UYkFvlX93qCyz,joy,00:04:16,54,https://open.spotify.com/track/7GKMstqz3UYkFvlX93qCyz
+1010 Benja SL,7xBrMNV9UKo2THKIk9xpBK,Dobby 21,5vfoUjrdaLTQHGbLbcl5lx,joy,00:03:10,27,https://open.spotify.com/track/5vfoUjrdaLTQHGbLbcl5lx
+Isaac Dunbar,2sBVpvpeQxK01FqIt5t816,celebrate,7nlvjuAdtKroFHdgqwCBKC,joy,00:03:15,43,https://open.spotify.com/track/7nlvjuAdtKroFHdgqwCBKC
+Diplo,5fMUXHkw8R8eOP2RNVYEZX,Horizon (feat. Leon Bridges),6CenzKfN5aqSMXV8yJAi43,joy,00:02:28,46,https://open.spotify.com/track/6CenzKfN5aqSMXV8yJAi43
+Keep Cool,6YihZKGlCq75jYZbfRFrtt,"Glory (feat. Mez, VanJess, ICECOLDBISHOP, Ginette Claudette & Gwen Bunn)",5zYEMdgHeGvbdPgd3tOHcu,joy,00:03:49,21,https://open.spotify.com/track/5zYEMdgHeGvbdPgd3tOHcu
+Kygo,23fqKkggKUBHNkbKtXEls4,Love Me Now (feat. Zoe Wees),1c1sdxrYLIiuJOlE7PPttb,joy,00:03:15,74,https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb
+Mike Posner,2KsP6tYLJlTBvSUxnwlVWa,Momma Always Told Me (feat. Stanaj & Yung Bae) - Matoma Remix,6QD2VjrjttjljqUZPf9R89,joy,00:03:22,37,https://open.spotify.com/track/6QD2VjrjttjljqUZPf9R89
+Adele,4dpARuHxo51G3z768sgnrY,Oh My God,3Kkjo3cT83cw09VJyrLNwX,joy,00:03:45,85,https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX
+Whitney Houston,6XpaIBNiVzIetEPCWDvAFP,How Will I Know,79wbJeLkXOlJh4AzaWCWfL,joy,00:03:33,75,https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL
+Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,Glory Days,2Y90nL1ohB4sgYELDs7uNx,joy,00:04:14,72,https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx
+Train,3FUY2gzHeIiaesXtOAdB7A,"Hey, Soul Sister",4HlFJV71xXKIGcU3kRyttv,joy,00:03:36,83,https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv
+Tom Grennan,5SHxzwjek1Pipl1Yk11UHv,Little Bit of Love,2sX7lJXsOYGP1Us6CqM9t1,joy,00:03:46,71,https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1
+Enrique Iglesias,7qG3b048QCHVRO5Pv1T5lw,PENDEJO,5cy2dREJqJAyf3CNr509W7,joy,00:02:45,67,https://open.spotify.com/track/5cy2dREJqJAyf3CNr509W7
+WALK THE MOON,6DIS6PRrLS3wbnZsf7vYic,Shut Up and Dance,0kzw2tRyuL9rzipi5ntlIy,joy,00:03:19,64,https://open.spotify.com/track/0kzw2tRyuL9rzipi5ntlIy
+Big Time Rush,0GWCNkPi54upO9WLlwjAHd,Not Giving You Up,1jzJQlaWgu7ZYqRldXXFRD,joy,00:03:00,59,https://open.spotify.com/track/1jzJQlaWgu7ZYqRldXXFRD
+Foster The People,7gP3bB2nilZXLfPHJhMdvc,Chin Music For The Unsuspecting Hero,6bePYd5M396sVoHFDg36Ub,joy,00:03:24,0,https://open.spotify.com/track/6bePYd5M396sVoHFDg36Ub
+Sigala,1IueXOQyABrMOprrzwQJWN,Somebody,6iMoJ3UdrO2ZjzzcaN8Eom,joy,00:03:58,53,https://open.spotify.com/track/6iMoJ3UdrO2ZjzzcaN8Eom
+Sofi Tukker,586uxXMyD5ObPuzjtrzO1Q,Best Friend,1zEhH5BmSpKi1mRSIfBDOq,joy,00:03:04,59,https://open.spotify.com/track/1zEhH5BmSpKi1mRSIfBDOq
+Jesper Jenset,4Q6zYbQ2MrKiEWTGB3yrPv,Bad Vibrations,6zTKuNMEU3svBn65L6u88M,joy,00:03:19,50,https://open.spotify.com/track/6zTKuNMEU3svBn65L6u88M
+Tate McRae,45dkTj5sMRSjrmBSBeiHym,what would you do?,3I1Smy5zhzNEc9grpjwY1s,joy,00:02:46,77,https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s
+Pete Tong,6n1t55WMsSIUFHrAL4mUsB,You Got the Love (feat. Jules Buckley & The Heritage Orchestra) - Live,3R2Ixz50biUsQzcla8DjeI,joy,00:04:00,43,https://open.spotify.com/track/3R2Ixz50biUsQzcla8DjeI
+Sam Cooke,6hnWRPzGGKiapVX1UCdEAC,Bring It On Home to Me,0WVTQp3SOCuMr08jh1jweV,joy,00:02:42,67,https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV
+Abraham Mateo,2bxxlINUlcMQQb39K7IopR,Quiero Decirte,7dT6ccDqmMHvz5C0d8iUND,joy,00:03:42,68,https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND
+shallow pools,5wg5i56CcvaCrZrveXt228,ice water,3AYirxvYvayyrk0u4c2ytC,joy,00:02:52,19,https://open.spotify.com/track/3AYirxvYvayyrk0u4c2ytC
+Audrey Mika,3JDG63cSaK3xgDnB2H55Xp,Excuses,6Gl9htJmNmnugLygZo15QF,joy,00:02:25,49,https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF
+Caitlyn Smith,3uikSah4dwqwuk0EidFI4R,Downtown Baby,3NIMPlnySYOfVF5Vxr4Ae1,joy,00:02:47,66,https://open.spotify.com/track/3NIMPlnySYOfVF5Vxr4Ae1
+Isaac Dunbar,2sBVpvpeQxK01FqIt5t816,Bleach,3j8mwslzqj90yjWWNwwff8,joy,00:03:39,54,https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8
+Mark Ronson,3hv9jJF3adDNsBSIQDqcjp,Uptown Funk (feat. Bruno Mars),4rmPQGwcLQjCoFq5NrTA0D,joy,00:04:30,25,https://open.spotify.com/track/4rmPQGwcLQjCoFq5NrTA0D
+Harry Styles,6KImCVD70vtIoJWnq6nGn3,Music For a Sushi Restaurant,5LYMamLv12UPbemOaTPyeV,joy,00:03:13,92,https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV
+Vampire Weekend,5BvJzeQpmsdsFp4HGUYUEx,A-Punk,5dKBaysNJtfpyNTRa5lqDb,joy,00:02:17,2,https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb
+Blue Swede,0UpuH5U4nZ3UGGUJi0Zfbp,Hooked On A Feeling,6Ac4NVYYl2U73QiTt11ZKd,joy,00:02:52,74,https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd
+Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Levitating (feat. DaBaby),5nujrmhLynf4yMoMtj8AQF,joy,00:03:23,86,https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF
+Katrina & The Waves,2TzHIUhVpeeDxyJPpQfnV3,Walking On Sunshine,05wIrZSwuaVWhcv5FfqeH0,joy,00:03:58,79,https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0
+Phoenix,1xU878Z1QtBldR7ru9owdU,Lisztomania,7zkDEBSxkcBVsStS4qBFpK,joy,00:04:01,65,https://open.spotify.com/track/7zkDEBSxkcBVsStS4qBFpK
+Outkast,1G9G7WwrXka3Z1r7aIDjI7,Hey Ya!,3AszgPDZd9q0DpDFt4HFBy,joy,00:03:59,64,https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy
+Lil Nas X,7jVv8c5Fj3E9VhNjxT4snq,THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,joy,00:02:23,90,https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO
+The Beatles,3WrFJ7ztbogyGnTHbHJFl2,Twist And Shout - Remastered,4Z1fbYp0HuxLBje4MOZcSD,joy,00:02:35,0,https://open.spotify.com/track/4Z1fbYp0HuxLBje4MOZcSD
+Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,joy,00:03:28,84,https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz
+The Buggles,057gc1fxmJ2vkctjQJ7Tal,Video Killed The Radio Star,6VwkgtOIlVboseFPCFnyJ2,joy,00:04:11,0,https://open.spotify.com/track/6VwkgtOIlVboseFPCFnyJ2
+Tai Verdes,2kCO8LXN1usaOPL3iEE28I,A-O-K,51PSUD2YHjPyAy3jnkaoy7,joy,00:02:53,22,https://open.spotify.com/track/51PSUD2YHjPyAy3jnkaoy7
+Queen,1dfeR4HaWDbWqFHLkxsg1d,Don't Stop Me Now,2RknY4IqSPwagR0v5wchIW,joy,00:03:29,0,https://open.spotify.com/track/2RknY4IqSPwagR0v5wchIW
+Måneskin,0lAWpj5szCSwM4rUMHYmrr,Beggin',3Wrjm47oTz2sjIgck11l5e,joy,00:03:31,87,https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e
+Justin Timberlake,31TPClRtHm23RisEBtV3X7,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",6JV2JOEocMgcZxYSZelKcc,joy,00:03:56,78,https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc
+Adele,4dpARuHxo51G3z768sgnrY,Can I Get It,6w8ZPYdnGajyfPddTWdthN,joy,00:03:30,76,https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN
+Wham!,5lpH0xAS4fVfLkACg9DAuM,Wake Me Up Before You Go-Go,6ZEAXknmx2mrO3KgcDNpFI,joy,00:03:43,55,https://open.spotify.com/track/6ZEAXknmx2mrO3KgcDNpFI
+BENEE,0Cp8WN4V8Tu4QJQwCN5Md4,Supalonely,4nK5YrxbMGZstTLbvj6Gxw,joy,00:03:43,74,https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw
+Daft Punk,4tZwfgrHOc3mvqYlEYSvVi,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,2Foc5Q5nqNiosCNqttzHof,joy,00:04:08,84,https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof
+Harry Styles,6KImCVD70vtIoJWnq6nGn3,Watermelon Sugar,6UelLqGlWMcVH1E5c4H7lY,joy,00:02:54,91,https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY
+OMC,4vdt8TD56jjQfmxFCmhubX,How Bizarre,6RT3PxDEQOa7m6tK502DNa,joy,00:03:44,0,https://open.spotify.com/track/6RT3PxDEQOa7m6tK502DNa
+Bruno Mars,0du5cEVh5yTK9QJze8zA0C,Treasure,55h7vJchibLdUkxdlX3fK7,joy,00:02:58,80,https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7
+The Clash,3RGLhK1IP9jnYFH4BRFJBS,Should I Stay or Should I Go - Remastered,3v8PlUFGQQDBIk1J86waCo,joy,00:03:08,65,https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo
+B?RNS,1KP6TWI40m7p3QBTU6u2xo,Electric Love,2GiJYvgVaD2HtM8GqD9EgQ,joy,00:03:38,83,https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ
+The Blues Brothers,1cHFz6lrt7KAsBV8j2Ny1g,Everybody Needs Somebody To Love,5olYKlNYCELRBQzxQ6Tr1V,joy,00:02:30,0,https://open.spotify.com/track/5olYKlNYCELRBQzxQ6Tr1V
+Jain,2HHmvvSQ44ePDH7IKVzgK0,Come,1YrC8s6yZWw23QxW6rfM9f,joy,00:02:42,60,https://open.spotify.com/track/1YrC8s6yZWw23QxW6rfM9f
+Nicky Youre,7qmpXeNz2ojlMl2EEfkeLs,Sunroof,4h4QlmocP3IuwYEj2j14p8,joy,00:02:43,89,https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8
+The Rolling Stones,22bE4uQ6baNwSHPVcDxLCe,You Can't Always Get What You Want,6lFZbCc7pn6Lme1NP7qQqQ,joy,00:07:28,68,https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ
+Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,Bam Bam (feat. Ed Sheeran),0QBzMgT7NIeoCYy3sJCof1,joy,00:03:26,92,https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1
+The Killers,0C0XlULifJtAgn6ZNCW2eu,Mr. Brightside,0eGsygTp906u18L0Oimnem,joy,00:03:42,0,https://open.spotify.com/track/0eGsygTp906u18L0Oimnem
+Dominic Fike,6USv9qhCn6zfxlBQIYJ9qs,3 Nights,0uI7yAKUf52Cn7y3sYyjiX,joy,00:02:57,72,https://open.spotify.com/track/0uI7yAKUf52Cn7y3sYyjiX
+Bobby McFerrin,2FjkZT851ez950cyPjeYid,Don't Worry Be Happy,5YbgcwHjQhdT1BYQ4rxWlD,joy,00:04:52,67,https://open.spotify.com/track/5YbgcwHjQhdT1BYQ4rxWlD
+Surfaces,4ETSs924pXMzjIeD6E9b4u,Sunday Best,1Cv1YLb4q0RzL6pybtaMLo,joy,00:02:38,79,https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo
+James Brown,7GaxyUddsPok8BuhxN6OUW,I Got You (I Feel Good),4ZrbWwFHHjPoe7cfUBJ9WQ,joy,00:02:48,0,https://open.spotify.com/track/4ZrbWwFHHjPoe7cfUBJ9WQ
+Zara Larsson,1Xylc3o4UrD53lo9CvFvVg,Lush Life,1rIKgCH4H52lrvDcz50hS8,joy,00:03:21,78,https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8
+R.E.M.,4KWTAlx2RvbpseOGMEmROg,Shiny Happy People,4er8NyQ8cFnZ2b643Tjc44,joy,00:03:44,0,https://open.spotify.com/track/4er8NyQ8cFnZ2b643Tjc44
+George Ezra,2ysnwxxNtSgbb9t1m2Ur4j,Cassy O',24fXShNbufmThxBTWWPfO1,joy,00:03:04,0,https://open.spotify.com/track/24fXShNbufmThxBTWWPfO1
+Kool & The Gang,3VNITwohbvU5Wuy5PC6dsI,Celebration - Single Version,6pc8xULSlsMdFB3OrqbvZ4,joy,00:03:35,0,https://open.spotify.com/track/6pc8xULSlsMdFB3OrqbvZ4
+LEFT.,2rsw8pxtVfU3LiTIT0CYUb,Footloose,5EKEYEvTy8GYCDSCgLPUsn,joy,00:02:48,45,https://open.spotify.com/track/5EKEYEvTy8GYCDSCgLPUsn
+Harry Styles,6KImCVD70vtIoJWnq6nGn3,As It Was,4LRPiXqCikLlN15c3yImP7,joy,00:02:47,100,https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7
+Eddy Grant,6j2HWcd7z61iTLbi8eD0hA,Gimme Hope Jo'Anna,6W99yGcIH43jskdRA7idD3,joy,00:04:03,49,https://open.spotify.com/track/6W99yGcIH43jskdRA7idD3
+Meghan Trainor,6JL8zeS1NmiOftqZTRgdTz,All About That Bass,0ifSeVGUr7py5GggttDhXw,joy,00:03:08,61,https://open.spotify.com/track/0ifSeVGUr7py5GggttDhXw
+Edward Sharpe & The Magnetic Zeros,7giUHu5pv6YTZgSkxxCcgh,Home,0cBPuDA3xUjR4Vh9o7CKy8,joy,00:05:06,73,https://open.spotify.com/track/0cBPuDA3xUjR4Vh9o7CKy8
+Johnning,1yPdXrLhRc50YbwiwCr1uN,Said and Done,3jnMhpFIw1rtQh43XnNUxs,joy,00:02:54,56,https://open.spotify.com/track/3jnMhpFIw1rtQh43XnNUxs
+Elvis Presley,43ZHCT0cAZBISjO8DG9PnE,Jailhouse Rock,6pyex9B1kBoRIuabBAc4m8,joy,00:02:35,57,https://open.spotify.com/track/6pyex9B1kBoRIuabBAc4m8
+Vance Joy,10exVja0key0uqUkk6LJRT,Riptide,3JvrhDOgAt6p7K8mDyZwRd,joy,00:03:24,80,https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd
+Camo Columbo,4PEjxQciyHLViBRsOmbrYm,A.S.S. (always sunny somewhere),0lqtePau02eM0xmOUIZ3uE,joy,00:02:51,39,https://open.spotify.com/track/0lqtePau02eM0xmOUIZ3uE
+Blur,7MhMgCo0Bl0Kukl93PZbYS,Country House,4vnYwFOZCVl0bmerWyuzRw,joy,00:03:57,52,https://open.spotify.com/track/4vnYwFOZCVl0bmerWyuzRw
+JAWNY,25pd339V2rRJo84USlcSRP,Honeypie,6FfLg6FFqhCsrFOaHIGkg0,joy,00:02:15,75,https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0
+Daryl Hall & John Oates,77tT1kLj6mCWtFNqiOmP9H,You Make My Dreams (Come True),7HX9f8AMBl0vQxAoAzLqhS,joy,00:03:07,61,https://open.spotify.com/track/7HX9f8AMBl0vQxAoAzLqhS
+Harry Styles,6KImCVD70vtIoJWnq6nGn3,Treat People With Kindness,03mMSLEJCPoGJwQhHpN5y0,joy,00:03:17,75,https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0
+Electric Light Orchestra,7jefIIksOi1EazgRTfW2Pk,Mr. Blue Sky,2RlgNHKcydI9sayD2Df2xp,joy,00:05:03,81,https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp
+MIKA,5MmVJVhhYKQ86izuGHzJYA,Grace Kelly,4Sqc0kPuZpfI0T2TZBu8JT,joy,00:03:07,0,https://open.spotify.com/track/4Sqc0kPuZpfI0T2TZBu8JT
+Bruno Mars,0du5cEVh5yTK9QJze8zA0C,Skate,2sXf2JdbB2GlNju00kw9WE,joy,00:03:23,39,https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE
+Portugal. The Man,4kI8Ie27vjvonwaB2ePh8T,Feel It Still,6QgjcU0zLnzq5OrUoSZ3OK,joy,00:02:43,77,https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK
+The Rembrandts,0gDg7FEsF4Y1jWddJJgcn4,"I'll Be There for You - Theme From ""Friends""",15tHagkk8z306XkyOHqiip,joy,00:03:08,69,https://open.spotify.com/track/15tHagkk8z306XkyOHqiip
+Saint Motel,1dWEYMPtNmvSVaDNLgB6NV,My Type,6WP4WTHzaPTCk1QrbRLhgL,joy,00:03:23,0,https://open.spotify.com/track/6WP4WTHzaPTCk1QrbRLhgL
+Edison Lighthouse,1NRzxuPpdGushT8YmF5NAa,Love Grows (Where My Rosemary Goes),5Ts1DYOuouQLgzTaisxWYh,joy,00:02:54,79,https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh
+Tones And I,2NjfBq1NflQcKSeiDooVjY,Dance Monkey,2XU0oxnq2qxCpomAAuJY8K,joy,00:03:29,80,https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K
+Dire Straits,0WwSkZ7LtFUFjGjMZBMt6T,Walk Of Life,7w4Tbkbx081vRJa8ol56Qf,joy,00:04:09,0,https://open.spotify.com/track/7w4Tbkbx081vRJa8ol56Qf
+Train,3FUY2gzHeIiaesXtOAdB7A,"Hey, Soul Sister",0KpfYajJVVGgQ32Dby7e9i,joy,00:03:36,0,https://open.spotify.com/track/0KpfYajJVVGgQ32Dby7e9i
+Calvin Harris,7CajNmpbOovFoOoasH2HaY,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",5bcTCxgc7xVfSaMV3RuVke,joy,00:03:43,82,https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke
+Of Monsters and Men,4dwdTW1Lfiq0cM8nBAqIIz,Little Talks,3O0FuEfTpt3Zn6J3pXrXVO,joy,00:04:27,0,https://open.spotify.com/track/3O0FuEfTpt3Zn6J3pXrXVO
+Duffy,37NqXwtb6nIEqRt4EJSoIO,Mercy,1dKm4a7TOYFzzTQvU59C59,joy,00:03:39,0,https://open.spotify.com/track/1dKm4a7TOYFzzTQvU59C59
+Glass Animals,4yvcSjfu4PC0CYQyLy4wSq,Heat Waves,02MWAaffLxlfxAUY7c5dvx,joy,00:03:58,91,https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx
+The Beach Boys,3oDbviiivRWhXwIE8hxkVV,Surfin' U.S.A. - Remastered 2001,7sVxvaLH9Bx9YZyBjdRpdQ,joy,00:02:28,44,https://open.spotify.com/track/7sVxvaLH9Bx9YZyBjdRpdQ
+The Kooks,1GLtl8uqKmnyCWxHmw9tL4,Shine On,5zsvG3RApT8qMVl7673FqF,joy,00:03:14,52,https://open.spotify.com/track/5zsvG3RApT8qMVl7673FqF
+The Kid LAROI,2tIP7SsRs7vjIcLrU85W8J,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,joy,00:02:21,88,https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX
+Counting Crows,0vEsuISMWAKNctLlUAhSZC,Accidentally In Love,1hy6Dic0L5SU1XqjhYY1TR,joy,00:03:08,0,https://open.spotify.com/track/1hy6Dic0L5SU1XqjhYY1TR
+Lizzo,56oDRnqbIiwx4mymNEv7dS,Juice,0k664IuFwVP557Gnx7RhIl,joy,00:03:15,78,https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl
+The Jackson 5,2iE18Oxc8YSumAU232n4rW,ABC,6nzhhT57iQYrbqumru9NNP,joy,00:02:59,0,https://open.spotify.com/track/6nzhhT57iQYrbqumru9NNP
+HAIM,4Ui2kfOqGujY81UcPrb5KE,The Wire,7KdF7Zac5eC9jutk9Qret4,joy,00:04:05,60,https://open.spotify.com/track/7KdF7Zac5eC9jutk9Qret4
+Toploader,6xeFne1rkxMhKSW3ipvkdV,Dancing in the Moonlight,1FHNctV68GUNLgXclG2DtR,joy,00:03:53,68,https://open.spotify.com/track/1FHNctV68GUNLgXclG2DtR
+Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,Don't Start Now,3PfIrDoz19wz7qK7tYeu62,joy,00:03:03,82,https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62
+Gasch,6bPslgqL7VcuMJT30beMGM,La Gloria Eres Tú,0kCGEKTnTVLQWO5K39iGhx,joy,00:02:24,34,https://open.spotify.com/track/0kCGEKTnTVLQWO5K39iGhx
+Pharrell Williams,2RdwBSPQiwcmiDo9kixcl8,"Happy - From ""Despicable Me 2""",5b88tNINg4Q4nrRbrCXUmg,joy,00:03:52,3,https://open.spotify.com/track/5b88tNINg4Q4nrRbrCXUmg
+The Proclaimers,1A92IAcd7A6npCA33oGM5i,I'm Gonna Be (500 Miles),66S14BkJDxgkYxLl5DCqOz,joy,00:03:39,72,https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz
+George Ezra,2ysnwxxNtSgbb9t1m2Ur4j,Pretty Shining People,2JVwsN6viHjR9t5pCPQ4Br,joy,00:03:32,66,https://open.spotify.com/track/2JVwsN6viHjR9t5pCPQ4Br
+Arya,7MmewOfNotqLLNt48TelbK,Homesick,1hmV2cFt3tJfvOc9zwzytY,joy,00:02:46,43,https://open.spotify.com/track/1hmV2cFt3tJfvOc9zwzytY
+Boney M.,54R6Y0I7jGUCveDTtI21nb,Sunny,3pf96IFggfQuT6Gafqx2rt,joy,00:04:02,69,https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt
+Oscar Lang,6deCiWT7ATcDWP2Cvlalvn,Drinking Wine,2zJGwCm2cqkb7q0qrOIMpY,joy,00:03:29,37,https://open.spotify.com/track/2zJGwCm2cqkb7q0qrOIMpY
+Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Viva La Vida,1mea3bSkSGXuIRvnydlB5b,joy,00:04:02,82,https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b
+Bloodhound Gang,6nDLku5uL3ou60kvCGZorh,The Bad Touch,2qONptRzQM0D3BGOgAsapI,joy,00:04:19,46,https://open.spotify.com/track/2qONptRzQM0D3BGOgAsapI
+WizTheMc,3ebS2RuCq8QeLyndUDmgB5,All My Friends Are Stoned,7BL33HmuFQien4olebugdj,joy,00:02:39,57,https://open.spotify.com/track/7BL33HmuFQien4olebugdj
+The Pointer Sisters,2kreKea2n96dXjcyAU9j5N,I'm So Excited,1ot6jEe4w4hYnsOPjd3xKQ,joy,00:03:50,72,https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ
+Crystal Fighters,75EZuo5MHV2572NRpMWotC,Love Natural,04MNyOQZDvLsW2gjAm9q2L,joy,00:03:19,0,https://open.spotify.com/track/04MNyOQZDvLsW2gjAm9q2L
+High Tropics,5ZAx5s0XKuGjKMikU9GCrC,My Girl,4S46FETQcxhXROubIV11M3,joy,00:02:45,39,https://open.spotify.com/track/4S46FETQcxhXROubIV11M3
+Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,On Top Of The World,213x4gsFDm04hSqIUkg88w,joy,00:03:12,76,https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w
+Miami Sound Machine,18xgcedCGxFbqLbIQn5R8F,Conga!,0KxTWgl64TNOQXiGFJYc6t,joy,00:04:12,59,https://open.spotify.com/track/0KxTWgl64TNOQXiGFJYc6t
+James Bay,4EzkuveR9pLvDVFNx6foYD,Best Fake Smile,0Me1AKVY2wzxOKLMiaAtNy,joy,00:03:25,48,https://open.spotify.com/track/0Me1AKVY2wzxOKLMiaAtNy
+Creedence Clearwater Revival,3IYUhFvPQItj6xySrBmZkd,Proud Mary,6pxWv6GV35VGmcPf5dh6CH,joy,00:03:07,71,https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH
+The Vaccines,0Ak6DLKHtpR6TEEnmcorKA,Norgaard,1Q8reqCOXg2yqNr47HGo9X,joy,00:01:38,0,https://open.spotify.com/track/1Q8reqCOXg2yqNr47HGo9X
+BTS,3Nrfpe0tUJi4K4DXYWgMUX,Dynamite,4saklk6nie3yiGePpBwUoc,joy,00:03:19,23,https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc
+The Mowgli's,6AGUQK1EWK6nvN4pLIDQDQ,I'm Good,2kiJ5lZQZusgWwpqA7z2i1,joy,00:02:46,0,https://open.spotify.com/track/2kiJ5lZQZusgWwpqA7z2i1
+Gloria Jones,08BQmH2M3Ew9XjMHaHsl1l,Tainted Love - Single Version,0BbA7S30mOQB94e4IBnqCt,joy,00:02:11,51,https://open.spotify.com/track/0BbA7S30mOQB94e4IBnqCt
+Emilíana Torrini,08j69Ndyx1P7RLO3Janb5P,Jungle Drum,7BXToqZFtclAj6mshYWena,joy,00:02:13,0,https://open.spotify.com/track/7BXToqZFtclAj6mshYWena
+The Cure,7bu3H8JO7d0UbMoVzbo70s,Friday I'm In Love,20CNpCKq1oTdvekXaboyeq,joy,00:03:35,0,https://open.spotify.com/track/20CNpCKq1oTdvekXaboyeq
+Anderson .Paak,3jK9MiCrA42lLAdMGUZpwa,Don't Slack (from Trolls World Tour),1bxa0TPdBMHPeZFHe0adCw,joy,00:02:54,50,https://open.spotify.com/track/1bxa0TPdBMHPeZFHe0adCw
+The Neighbourhood,77SW9BnxLY8rJ0RciFqkHh,R.I.P. 2 My Youth,07VBqWH6NG8L2ad3l84UKk,anger,00:03:25,68,https://open.spotify.com/track/07VBqWH6NG8L2ad3l84UKk
+blackbear,2cFrymmkijnjDg9SS92EPM,hot girl bummer,7aiClxsDWFRQ0Kzk5KI5ku,anger,00:03:05,5,https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku
+blackbear,2cFrymmkijnjDg9SS92EPM,idfc,3SErMoIKdRELto2OspGs5L,anger,00:03:27,81,https://open.spotify.com/track/3SErMoIKdRELto2OspGs5L
+Rico Nasty,2OaHYHb2XcFPvqL3VsyPzU,Smack a Bitch,1nrsFfACPG4Hnw5AuOpCND,anger,00:02:18,62,https://open.spotify.com/track/1nrsFfACPG4Hnw5AuOpCND
+Kesha,6LqNN22kT3074XbTVUrhzX,Woman (feat. The Dap-Kings Horns),1kJtfldK9F7XmsSiSNlbth,anger,00:03:16,66,https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth
+blackbear,2cFrymmkijnjDg9SS92EPM,DEAD TO ME,52TjUfqxgK2k4vfcyHXnp2,anger,00:03:00,0,https://open.spotify.com/track/52TjUfqxgK2k4vfcyHXnp2
+Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,FU (feat. French Montana),6dDIOU6AqgLkrjFNPgvKY6,anger,00:03:49,60,https://open.spotify.com/track/6dDIOU6AqgLkrjFNPgvKY6
+Big Sean,0c173mlxpT3dSFRgMO8XPh,I Don't Fuck With You,4w7yrP4RAeeyhfG9nJqQvS,anger,00:04:44,0,https://open.spotify.com/track/4w7yrP4RAeeyhfG9nJqQvS
+Bea Miller,1o2NpYGqHiCq7FoiYdyd1x,it's not u it's me,7cLm450e9XaPrEZTSTsfwU,anger,00:03:14,59,https://open.spotify.com/track/7cLm450e9XaPrEZTSTsfwU
+Leah Kate,6oWOHAOyBUn6aJlKIPJK9r,10 Things I Hate About You,1shKa7wLElW8CrbHOJk85M,anger,00:02:37,52,https://open.spotify.com/track/1shKa7wLElW8CrbHOJk85M
+Paramore,74XFHRwlV6OrjEM0A2NCMF,Anklebiters,3hgzEGrm5iTY6pkgJ827qX,anger,00:02:17,50,https://open.spotify.com/track/3hgzEGrm5iTY6pkgJ827qX
+No Doubt,0cQbJU1aAzvbEmTuljWLlF,Just A Girl,36bOT34EdRNrNhCWMwNJKu,anger,00:03:28,0,https://open.spotify.com/track/36bOT34EdRNrNhCWMwNJKu
+Tacocat,3h0MN1neFknEvlYKxFmSQW,Men Explain Things to Me,0s6LhO1QGJTx5unlghqGkY,anger,00:01:56,0,https://open.spotify.com/track/0s6LhO1QGJTx5unlghqGkY
+Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Heart Of Glass (Live from the iHeart Festival),5i7ThJfYLAzp2DyZuFpF6j,anger,00:03:33,68,https://open.spotify.com/track/5i7ThJfYLAzp2DyZuFpF6j
+Bea Miller,1o2NpYGqHiCq7FoiYdyd1x,THAT BITCH,77o1HdXHm1hLd7Ebe9ygd0,anger,00:03:21,69,https://open.spotify.com/track/77o1HdXHm1hLd7Ebe9ygd0
+The Neighbourhood,77SW9BnxLY8rJ0RciFqkHh,Cry Baby,0EfsDEYaSjGYd66Pr881nq,anger,00:03:55,73,https://open.spotify.com/track/0EfsDEYaSjGYd66Pr881nq
+Kelly Clarkson,3BmGtnKgCSGYIUhmivXKWX,Since U Been Gone,3xrn9i8zhNZsTtcoWgQEAd,anger,00:03:08,73,https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd
+Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,Can't Be Tamed,47cvLbenIcT3GDqFL6duZ0,anger,00:02:48,0,https://open.spotify.com/track/47cvLbenIcT3GDqFL6duZ0
+MARINA,6CwfuxIqcltXDGjfZsMd9A,Bubblegum Bitch,6IbnUaczZBT34DhaD6S18F,anger,00:02:34,79,https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F
+Paramore,74XFHRwlV6OrjEM0A2NCMF,Misery Business,6SpLc7EXZIPpy0sVko0aoU,anger,00:03:31,76,https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU
+Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,you should see me in a crown,6vsV4D8BM6PioRr1UOx0n2,anger,00:03:00,0,https://open.spotify.com/track/6vsV4D8BM6PioRr1UOx0n2
+The Runaways,5eTq3PxbOh5vgeRXKNqPyV,Cherry Bomb,7cdnq45E9aP2XDStHg5vd7,anger,00:02:18,69,https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7
+Rihanna,5pKCCKE2ajJHZ9KAiaK11H,Desperado,5I4ugX74O2xadBXW6BYrAQ,anger,00:03:06,0,https://open.spotify.com/track/5I4ugX74O2xadBXW6BYrAQ
+P!nk,1KCSPY1glIKqW2TotWuXOR,So What,7bprRkhvOXWmWpqOrEWbXu,anger,00:03:34,0,https://open.spotify.com/track/7bprRkhvOXWmWpqOrEWbXu
+5 Seconds of Summer,5Rl15oVamLq7FbSb0NNBNy,Teeth,1JRK7srBWUtAW7dPabKBwJ,anger,00:03:24,1,https://open.spotify.com/track/1JRK7srBWUtAW7dPabKBwJ
+Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Therefore I Am,54bFM56PmE4YLRnqpW6Tha,anger,00:02:54,76,https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha
+Lizzo,56oDRnqbIiwx4mymNEv7dS,Truth Hurts,3HWzoMvoF3TQfYg4UPszDq,anger,00:02:53,78,https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq
+Naomi Scott,2Zi3RrdQqk63Xj0914STkS,She's So Gone,4DTrKnvkHtwQN6kBu4XXIF,anger,00:03:06,69,https://open.spotify.com/track/4DTrKnvkHtwQN6kBu4XXIF
+Cage The Elephant,26T3LtbuGT1Fu9m0eRq5X3,Ain't No Rest for the Wicked,3Pzh926pXggbMe2ZpXyMV7,anger,00:02:55,74,https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7
+Halsey,26VFTg2z8YR0cCuwLzESi2,Nightmare,340UVheS8z3ncW9TTUhAbc,anger,00:03:51,69,https://open.spotify.com/track/340UVheS8z3ncW9TTUhAbc
+YUNGBLUD,6Ad91Jof8Niiw0lGLLi3NW,parents,68rVGSTnCiFOET9k5Vd8Se,anger,00:02:51,68,https://open.spotify.com/track/68rVGSTnCiFOET9k5Vd8Se
+lifestory,3oxqNZbDULZHf6dkg6htgb,Games,12swTXJdsE1Jf7KZnqcEfV,anger,00:02:59,17,https://open.spotify.com/track/12swTXJdsE1Jf7KZnqcEfV
+Melanie Martinez,63yrD80RY3RNEM2YDpUpO8,The Principal,7fYNunIzTO7yAHBQtvq8Fc,anger,00:02:56,63,https://open.spotify.com/track/7fYNunIzTO7yAHBQtvq8Fc
+Bea Miller,1o2NpYGqHiCq7FoiYdyd1x,S.L.U.T.,6h3lMAmmpQDFqoHk9F99IR,anger,00:02:59,68,https://open.spotify.com/track/6h3lMAmmpQDFqoHk9F99IR
+Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,all the good girls go to hell,6IRdLKIyS4p7XNiP8r6rsx,anger,00:02:48,75,https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx
+Gabby Barrett,6Iz3eq2aQGFf7TbGT2iahL,I Hope,23T0OX7QOiIUFShSzbJ5Uo,anger,00:03:30,75,https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo
+Divine Sweater,6QhdyISn8fmch9ULKyqUoH,What if They Find Me Out?,0TPB646XBox8wMqR8bHfSL,anger,00:03:36,34,https://open.spotify.com/track/0TPB646XBox8wMqR8bHfSL
+Megan Thee Stallion,181bsRPaVXVlUKXrxwZfHK,Girls in the Hood,6WbTTAGKrQtCQvmc5BuYfh,anger,00:02:34,68,https://open.spotify.com/track/6WbTTAGKrQtCQvmc5BuYfh
+bülow,5vBrKGOjN10BMwB0cJADj4,You & Jennifer,0g21KZ1XJuhwexWPLpuEt1,anger,00:02:39,69,https://open.spotify.com/track/0g21KZ1XJuhwexWPLpuEt1
+Aly & AJ,5wugb0kaq0J6nyQ5Xgd17i,Potential Breakup Song,2ieu0FHqTpBUrMoCFVL3cb,anger,00:03:38,64,https://open.spotify.com/track/2ieu0FHqTpBUrMoCFVL3cb
+COIN,0ZxZlO7oWCSYMXhehpyMvE,Run,6szw2Y2ywtth0oc7ODN3Tz,anger,00:03:26,55,https://open.spotify.com/track/6szw2Y2ywtth0oc7ODN3Tz
+The Linda Lindas,13dTrWNNrnZ3AkgNyQNKP5,Rebel Girl,0siP0kovkmgAJtTfb1OUQm,anger,00:02:41,42,https://open.spotify.com/track/0siP0kovkmgAJtTfb1OUQm
+ZAVIOR,3DpGgPr7dEY4aZot3FRI77,IF I COULD FLY,6NZSqiUgqL9FaQZ0I8uktk,anger,00:03:44,0,https://open.spotify.com/track/6NZSqiUgqL9FaQZ0I8uktk
+CeeLo Green,5nLYd9ST4Cnwy6NHaCxbj8,Fuck You,4ycLiPVzE5KamivXrAzGFG,anger,00:03:42,68,https://open.spotify.com/track/4ycLiPVzE5KamivXrAzGFG
+Pink Guy,3yJnBqAoRUNeDabdYoiYWD,Stfu,5IJbTPhcj0IjdzUaYqwe2I,anger,00:03:44,57,https://open.spotify.com/track/5IJbTPhcj0IjdzUaYqwe2I
+The Boy from the South,0YSFw7zXzSXhzCIQsiZNvW,Little Room,6WSmbloCRYkpkZUKA6jEOu,anger,00:03:24,39,https://open.spotify.com/track/6WSmbloCRYkpkZUKA6jEOu
+blackbear,2cFrymmkijnjDg9SS92EPM,queen of broken hearts,1YaLBadQjS701ZLZRGjPMX,anger,00:02:51,0,https://open.spotify.com/track/1YaLBadQjS701ZLZRGjPMX
+Melanie Martinez,63yrD80RY3RNEM2YDpUpO8,Class Fight,37pf8jSeCGlzgQPIfVHO6X,anger,00:02:41,68,https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X
+Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,shut up,3ko9jEHNt4O5fjKN65ULJp,anger,00:02:37,61,https://open.spotify.com/track/3ko9jEHNt4O5fjKN65ULJp
+Olivia Rodrigo,1McMsnEElThX1knmY4oliG,good 4 u,6PERP62TejQjgHu81OHxgM,anger,00:02:58,31,https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM
+Olivia Rodrigo,1McMsnEElThX1knmY4oliG,brutal,6SRsiMl7w1USE4mFqrOhHC,anger,00:02:23,82,https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC
+Taylor Swift,06HL4z0CvFAxyc27GXpf02,I Did Something Bad,4svZDCRz4cJoneBpjpx8DJ,anger,00:03:58,75,https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ
+Olivia O'Brien,1QRj3hoop9Mv5VvHQkwPEp,Josslyn,37ZKB38iNyKJ0xYEz9SJgk,anger,00:03:09,68,https://open.spotify.com/track/37ZKB38iNyKJ0xYEz9SJgk
+The Phantom Years,7nPaBbr6qXIZ1FmimYzcME,Former Witchcraft,2moJfyDMPr1vDBnjSGSmQY,anger,00:03:15,19,https://open.spotify.com/track/2moJfyDMPr1vDBnjSGSmQY
+Mackenzie Day,5mL20rZhkGAtjGLvlpIeJW,Stuck in the Wrong Movie,6YoZh4xZJR0rxzSedu5DGe,anger,00:03:44,20,https://open.spotify.com/track/6YoZh4xZJR0rxzSedu5DGe
+Sir Chloe,6rniTPs9zN26kYnkPdFl1U,Too Close,4zV3Og5KgrNyZEhzrZzwuk,anger,00:02:50,66,https://open.spotify.com/track/4zV3Og5KgrNyZEhzrZzwuk
+Rezz,4aKdmOXdUKX07HVd3sGgzw,Edge,4pCvnGkf7jveRMKHZosxxB,anger,00:03:43,60,https://open.spotify.com/track/4pCvnGkf7jveRMKHZosxxB
+Poppy,5mlbvTfWUOfDrUIK6dkNzv,I Disagree,5E09pgezFesGrk4ZL9T2cc,anger,00:03:13,60,https://open.spotify.com/track/5E09pgezFesGrk4ZL9T2cc
+The Living Tombstone,0I6yADrmeyvw66g7yjkqIF,My Ordinary Life,6tMdpUXfT70TD6Eh3XfB1p,anger,00:03:50,80,https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p
+Machine Gun Kelly,6TIYQ3jFPwQSRmorSezPxX,DAYWALKER! (feat. CORPSE),2NnJpRXIlx35Vij3bPZO0h,anger,00:02:17,70,https://open.spotify.com/track/2NnJpRXIlx35Vij3bPZO0h
+Hyper,6DFJfhZxwWe1yKQvRDJmdl,Spoiler - Original Mix,3BcEpBfEx2mOyCSJWIHSvu,anger,00:04:32,59,https://open.spotify.com/track/3BcEpBfEx2mOyCSJWIHSvu
+1 800 PAIN,7BT9qietxZuylsjyWGYBUR,HURT,7yOPE5LvpkynNqCk7nLEwl,anger,00:02:53,58,https://open.spotify.com/track/7yOPE5LvpkynNqCk7nLEwl
+Kaito Shoma,3Tv1UzQAvn0v0hKTxisXnR,Scary Garry,658QJ4p8WcbT3O7iWLpO1D,anger,00:01:39,76,https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D
+GHOST DATA,042mLfOBpH8OoX8A6sUYhf,Full Bodied,3vfOHusoUfUQEhGxLdM8ek,anger,00:04:08,52,https://open.spotify.com/track/3vfOHusoUfUQEhGxLdM8ek
+Arctic Monkeys,7Ln80lUS6He07XvHI8qqHH,Do I Wanna Know?,5FVd6KXrgO9B3JPmC8OPst,anger,00:04:32,85,https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst
+Muse,12Chz98pHFMPJEknJQMWvI,Supermassive Black Hole,3lPr8ghNDBLc2uZovNyLs9,anger,00:03:32,77,https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9
+MGMT,0SwO7SWeDHJijQ3XNS7xEE,Little Dark Age,2Y0iGXY6m6immVb2ktbseM,anger,00:04:59,82,https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM
+MARINA,6CwfuxIqcltXDGjfZsMd9A,Bubblegum Bitch,6IbnUaczZBT34DhaD6S18F,anger,00:02:34,79,https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F
+BONES UK,16kd5X3pBMOtXdLlX5LcAw,Beautiful Is Boring,3ZuNNlfkW5uemJek0UtEG0,anger,00:03:51,59,https://open.spotify.com/track/3ZuNNlfkW5uemJek0UtEG0
+Varien,2g1JSu9UfRcQQYb3b03Km7,Can You Feel My Heart,4cuBQhxCjoXW9EX2UqeQwo,anger,00:03:52,65,https://open.spotify.com/track/4cuBQhxCjoXW9EX2UqeQwo
+Perturbator,244uLu9lkdw39BJwlul3k8,Behemoth (Remix),1i5uaqmAkETSaIfZkcVYkx,anger,00:04:22,51,https://open.spotify.com/track/1i5uaqmAkETSaIfZkcVYkx
+Point Break Candy,0EO6OPP5FqAXOkfSHyXeuf,Hole In The Sun (feat. COS & Conway) [From Cyberpunk 2077],4zD2ASESOEE7WgTgsz6sif,anger,00:03:28,42,https://open.spotify.com/track/4zD2ASESOEE7WgTgsz6sif
+Laura Les,3sklFG9fuDAq3vbIZlkNH6,Haunted,1toNKayLMeCcVlsLGXJl7n,anger,00:01:42,73,https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n
+Daichi Yamamoto,5jgE1ulvZ7sJpjlTwAOWPd,One Way,4QgV6dN5x5Z0rBfcVkjggQ,anger,00:03:10,0,https://open.spotify.com/track/4QgV6dN5x5Z0rBfcVkjggQ
+Penelope Scott,3u6lPufHw4Oww6D88rv6sB,Cigarette Ahegao,6UYJYgY8VRo6mKrhgTe1CF,anger,00:03:03,51,https://open.spotify.com/track/6UYJYgY8VRo6mKrhgTe1CF
+Freddie Dredd,0dlDsD7y6ccmDm8tuWCU6F,Opaul,4areFtLMjGt4GmO4IAbGo0,anger,00:02:20,0,https://open.spotify.com/track/4areFtLMjGt4GmO4IAbGo0
+My Chemical Romance,7FBcuc1gsnv6Y1nwFtNRCb,Teenagers,7j31rVgGX9Q2blT92VBEA0,anger,00:02:41,81,https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0
+Vandal Moon,0b0HjXjfkApMcVJqsH8wYX,Robot Lover,7xyPBAjNZmyRVEWiiXzdIt,anger,00:04:22,36,https://open.spotify.com/track/7xyPBAjNZmyRVEWiiXzdIt
+Rico Nasty,2OaHYHb2XcFPvqL3VsyPzU,Smack A Bitch,3Zm27XyCDoAqHMGte5ydxQ,anger,00:02:18,61,https://open.spotify.com/track/3Zm27XyCDoAqHMGte5ydxQ
+Elita,7ApzfFN0BmeeVJPsQBReRv,I Hate Everyone but You,51Xha6ufwqMSq2J8quPwgb,anger,00:02:51,55,https://open.spotify.com/track/51Xha6ufwqMSq2J8quPwgb
+Rico Nasty,2OaHYHb2XcFPvqL3VsyPzU,OHFR?,3IBGU1NgiTjDsIJn2Jtdg4,anger,00:02:00,51,https://open.spotify.com/track/3IBGU1NgiTjDsIJn2Jtdg4
+Stegosaurus Rex,2D5kO95AWEXMHRvqvCKb7K,Nowhere To Run,2PJhATOD9dWsevezmfjoMA,anger,00:05:00,69,https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA
+IC3PEAK,3luonLzvSOxdU8ytCaEIK8,TRRST,4A0YuzcYuEEP8A3oEZTddL,anger,00:03:04,66,https://open.spotify.com/track/4A0YuzcYuEEP8A3oEZTddL
+Glass Animals,4yvcSjfu4PC0CYQyLy4wSq,Take A Slice,37adYGaYaAWTGhBaOzX4Fh,anger,00:03:49,71,https://open.spotify.com/track/37adYGaYaAWTGhBaOzX4Fh
+Bring Me The Horizon,1Ffb6ejR6Fe5IamqA5oRUF,Can You Feel My Heart,0WSa1sucoNRcEeULlZVQXj,anger,00:03:48,80,https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj
+Cypress Hill,4P0dddbxPil35MNN9G2MEX,Insane in the Brain,1oTHteQbmJw15rPxPVXUTv,anger,00:03:28,75,https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv
+Halogen,0Za5KjrhmN4OYMr04f3g1e,U Got That,55gKq9bOAPRAcOQInZ76tH,anger,00:03:07,61,https://open.spotify.com/track/55gKq9bOAPRAcOQInZ76tH
+Freddie Dredd,0dlDsD7y6ccmDm8tuWCU6F,GTG,46M2hXnaQpueG7vSvgVtVH,anger,00:01:33,75,https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH
+SiM,2BM933ADIluGGrPBOhPgIt,Devil in Your Heart,3w8qOAwbHF6zYeYT7pj7DI,anger,00:03:06,58,https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI
+Ghostemane,3uL4UpqShC4p2x1dJutoRW,I duckinf hatw you,6LHhaWs0HzuPhflDWiVtp1,anger,00:01:57,72,https://open.spotify.com/track/6LHhaWs0HzuPhflDWiVtp1
+Maretu,7p1fL0cAuCPDMG6oBswFhM,SIU,22tot0Y6uKuWdAZnEQyB6g,anger,00:04:38,64,https://open.spotify.com/track/22tot0Y6uKuWdAZnEQyB6g
+Hollywood Undead,0CEFCo8288kQU7mJi25s6E,Riot,1igr912oduAmZQaoGhiADw,anger,00:03:47,65,https://open.spotify.com/track/1igr912oduAmZQaoGhiADw
+Freddie Dredd,0dlDsD7y6ccmDm8tuWCU6F,Killin' On Demand,2qOfyyZc41LfQ63U9p3GVV,anger,00:02:09,66,https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV
+Gorillaz,3AA28KZvwAUcZuOKwyblJQ,Dirty Harry,2bfGNzdiRa1jXZRdfssSzR,anger,00:03:50,72,https://open.spotify.com/track/2bfGNzdiRa1jXZRdfssSzR
+Eminem,7dGJo4pcD2V6oG8kP0tJRR,Godzilla (feat. Juice WRLD),7FIWs0pqAYbP91WWM0vlTQ,anger,00:03:30,84,https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ
+Iggy Azalea,5yG7ZAZafVaAlMTeBybKAL,Kream (feat. Tyga),5mu1uv8RmzDkF8foePK5qa,anger,00:02:46,68,https://open.spotify.com/track/5mu1uv8RmzDkF8foePK5qa
+Ghostemane,3uL4UpqShC4p2x1dJutoRW,Flesh,1Ae2QJGUPtnCzdA4XYn1NF,anger,00:01:19,68,https://open.spotify.com/track/1Ae2QJGUPtnCzdA4XYn1NF
+PlayaPhonk,1SwmXTElW9TlkK2Rydgb4D,PHONKY TOWN,0BRbI3ZMPXuj9yA7ChDGOW,anger,00:02:21,1,https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW
+The Living Tombstone,0I6yADrmeyvw66g7yjkqIF,Discord,611nlMA40SKg9gQ4pTVXT3,anger,00:03:13,69,https://open.spotify.com/track/611nlMA40SKg9gQ4pTVXT3
+Never Get Used To People,0j5kVHxvTgUN4nBIPKCLRJ,Life Letters,29VdNzgJIxzlIDkIYjFQqS,anger,00:02:28,70,https://open.spotify.com/track/29VdNzgJIxzlIDkIYjFQqS
+Kensuke Ushio,4L0gz16xuM1as1OgYzh1SR,Smells Blood,6ZRxnIHvjN0qTVRwz3PLtO,anger,00:01:49,63,https://open.spotify.com/track/6ZRxnIHvjN0qTVRwz3PLtO
+Ricky Desktop,6CTStccOisUTgXVrtCIANm,The Bard's Last Note,3VSc3H3iFGzKp18A5wDDTj,anger,00:02:06,60,https://open.spotify.com/track/3VSc3H3iFGzKp18A5wDDTj
+Pharmacist,6VlPp1wb53ANKMIwZPJfM0,North Memphis,0SzDVyiiUDpuhzrphnoejr,anger,00:02:15,74,https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr
+Kim Dracula,526TMJFuJibm9j2p9td9Yp,Paparazzi,3rchFjeKZ0bJxO7EEdM3S5,anger,00:03:12,1,https://open.spotify.com/track/3rchFjeKZ0bJxO7EEdM3S5
+GRAVEDGR,1kiZfWU37oS0pCOV7Os1Pj,RAMPAGE,2QanQ4WoQAb8zwOzweQihV,anger,00:02:59,54,https://open.spotify.com/track/2QanQ4WoQAb8zwOzweQihV
+Jah,6Ok2bPUzPMVOVwytL2jakj,Sweatpants-(Battle Tapes Remix),6QtxsTFmAgeXtT8pzCs9NU,anger,00:04:12,48,https://open.spotify.com/track/6QtxsTFmAgeXtT8pzCs9NU
+Swervy,0YE7929Kw8hXmap9LKxUiC,ART GANG MONEY (feat. Reddy),2JPq1X34utburxMaQlnFkZ,anger,00:03:14,47,https://open.spotify.com/track/2JPq1X34utburxMaQlnFkZ
+The Prophet,2iRqqPkOyIvvb7qFZN1Onz,Wanna Play?,6iBL6TOzsO75Yz0cG1MO0o,anger,00:03:21,67,https://open.spotify.com/track/6iBL6TOzsO75Yz0cG1MO0o
+Lil Darkie,62F9BiUmjqeXbBztCwiX1U,HAHA,18Gcl5bxdd8bpBhWOj1rCR,anger,00:02:40,65,https://open.spotify.com/track/18Gcl5bxdd8bpBhWOj1rCR
+SyKo,08ZqXO40nMrhBoGma4kls2,#BrooklynBloodPop!,7K9Z3yFNNLv5kwTjQYGjnu,anger,00:02:25,77,https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu
+Eminem,7dGJo4pcD2V6oG8kP0tJRR,Venom - Music From The Motion Picture,2SL6oP2YAEQbqsrkOzRGO4,anger,00:04:29,76,https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4
+Full Tac,5ZXkHp732tYHIzqctoZP0E,Where's My Juul??,1Z4Qpr8whv736dKLT8JLa7,anger,00:01:45,0,https://open.spotify.com/track/1Z4Qpr8whv736dKLT8JLa7
+Ayesha Nicole Smith,3rYlF5arfhYwRbxmNcicat,Literal Legend,04S5441cZXHu55Xx2wvwIh,anger,00:02:44,0,https://open.spotify.com/track/04S5441cZXHu55Xx2wvwIh
+Kawai Sprite,19nnKeOt6Vo1g0ijPcFxdu,M.I.L.F,0VfMdTYBS675BBmEs54G4c,anger,00:02:04,55,https://open.spotify.com/track/0VfMdTYBS675BBmEs54G4c
+WHOKILLEDXIX,0RSogp4qeGu0ZM71JRTay3,spy?,0QsZ3W21xNvnUnUMbiAY4z,anger,00:02:33,69,https://open.spotify.com/track/0QsZ3W21xNvnUnUMbiAY4z
+Ferdinand fka Left Boy,2gIGkRqCo4NK2PUCI8u4aQ,Nothing Will Be the Same (Sweet Dreams) [Father of God],1iIr8nqI1wu4TVmFnTcJQ9,anger,00:01:32,39,https://open.spotify.com/track/1iIr8nqI1wu4TVmFnTcJQ9
+Foster The People,7gP3bB2nilZXLfPHJhMdvc,Pumped Up Kicks,7w87IxuO7BDcJ3YUqCyMTT,anger,00:03:59,84,https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT
+Harry Styles,6KImCVD70vtIoJWnq6nGn3,Kiwi,33SNO8AaciGbNaQFkxvPrW,anger,00:02:56,80,https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW
+Eurythmics,0NKDgy9j66h3DLnN8qu1bB,Sweet Dreams (Are Made of This) - Remastered,1TfqLAPs4K3s2rJMoCokcS,anger,00:03:36,82,https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS
+Block B,4RnezwRV7VBJUCI1S0AE5u,NalinA,7dgO6H1BxXeXfxDkiDN8E9,anger,00:03:22,58,https://open.spotify.com/track/7dgO6H1BxXeXfxDkiDN8E9
+The Living Tombstone,0I6yADrmeyvw66g7yjkqIF,It's Been So Long,463r5bsN1VqGXtaMctn4Rr,anger,00:02:54,73,https://open.spotify.com/track/463r5bsN1VqGXtaMctn4Rr
+ENCASSATOR,3XCfdFic107Iv8zMzyRTJt,Never Met!,2VOfLVDbL5ZAxJhFaFNolo,anger,00:01:32,63,https://open.spotify.com/track/2VOfLVDbL5ZAxJhFaFNolo
+Evanescence,5nGIFgo0shDenQYSE0Sn7c,Bring Me To Life,0COqiPhxzoWICwFCS4eZcp,anger,00:03:55,81,https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp
+Graveyardguy,4TzljaoVuVfN0TQpPluB7T,Final Girl,1Ti848oQ94RjA39I0EQsmc,anger,00:03:47,50,https://open.spotify.com/track/1Ti848oQ94RjA39I0EQsmc
+Chauncey666,2RrDgEA06BdjYXlzCHRmUh,Bxmb Threat,31ldlcKiIYUAD89N9sJGWp,anger,00:02:27,9,https://open.spotify.com/track/31ldlcKiIYUAD89N9sJGWp
+Pisse,5rtJUzDnPO5m2cDubKH5u3,Fahrradsattel,3svmi1v7HMlyYb7Pnossz6,anger,00:01:49,71,https://open.spotify.com/track/3svmi1v7HMlyYb7Pnossz6
+Varien,2g1JSu9UfRcQQYb3b03Km7,Blood Hunter,7FWV0SaFxRg7TLjo163VgN,anger,00:04:00,52,https://open.spotify.com/track/7FWV0SaFxRg7TLjo163VgN
+Noisestorm,2BuSNpxpMGJGiAAWJYJT2t,Barracuda,2lQi7Cdz78ir7MJcW6qTTd,anger,00:04:22,48,https://open.spotify.com/track/2lQi7Cdz78ir7MJcW6qTTd
+Audioslave,2ziB7fzrXBoh1HUPS6sVFn,Gasoline,33AxY0QUitvte6JV6B6uLE,anger,00:04:39,59,https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE
+WHOKILLEDXIX,0RSogp4qeGu0ZM71JRTay3,Kismet,3owRFZTvTuWgNlUkbI6YgS,anger,00:02:51,56,https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS
+Perturbator,244uLu9lkdw39BJwlul3k8,Humans Are Such Easy Prey,67dA1a6OCUtLHgq9qdQ216,anger,00:04:22,50,https://open.spotify.com/track/67dA1a6OCUtLHgq9qdQ216
+Pretty Sick,5JUGL6ec4eULQ5eVEbOC7e,Bet My Blood,1VkDsso47HItKLQh98kGfL,anger,00:02:59,26,https://open.spotify.com/track/1VkDsso47HItKLQh98kGfL
+Evanescence,5nGIFgo0shDenQYSE0Sn7c,Going Under,3UygY7qW2cvG9Llkay6i1i,anger,00:03:34,71,https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i
+WHOKILLEDXIX,0RSogp4qeGu0ZM71JRTay3,POSSESSION,3TC2oGtntEwVC1Gk1npHFI,anger,00:03:09,36,https://open.spotify.com/track/3TC2oGtntEwVC1Gk1npHFI
+M.I.A.,0QJIPDAEDILuo8AIq3pMuU,Bad Girls,6nzXkCBOhb2mxctNihOqbb,anger,00:03:47,76,https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb
+Fall Out Boy,4UXqAaa6dQYAk18Lv7PEgX,My Songs Know What You Did In The Dark (Light Em Up),2E43WFS4rRc09za2r2GmZl,anger,00:03:06,73,https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl
+Deathbeds AU,2CA3NHP7ecfgsgczb2TApg,A Night in Hell,78dflnXmmb9kBDNk7XIdYn,anger,00:03:32,32,https://open.spotify.com/track/78dflnXmmb9kBDNk7XIdYn
+Haarper,3v0QTRruILayLe5VsaYdvk,Drop It Like It's Hot!,07lMhgpMlwHXQgEs2pXmhg,anger,00:02:15,65,https://open.spotify.com/track/07lMhgpMlwHXQgEs2pXmhg
+Chroma Music,245eyw30aRpuB8weCYHAaE,Orch Compression,1NSNsucHrizvMEfer2tQ5D,anger,00:02:34,50,https://open.spotify.com/track/1NSNsucHrizvMEfer2tQ5D
+Bring Me The Horizon,1Ffb6ejR6Fe5IamqA5oRUF,Kingslayer (feat. BABYMETAL),7CAbF0By0Fpnbiu6Xn5ZF7,anger,00:03:40,70,https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7
+VALORANT,3wrFoI9EVjWg6m8xXeWr5t,Die For You,2lz3zjQ5QCVXiyOzIk02vW,anger,00:03:32,74,https://open.spotify.com/track/2lz3zjQ5QCVXiyOzIk02vW
+BTS,3Nrfpe0tUJi4K4DXYWgMUX,Dionysus,6JdS5rJvJaRA7B1tcm7kxZ,anger,00:04:09,9,https://open.spotify.com/track/6JdS5rJvJaRA7B1tcm7kxZ
+SB19,3g7vYcdDXnqnDKYFwqXBJP,Bazinga,5QZw4F3N3PvuKNKHm9L20b,anger,00:03:22,56,https://open.spotify.com/track/5QZw4F3N3PvuKNKHm9L20b
+Slipknot,05fG473iIaoy82BF1aGhL8,Psychosocial,2MvIMgtWyK88OiPi0J8Dg3,anger,00:04:43,65,https://open.spotify.com/track/2MvIMgtWyK88OiPi0J8Dg3
+Ghostemane,3uL4UpqShC4p2x1dJutoRW,Vagabond,48TYKdjkiIN6brcIilEVWB,anger,00:01:54,62,https://open.spotify.com/track/48TYKdjkiIN6brcIilEVWB
+Kesha,6LqNN22kT3074XbTVUrhzX,Blow,3pYDZTJM2tVBUhIRifWVzI,anger,00:03:39,70,https://open.spotify.com/track/3pYDZTJM2tVBUhIRifWVzI
+UNSECRET,721Thvnq29Or9LXUyfF75c,Vendetta,5aoPr7WqSXDqaYnmIluPdW,anger,00:03:33,49,https://open.spotify.com/track/5aoPr7WqSXDqaYnmIluPdW
+Cowbell Cult,39M7VBSU9jF9IpmkNQeycY,Smoke,1kaU2OVc5Zj1uFaw50W8ZE,anger,00:01:54,72,https://open.spotify.com/track/1kaU2OVc5Zj1uFaw50W8ZE
+iamjakehill,26JloX1vHxGGrGUVeMItFJ,By the Sword,3HsFSrIsbO54TFDfG66pZm,anger,00:02:05,74,https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm
+Under Delusion,37dhXDLeWUMsXg2czcmMRY,Pain,43YtVH3bhs3JE91QIgJEoP,anger,00:03:50,13,https://open.spotify.com/track/43YtVH3bhs3JE91QIgJEoP
+L'Orchestra Cinematique,4m1i53DaEliWzSkSFwqv5W,The Batman - Something in the Way - Cover Version,08FPeFnRCDlQG3qKzzgELu,anger,00:04:13,52,https://open.spotify.com/track/08FPeFnRCDlQG3qKzzgELu
+Adele,4dpARuHxo51G3z768sgnrY,Make You Feel My Love,0mqTcM8kuu2IYPotMt7AzS,love,00:03:32,2,https://open.spotify.com/track/0mqTcM8kuu2IYPotMt7AzS
+Leonard Cohen,5l8VQNuIg0turYE1VtM9zV,Dance Me to the End of Love,3AlnKlr9gYKaqK4QSenf82,love,00:04:37,0,https://open.spotify.com/track/3AlnKlr9gYKaqK4QSenf82
+Aerosmith,7Ey4PD4MYsKc5I2dolUwbH,"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",225xvV8r1yKMHErSWivnow,love,00:04:58,74,https://open.spotify.com/track/225xvV8r1yKMHErSWivnow
+Extreme,6w7j5wQ5AI5OQYlcM15s2L,More Than Words,7z0JcZ8PQoAfUaLIXvbyTH,love,00:05:35,0,https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH
+Wet Wet Wet,2u0gw0uCWBMiqV7h0N8kai,"Love Is All Around - From ""Four Weddings and a Funeral"" Original Motion Picture Soundtrack",7B7yeOj6uXOY9qPsOFtkHE,love,00:03:55,0,https://open.spotify.com/track/7B7yeOj6uXOY9qPsOFtkHE
+The Righteous Brothers,4b0WsB47XCa9F83BmwQ7WX,Unchained Melody,2ACjOtICHXrAlP3ijVMSvb,love,00:03:35,61,https://open.spotify.com/track/2ACjOtICHXrAlP3ijVMSvb
+Foreigner,6IRouO5mvvfcyxtPDKMYFN,I Want to Know What Love Is - 2008 Remaster,5DeXQ3qADuDmqsosnZAK3o,love,00:04:55,61,https://open.spotify.com/track/5DeXQ3qADuDmqsosnZAK3o
+Bon Jovi,58lV9VcRSjABbAbfWS6skp,Always,7o10Pto0YFchZl1zL4dLPH,love,00:05:53,0,https://open.spotify.com/track/7o10Pto0YFchZl1zL4dLPH
+Elvis Presley,43ZHCT0cAZBISjO8DG9PnE,Love Me Tender,63bRYCK3PTIKJkBgoqj11T,love,00:02:48,0,https://open.spotify.com/track/63bRYCK3PTIKJkBgoqj11T
+Frank Sinatra,1Mxqyy3pSjf8kZZL4QVxS0,Strangers In The Night - Remastered ) [The Frank Sinatra Collection],6qAWJdpqAhaE6Yqy15Omax,love,00:02:44,0,https://open.spotify.com/track/6qAWJdpqAhaE6Yqy15Omax
+Dinah Washington,32LHRiof0sa4taYew9i3Fa,What A Difference A Day Makes,1IRptRzJ7ZqtkXTqWJ1q5o,love,00:02:29,0,https://open.spotify.com/track/1IRptRzJ7ZqtkXTqWJ1q5o
+Whitney Houston,6XpaIBNiVzIetEPCWDvAFP,I Will Always Love You,2ZpjnusToPrH3KCFKJIcTJ,love,00:04:30,0,https://open.spotify.com/track/2ZpjnusToPrH3KCFKJIcTJ
+Bee Gees,1LZEQNv7sE11VDY3SdxQeN,How Deep Is Your Love (2007 Remastered Saturday Night Fever LP Version),1gIKd24bixkgYzuxse32oR,love,00:04:05,0,https://open.spotify.com/track/1gIKd24bixkgYzuxse32oR
+Bryan Adams,3Z02hBLubJxuFJfhacLSDc,(Everything I Do) I Do It For You,5nydh0uIcz9gxSoJY6FtTn,love,00:06:33,0,https://open.spotify.com/track/5nydh0uIcz9gxSoJY6FtTn
+Stevie Wonder,7guDJrEfX3qb6FEbdPA5qi,I Just Called To Say I Love You,6VAKyYoJQu1hwjWNvxQVTt,love,00:04:20,0,https://open.spotify.com/track/6VAKyYoJQu1hwjWNvxQVTt
+Eric Clapton,6PAt558ZEZl0DmdXlnjMgD,Wonderful Tonight,3GBGdtSuPKI81bzrniHuF3,love,00:03:42,52,https://open.spotify.com/track/3GBGdtSuPKI81bzrniHuF3
+Take That,1XgFuvRd7r5g0h844A5ZUQ,Back for Good - Radio Mix,1cnoj3gWltCrWBZ77jZtmj,love,00:04:01,0,https://open.spotify.com/track/1cnoj3gWltCrWBZ77jZtmj
+U2,51Blml2LZPmy7TTiAg47vQ,With Or Without You,0tP5ogrxKrIPKHHc0seuOr,love,00:04:56,0,https://open.spotify.com/track/0tP5ogrxKrIPKHHc0seuOr
+Roxette,2SHhfs4BiDxGQ3oxqf0UHY,"It Must Have Been Love - From the Film ""Pretty Woman""",1JZZkORheU1RpGqJdZ77WL,love,00:04:18,59,https://open.spotify.com/track/1JZZkORheU1RpGqJdZ77WL
+Aretha Franklin,7nwUJBm0HE4ZxD3f5cy5ok,You Make Me Feel Like a Natural Woman,6UDR3ZoczQudPouT7Wa4DR,love,00:02:43,0,https://open.spotify.com/track/6UDR3ZoczQudPouT7Wa4DR
+Cyndi Lauper,2BTZIqw0ntH9MvilQ3ewNY,Time After Time,5tzbM8m70V977Ezpfk8IPS,love,00:04:01,0,https://open.spotify.com/track/5tzbM8m70V977Ezpfk8IPS
+Etta James,0iOVhN3tnSvgDbcg25JoJb,At Last,1hXIdXjAI4nWz4qnJ28iO2,love,00:03:01,0,https://open.spotify.com/track/1hXIdXjAI4nWz4qnJ28iO2
+The Police,5NGO30tJxFlKixkPSgXcFE,Every Breath You Take - Remastered 2003,5C0LFQARavkPpn7JgA4sLk,love,00:04:13,0,https://open.spotify.com/track/5C0LFQARavkPpn7JgA4sLk
+Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Thinking out Loud,34gCuhDGsG4bRPIf9bb02f,love,00:04:41,83,https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f
+The Beach Boys,3oDbviiivRWhXwIE8hxkVV,God Only Knows - Mono / 1997 Remastered,6iGU74CwXuT4XVepjc9Emf,love,00:02:53,69,https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf
+The Cure,7bu3H8JO7d0UbMoVzbo70s,Just Like Heaven,5ft1GmMZA4uNX7afvQfDLn,love,00:03:32,0,https://open.spotify.com/track/5ft1GmMZA4uNX7afvQfDLn
+Bonnie Tyler,0SD4eZCN4Kr0wQk56hCdh2,Total Eclipse of the Heart,5prTs2HAw2G4idHZyeFp8o,love,00:04:29,1,https://open.spotify.com/track/5prTs2HAw2G4idHZyeFp8o
+Billy Joel,6zFYqv1mOsgBRQbae3JJ9e,Just the Way You Are,49MHCPzvMLXhRjDantBMVH,love,00:04:50,71,https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH
+Joe Cocker,3pFCERyEiP5xeN2EsPXhjI,You Are So Beautiful,7nb2hZWBxeG38lwcRjFqn4,love,00:02:42,45,https://open.spotify.com/track/7nb2hZWBxeG38lwcRjFqn4
+Sade,47zz7sob9NUcODy0BTDvKx,By Your Side,4jsdqalaKwDTdPGLvps128,love,00:04:34,0,https://open.spotify.com/track/4jsdqalaKwDTdPGLvps128
+Michael Bolton,6YHEMoNPbcheiWS2haGzkn,To Love Somebody,4sfp6LZbn9d2cz7mRej2uC,love,00:04:06,37,https://open.spotify.com/track/4sfp6LZbn9d2cz7mRej2uC
+Guns N' Roses,3qm84nBOXUEQ2vnTfUTTFC,November Rain,11C3oTzP4WJ2UlU3TzHtCK,love,00:08:56,0,https://open.spotify.com/track/11C3oTzP4WJ2UlU3TzHtCK
+Pretenders,0GByy3DcfbQwDvXGCWmzv9,I'll Stand by You,3Nf8oGn1okobzjDcFCvT6n,love,00:04:00,72,https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n
+Harold Melvin & The Blue Notes,438JBZR1AR0l04AzcYW9gy,If You Don't Know Me By Now,31wpOrxlPwpVEyfhP0OZc7,love,00:03:26,0,https://open.spotify.com/track/31wpOrxlPwpVEyfhP0OZc7
+Norah Jones,2Kx7MNY7cI1ENniW7vT30N,Come Away With Me,6FfNvhSR9n9XtY7RcKSKAW,love,00:03:17,0,https://open.spotify.com/track/6FfNvhSR9n9XtY7RcKSKAW
+Nat King Cole,7v4imS0moSyGdXyLgVTIV7,Unforgettable - Remastered 2003,4McEgTY1HFmggyonYf9H4o,love,00:03:09,0,https://open.spotify.com/track/4McEgTY1HFmggyonYf9H4o
+Roberta Flack,0W498bDDNlJIrYMKXdpLHA,The First Time Ever I Saw Your Face,0SxFyA4FqmEQqZVuAlg8lf,love,00:04:20,64,https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf
+Dinah Washington,32LHRiof0sa4taYew9i3Fa,What A Diff'rence A Day Made,2AwOR6uXiSH1vHDbz5vVGi,love,00:02:31,0,https://open.spotify.com/track/2AwOR6uXiSH1vHDbz5vVGi
+Jason Mraz,4phGZZrJZRo4ElhRtViYdl,I'm Yours,36j4mlX0IWUtWlWqiwvWXI,love,00:04:02,37,https://open.spotify.com/track/36j4mlX0IWUtWlWqiwvWXI
+The Goo Goo Dolls,2sil8z5kiy4r76CRTXxBCA,Iris,6Qyc6fS4DsZjB2mRW9DsQs,love,00:04:49,84,https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs
+The Beatles,3WrFJ7ztbogyGnTHbHJFl2,Something - Remastered,7oSUp4yZ0FbuSvVmCxH2ty,love,00:03:02,0,https://open.spotify.com/track/7oSUp4yZ0FbuSvVmCxH2ty
+Bon Iver,4LEiUm1SRbFMgfqnQTwUbQ,Skinny Love,1NyFRrFiJAJIaR6icj1goI,love,00:03:58,1,https://open.spotify.com/track/1NyFRrFiJAJIaR6icj1goI
+Marvin Gaye,3koiLjNrgRTNbOwViDipeA,Let's Get It On,4Edtgs4Io5HYYN6MDZ4i5G,love,00:04:52,0,https://open.spotify.com/track/4Edtgs4Io5HYYN6MDZ4i5G
+Patti Smith,0vYkHhJ48Bs3jWcvZXvOrP,Because the Night,1A3OA6zON5HHueFm4ejrRF,love,00:03:22,55,https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF
+Barry White,3rfgbfpPSfXY40lzRK7Syt,"You're The First, The Last, My Everything",0jIA3DQGOF7rY6Z0py3XOw,love,00:03:26,0,https://open.spotify.com/track/0jIA3DQGOF7rY6Z0py3XOw
+Alicia Keys,3DiDSECUqqY1AuBP8qtaIa,Fallin',0KQx6HOpJueiSkztcS0r7D,love,00:03:30,68,https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D
+Whitesnake,3UbyYnvNIT5DFXU4WgiGpP,Is This Love,78FzQfooQzB43sGzlpI2At,love,00:04:44,56,https://open.spotify.com/track/78FzQfooQzB43sGzlpI2At
+The Rolling Stones,22bE4uQ6baNwSHPVcDxLCe,Angie,0Bj15uTA1d1itAneIuIo0n,love,00:04:32,41,https://open.spotify.com/track/0Bj15uTA1d1itAneIuIo0n
+Oasis,2DaxqgrOhkeH0fpeiQq2f4,Wonderwall,79RUMZfMNMpqZnswovvTqv,love,00:04:18,1,https://open.spotify.com/track/79RUMZfMNMpqZnswovvTqv
+New Order,0yNLKJebCb8Aueb54LYya3,Bizarre Love Triangle,6wVViUl2xSRoDK2T7dMZbR,love,00:04:23,65,https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR
+Frank Sinatra,1Mxqyy3pSjf8kZZL4QVxS0,Somethin' Stupid,3cVWNLd0uEHkc2tnBoE3Ay,love,00:02:42,0,https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay
+Ella Fitzgerald,5V0MlUE1Bft0mbLlND7FJz,Ev'ry Time We Say Goodbye,2VAZBYkcRiD3JD8aimEEG5,love,00:03:32,0,https://open.spotify.com/track/2VAZBYkcRiD3JD8aimEEG5
+The Beautiful South,4fomCZiFUMX73KJ0YQ0V90,Dream A Little Dream,4YLWkcSJPc1ArHLCd9UrUg,love,00:03:33,0,https://open.spotify.com/track/4YLWkcSJPc1ArHLCd9UrUg
+Gram Parsons,1KA3WXYMPLxomNuoE22LYd,Love Hurts - 2007 Remaster,72DefuF22C6aPKrWhRFCBS,love,00:03:42,51,https://open.spotify.com/track/72DefuF22C6aPKrWhRFCBS
+Nina Simone,7G1GBhoKtEPnP86X2PvEYO,My Baby Just Cares For Me,1XieuY2bxCfXNHwSDJQrPs,love,00:03:35,35,https://open.spotify.com/track/1XieuY2bxCfXNHwSDJQrPs
+Elvis Presley,43ZHCT0cAZBISjO8DG9PnE,Love Me Tender,0aDmZSsj0OqOcscNlsASlm,love,00:03:25,0,https://open.spotify.com/track/0aDmZSsj0OqOcscNlsASlm
+Queen,1dfeR4HaWDbWqFHLkxsg1d,Love Of My Life - Remastered 2011,2yX3h3NRoMWGfnXxZlF92X,love,00:03:33,0,https://open.spotify.com/track/2yX3h3NRoMWGfnXxZlF92X
+Scorpions,27T030eWyCQRmDyuvr1kxY,Still Loving You,0RdUX4WE0fO30VnlUbDVL6,love,00:06:43,73,https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6
+Sam Smith,2wY79sveU1sp5g7SokKOiI,Stay With Me,3Iw3nzrDdEuW4ypiZCgCtE,love,00:02:52,39,https://open.spotify.com/track/3Iw3nzrDdEuW4ypiZCgCtE
+UB40,69MEO1AADKg1IZrq2XLzo5,(I Can't Help) Falling In Love With You,7ojJ4XvqBhBcteM0zjMebT,love,00:03:27,70,https://open.spotify.com/track/7ojJ4XvqBhBcteM0zjMebT
+Mariah Carey,4iHNK0tOyZPYnBU7nGAgpQ,Without You,5m3YQ0X4ZVoDLxMCumLO5i,love,00:03:34,34,https://open.spotify.com/track/5m3YQ0X4ZVoDLxMCumLO5i
+Percy Sledge,3rRmDmzPcAFwcUDvG5gBqO,When a Man Loves a Woman,51FpzuGkRYXFgsE2zXt9av,love,00:02:53,68,https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av
+The Flamingos,6iygtKnPG7TRvDaTYcLOd6,I Only Have Eyes For You - Single Version,3pHKy8Vmwi52p7V9ADdmTU,love,00:03:23,0,https://open.spotify.com/track/3pHKy8Vmwi52p7V9ADdmTU
+Sarah Vaughan,1bgyxtWjZwA5PQlDsvs9b8,Embraceable You,4U5VTRPZbXEOTXBeYXiSPD,love,00:04:51,24,https://open.spotify.com/track/4U5VTRPZbXEOTXBeYXiSPD
+Bette Midler,13y0kncDD4J9wxCyfKr10W,The Rose,7iLXXTLIaguiWCTRJNU1Tv,love,00:03:35,54,https://open.spotify.com/track/7iLXXTLIaguiWCTRJNU1Tv
+Elton John,3PhoLpVuITZKcymswpck5b,Can You Feel the Love Tonight,32RxZnEk5KyWUTZR4azxbD,love,00:04:01,60,https://open.spotify.com/track/32RxZnEk5KyWUTZR4azxbD
+Lionel Richie,3gMaNLQm7D9MornNILzdSl,Endless Love,4DnzD0WEiffpsmj5iiT3XU,love,00:04:28,0,https://open.spotify.com/track/4DnzD0WEiffpsmj5iiT3XU
+John Denver,7EK1bQADBoqbYXnT4Cqv9w,Annie's Song,0J4S8GGIF1pCWbeq736Cyz,love,00:02:58,0,https://open.spotify.com/track/0J4S8GGIF1pCWbeq736Cyz
+Christina Perri,7H55rcKCfwqkyDFH9wpKM6,A Thousand Years,6z5Yh7kOKeLjqIsNdokIpU,love,00:04:45,72,https://open.spotify.com/track/6z5Yh7kOKeLjqIsNdokIpU
+Glen Hansard,3Caot8EtHX6wLpNF2wRzS0,Falling Slowly,6T7K5bDG0l2tmvdYXKCbcm,love,00:04:04,18,https://open.spotify.com/track/6T7K5bDG0l2tmvdYXKCbcm
+Coldplay,4gzpq5DPGxSnKTe4SA8HAU,Fix You,7LVHVU3tWfcxj5aiPFEW4Q,love,00:04:55,82,https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q
+John Waite,2TPyCsRoh2tjeZLTQ2ojlj,Missing You - Single Version,3yvJ98vi9xuHdlGr15q6va,love,00:03:30,0,https://open.spotify.com/track/3yvJ98vi9xuHdlGr15q6va
+Chicago,3iDD7bnsjL9J4fO298r0L0,If You Leave Me Now,0KMGxYKeUzK9wc5DZCt3HT,love,00:03:55,74,https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT
+Katie Melua,5uCXJWo3WoXgqv3T1RlAbh,Nine Million Bicycles,22HSxMswLlM3DMAVeNSQYD,love,00:03:18,0,https://open.spotify.com/track/22HSxMswLlM3DMAVeNSQYD
+Robbie Williams,2HcwFjNelS49kFbfvMxQYw,Angels,7CKbqqrs0AS1si1ZgaQdcj,love,00:04:25,62,https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj
+Lou Reed,42TFhl7WlMRXiNqzSrnzPL,Perfect Day,0g5hYtDyZJ11b969pMLZM4,love,00:03:44,0,https://open.spotify.com/track/0g5hYtDyZJ11b969pMLZM4
+Madness,4AYkFtEBnNnGuoo8HaHErd,It Must Be Love,2ohy1uevBkPZc4ibN8wMHU,love,00:03:20,0,https://open.spotify.com/track/2ohy1uevBkPZc4ibN8wMHU
+Michael Jackson,3fMbdgg4jU18AjLCKBhRSm,I Just Can't Stop Loving You (feat. Siedah Garrett),6irJnyu8YbJpVx2RfPz6GI,love,00:04:12,29,https://open.spotify.com/track/6irJnyu8YbJpVx2RfPz6GI
+The Temptations,3RwQ26hR2tJtA8F9p2n7jG,My Girl,0651FOAfvX33QIjpYL4F95,love,00:02:43,0,https://open.spotify.com/track/0651FOAfvX33QIjpYL4F95
+The Cranberries,7t0rwkOPGlDPEhaOcVtOt9,When You're Gone,0utKt4XL9oRU1TZIowJhlT,love,00:04:56,0,https://open.spotify.com/track/0utKt4XL9oRU1TZIowJhlT
+Fugees,2WKdxPFRD7IqZvlIAvhMgY,Killing Me Softly With His Song,1MAqR81Tz28IIqMJ2KUDAO,love,00:04:58,0,https://open.spotify.com/track/1MAqR81Tz28IIqMJ2KUDAO
+Paul McCartney,4STHEaNw4mPZ2tzheohgXB,My Love,6q9JjGg7puap2DyEqfP31k,love,00:04:07,0,https://open.spotify.com/track/6q9JjGg7puap2DyEqfP31k
+Carpenters,1eEfMU2AhEo7XnKgL7c304,(They Long To Be) Close To You,2kyVQg00pphEufGT59M2XH,love,00:04:33,66,https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH
+Jennifer Rush,3fsCWTIuWIRvEGS7gerSJX,The Power of Love,7EkFVRqmso1h8WjrUrlXIT,love,00:04:39,46,https://open.spotify.com/track/7EkFVRqmso1h8WjrUrlXIT
+Shania Twain,5e4Dhzv426EvQe3aDb64jL,You're Still The One,7cCf8vPXJw4e7e2CQYyYgi,love,00:03:32,0,https://open.spotify.com/track/7cCf8vPXJw4e7e2CQYyYgi
+Alison Krauss & Union Station,0OTnx2X2FDXeewcm72lavT,When You Say Nothing At All,7J9goqmBW2eBEJcUL3jGZn,love,00:04:20,0,https://open.spotify.com/track/7J9goqmBW2eBEJcUL3jGZn
+Eva Cassidy,6fNmOWQzfOVyHLQ2UqUQew,Songbird,2sRLrN7pYHrlobLPSIWl4L,love,00:03:43,0,https://open.spotify.com/track/2sRLrN7pYHrlobLPSIWl4L
+Billie Holiday,1YzCsTRb22dQkh9lghPIrp,Embraceable You,6DFAgL0dqmZ9kTyBwwcnnF,love,00:03:15,0,https://open.spotify.com/track/6DFAgL0dqmZ9kTyBwwcnnF
+The Impressions,1b1N51wmSK0ckxFAMPSSHO,For Your Precious Love,5RDFmxENBVl7gnyvVN5xhf,love,00:02:44,0,https://open.spotify.com/track/5RDFmxENBVl7gnyvVN5xhf
+Barry Manilow,3alW3LYQS8K29z8C8NSLIX,Mandy,0YKUxdIOWYXnkenH5A7d7N,love,00:02:50,43,https://open.spotify.com/track/0YKUxdIOWYXnkenH5A7d7N
+Van Morrison,44NX2ffIYHr6D4n7RaZF7A,Crazy Love - 2013 Remaster,2hjAc6x8EoSLhGxRNg8KEw,love,00:02:35,65,https://open.spotify.com/track/2hjAc6x8EoSLhGxRNg8KEw
+Nick Drake,5c3GLXai8YOMid29ZEuR9y,Northern Sky,7dGgCgyGJW0KUcRnxpq1Z8,love,00:03:43,0,https://open.spotify.com/track/7dGgCgyGJW0KUcRnxpq1Z8
+Sam Cooke,6hnWRPzGGKiapVX1UCdEAC,(What A) Wonderful World,2g2GkH3vZHk4lWzBjgQ6nY,love,00:02:05,68,https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY
+Berlin,2aS6jYh7ysTL1ZUsHneNgM,Take My Breath Away,1hZJcuz9iMoz6tLkFlIaUy,love,00:04:24,66,https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy
+John Legend,5y2Xq6xcjJb2jVM54GHK3t,All of Me,0xjbDDTQDtRUbr4Dh32Cv0,love,00:04:29,0,https://open.spotify.com/track/0xjbDDTQDtRUbr4Dh32Cv0
+James Taylor,0vn7UBvSQECKJm2817Yf1P,How Sweet It Is (To Be Loved by You),2RwFdFIN9JAyVUzevwkzez,love,00:03:34,0,https://open.spotify.com/track/2RwFdFIN9JAyVUzevwkzez
+The Platters,6KWcxMWVNVIYbdOQyJtsSy,Only You (And You Alone),66D7zHfeW0frszhjR9ewZ1,love,00:02:35,0,https://open.spotify.com/track/66D7zHfeW0frszhjR9ewZ1
+Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Anyone,31qCy5ZaophVA81wtlwLc4,love,00:03:10,77,https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4
+Clinton Kane,7okSU80WTrn4LXlyXYbX3P,I GUESS I'M IN LOVE,1is8gU4RVcN4J8xItxWoOY,love,00:03:24,80,https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY
+Harry Styles,6KImCVD70vtIoJWnq6nGn3,Falling,1ZMiCix7XSAbfAJlEZWMCp,love,00:04:00,86,https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp
+Julia Michaels,0ZED1XzwlLHW4ZaG4lOT6m,What A Time (feat. Niall Horan),5WtfUKzXircvW8l5aaVZWT,love,00:02:53,83,https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT
+James Arthur,4IWBUUAFIplrNtaOHcJPRM,Rewrite The Stars (with James Arthur & Anne-Marie),6mQLN3zRtAp6ovjusyYKrV,love,00:03:38,75,https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV
+Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,First Times,5QYnNhTKsN3kE7OaqILA1U,love,00:03:05,73,https://open.spotify.com/track/5QYnNhTKsN3kE7OaqILA1U
+Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Ghost,5dPz35akJjPqb17yeqNwqH,love,00:02:33,85,https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH
+James TW,0B3N0ZINFWvizfa8bKiz4v,You & Me,5g45gvxgaYVuhkDACPnvfh,love,00:03:51,0,https://open.spotify.com/track/5g45gvxgaYVuhkDACPnvfh
+Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,Lose You To Love Me,1HfMVBKM75vxSfsQ5VefZ5,love,00:03:26,25,https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5
+Ben Platt,6qGkLCMQkNGOJ079iEcC5k,imagine,716eVtciaJCtTcaknS3QXr,love,00:02:44,66,https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr
+Clinton Kane,7okSU80WTrn4LXlyXYbX3P,i don't want to watch the world end with someone else,58qX77t2VWMWcycsh9zKLc,love,00:03:04,71,https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc
+Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,Fallin' All In You,5I8oEqbk2ZBmQfXCrZbUFb,love,00:03:55,0,https://open.spotify.com/track/5I8oEqbk2ZBmQfXCrZbUFb
+Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,"10,000 Hours (with Justin Bieber)",2wrJq5XKLnmhRXHIAf9xBa,love,00:02:47,79,https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa
+James TW,0B3N0ZINFWvizfa8bKiz4v,Butterflies,5XGJj8eIm5tSdxkIm6GBal,love,00:03:18,0,https://open.spotify.com/track/5XGJj8eIm5tSdxkIm6GBal
+James Arthur,4IWBUUAFIplrNtaOHcJPRM,Say You Won't Let Go,1Pw5C4N6Fn5E4mGCxmbbVa,love,00:03:31,68,https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa
+Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,Before You Go,7ce20yLkzuXXLUhzIDoZih,love,00:03:35,75,https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih
+Fly By Midnight,4rQTEdG6hDVOlDUFKs9EjZ,Lovely,3zjw3EZfvgjuR4AQhVlNq7,love,00:02:56,61,https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7
+Adele,4dpARuHxo51G3z768sgnrY,When We Were Young,0cj2joJcY6b4XSRfj2eZOl,love,00:04:50,2,https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl
+The Vamps,7gAppWoH7pcYmphCVTXkzs,Somebody To You,6VrLYoQKdhu1Jruei06t65,love,00:03:05,78,https://open.spotify.com/track/6VrLYoQKdhu1Jruei06t65
+Jake Scott,0DxPHf2flBAcV2SnZPg3SV,Like No One Does,2HnfqILzgKt1CepTlU4oqq,love,00:02:38,63,https://open.spotify.com/track/2HnfqILzgKt1CepTlU4oqq
+Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,Easy,46D0hYb1B7qiU33VtXt21W,love,00:03:14,61,https://open.spotify.com/track/46D0hYb1B7qiU33VtXt21W
+Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Holy (feat. Chance The Rapper),5u1n1kITHCxxp8twBcZxWy,love,00:03:32,76,https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy
+Little Mix,3e7awlrlDSwF3iM0WBjGMp,Secret Love Song (feat. Jason Derulo),4JIo8RztBbELr2gWJ5OGK6,love,00:04:09,1,https://open.spotify.com/track/4JIo8RztBbELr2gWJ5OGK6
+Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Best Part of Me (feat. YEBBA),5ug4vqGZ3eisGhY1IsziNX,love,00:04:03,65,https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX
+LANY,49tQo2QULno7gxHutgccqF,nobody else,7GLBqDKAJLCLIsj2GEDkSw,love,00:03:17,65,https://open.spotify.com/track/7GLBqDKAJLCLIsj2GEDkSw
+AJ Mitchell,6dn6x1XOng3LOAnfTjUn77,Slow Dance (feat. Ava Max),5FNS5Vj69AhRGJWjhrAd01,love,00:02:58,65,https://open.spotify.com/track/5FNS5Vj69AhRGJWjhrAd01
+Julia Michaels,0ZED1XzwlLHW4ZaG4lOT6m,17,0ND8rF8oirMXtE59n585P6,love,00:03:02,64,https://open.spotify.com/track/0ND8rF8oirMXtE59n585P6
+Isak Danielson,5ie2SvXgvXlTpyqkwLtSd7,I Am Falling In Love,0VWE11LUDOc9Jo78vbpAxB,love,00:04:08,0,https://open.spotify.com/track/0VWE11LUDOc9Jo78vbpAxB
+SHY Martin,7eCmccnRwPmRnWPw61x6jM,Slow,1Ia95g66IhlAJ3qVI4qI8W,love,00:02:43,67,https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W
+Cody Simpson,79Xp2rRN7wdsaTJgttdX3K,golden thing,5y2TuOFgwlpztHlqENHQOE,love,00:03:39,60,https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE
+5 Seconds of Summer,5Rl15oVamLq7FbSb0NNBNy,Lie To Me,5s4useNfZqXHdXrRdDrzWc,love,00:02:29,0,https://open.spotify.com/track/5s4useNfZqXHdXrRdDrzWc
+Sam Smith,2wY79sveU1sp5g7SokKOiI,"Fire On Fire - From ""Watership Down""",5rFj8OzffT0iggSjcBaeND,love,00:04:06,69,https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND
+Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Happier,2RttW7RAu5nOAfq6YFvApB,love,00:03:27,80,https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB
+The Script,3AQRLZ9PuTAozP28Skbq8V,"Never Seen Anything ""Quite Like You"" - Acoustic",018Idkvf82hi44UZmIXiGB,love,00:03:48,63,https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB
+Clara Mae,6RHKEd9dpzQ4c09x8Zdaxu,Loved You Once,3LbwR2WcofkDBp4LSgGJh1,love,00:02:28,55,https://open.spotify.com/track/3LbwR2WcofkDBp4LSgGJh1
+James Bay,4EzkuveR9pLvDVFNx6foYD,Peer Pressure (feat. Julia Michaels),4JWQC6gyYoPRnxRxk0ta2M,love,00:02:56,0,https://open.spotify.com/track/4JWQC6gyYoPRnxRxk0ta2M
+Christopher,3zDRCqOhJXJfS2YWOEwGMC,Fall So Hard,07J3p1GchLPc2kAKFgd1TD,love,00:03:34,55,https://open.spotify.com/track/07J3p1GchLPc2kAKFgd1TD
+flora cash,6GpcBKNmZDIrRzYkPJu7Wd,Soul Mate,2xo3D4eKXs19ISgTcICbua,love,00:03:57,0,https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua
+Gabrielle Aplin,3w6zswp5THsSKYLICUbDTZ,Losing Me,4P6g8wuXeR3wznFk7WnI4w,love,00:03:00,63,https://open.spotify.com/track/4P6g8wuXeR3wznFk7WnI4w
+James TW,0B3N0ZINFWvizfa8bKiz4v,When You Love Someone,5fX2oPyLCe5mBKqGDbOWqC,love,00:03:36,0,https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC
+The Script,3AQRLZ9PuTAozP28Skbq8V,I Want It All,18PlaQBPe3yJBW1MNKstn2,love,00:03:07,64,https://open.spotify.com/track/18PlaQBPe3yJBW1MNKstn2
+Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,I Should Probably Go To Bed,5ovVcYo2MvjVydFwFyaaqy,love,00:02:51,67,https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy
+Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Photograph,1HNkqx9Ahdgi1Ixy2xkKkL,love,00:04:18,85,https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL
+Gracie Abrams,4tuJ0bMpJh08umKkEXKUI5,Feels Like,5AsUMMM0euIPrmRrLfb7ly,love,00:02:32,2,https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly
+Tom Gregory,6Rmg5JiRphFMlhkwGNl9Fu,What Love Is,39pr29s4Nv7V6DqFwmjrQg,love,00:03:14,39,https://open.spotify.com/track/39pr29s4Nv7V6DqFwmjrQg
+Meghan Trainor,6JL8zeS1NmiOftqZTRgdTz,Like I'm Gonna Lose You (feat. John Legend),3aD8cLO0ZZTLoHwF4pTu8d,love,00:03:42,49,https://open.spotify.com/track/3aD8cLO0ZZTLoHwF4pTu8d
+Christina Perri,7H55rcKCfwqkyDFH9wpKM6,A Thousand Years,6lanRgr6wXibZr8KgzXxBl,love,00:04:45,80,https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl
+JP Saxe,66W9LaWS0DPdL7Sz8iYGYe,"Hey Stupid, I Love You",5inDa3sWj8zqJBOdj7Bjqc,love,00:03:01,67,https://open.spotify.com/track/5inDa3sWj8zqJBOdj7Bjqc
+Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,pov,3UoULw70kMsiVXxW0L3A33,love,00:03:21,77,https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33
+Dan Talevski,0Vu4A064M7J86SoMA0nrJH,Don't Ever Leave,6drtmkgMWpehwKX2si4DEl,love,00:02:28,50,https://open.spotify.com/track/6drtmkgMWpehwKX2si4DEl
+Calum Scott,6ydoSd3N2mwgwBHtF6K7eX,You Are The Reason - Duet Version,4gJAWJnE5cvAAWyTMTxgdY,love,00:03:10,0,https://open.spotify.com/track/4gJAWJnE5cvAAWyTMTxgdY
+Daniel Schulz,3pVuaUisHmRfVy53qWwmql,Turn Back Time,4KnnWpUyPfQD6X5SQSTlH3,love,00:03:43,66,https://open.spotify.com/track/4KnnWpUyPfQD6X5SQSTlH3
+Maroon 5,04gDigrS5kc9YWfZHwBETP,Nobody's Love,3kwgqoBqTwoAH4nT29TYrq,love,00:03:31,18,https://open.spotify.com/track/3kwgqoBqTwoAH4nT29TYrq
+BANNERS,4qWnlmXWuGv2TtuxtIWlJX,If I Didn't Have You,7Etf7VJoXNJlO4oMJRUDlT,love,00:03:45,53,https://open.spotify.com/track/7Etf7VJoXNJlO4oMJRUDlT
+Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,The Bones,3npzogdOEiVsieXmmhBepL,love,00:03:17,2,https://open.spotify.com/track/3npzogdOEiVsieXmmhBepL
+Sam Smith,2wY79sveU1sp5g7SokKOiI,Too Good At Goodbyes,7oAraczbemGSNWqnbkU87R,love,00:03:21,0,https://open.spotify.com/track/7oAraczbemGSNWqnbkU87R
+Lauv,5JZ7CnR6gTvEMKX4g70Amv,The Story Never Ends,3u5bTqHMM1P34ZkbwzdckV,love,00:03:49,65,https://open.spotify.com/track/3u5bTqHMM1P34ZkbwzdckV
+John K,73eAAfRkS2Vi4hx68oTJJE,6 months,195DDl4riXguLriXMSU0Gg,love,00:03:36,0,https://open.spotify.com/track/195DDl4riXguLriXMSU0Gg
+Haris,6tE3YSDrBq015UZTxh9Zki,Shivers,51L8DKinurPJhpFj3L3f7C,love,00:03:37,43,https://open.spotify.com/track/51L8DKinurPJhpFj3L3f7C
+Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Beautiful People (feat. Khalid),4evmHXcjt3bTUHD1cvny97,love,00:03:17,76,https://open.spotify.com/track/4evmHXcjt3bTUHD1cvny97
+Nathan Sykes,2Rf4X6m0oayCJhaJ5K63GQ,Over And Over Again,4IcRwlfIwp7BDljw7m8cSe,love,00:04:06,0,https://open.spotify.com/track/4IcRwlfIwp7BDljw7m8cSe
+James Arthur,4IWBUUAFIplrNtaOHcJPRM,Can I Be Him - Acoustic Live Version,0iVAPfPW2NkfxCqu0a1UBl,love,00:05:05,58,https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl
+yaeow,4Abe9XH0fplj8dbOddoYgH,The Way I Love You,3XV5r1cMB2AlD2ir0v6mfm,love,00:02:42,59,https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm
+Zara Larsson,1Xylc3o4UrD53lo9CvFvVg,I Can't Fall in Love Without You,4VPXFi4vFTtS9wHe6oMQaT,love,00:03:00,66,https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT
+Kodaline,4BxCuXFJrSWGi1KHcVqaU4,Say Something,3kswR4VNp2z8f8VXUHfTSD,love,00:03:53,29,https://open.spotify.com/track/3kswR4VNp2z8f8VXUHfTSD
+Micky Skeel,3ml6MvdCLzBBhK2zT9AhOl,I Can't Wait,5hvNMcwreAwK5MbAhKK1vg,love,00:02:59,0,https://open.spotify.com/track/5hvNMcwreAwK5MbAhKK1vg
+Niall Horan,1Hsdzj7Dlq2I7tHP7501T4,No Judgement,5IUOU5xkzGHsRFOYNu3GSK,love,00:02:56,58,https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK
+Clara Mae,6RHKEd9dpzQ4c09x8Zdaxu,Us,59z0L6S0GDNCiliSk3yiX0,love,00:02:57,53,https://open.spotify.com/track/59z0L6S0GDNCiliSk3yiX0
+Jack & Jack,1INuLZXjjVbcJRyWvD1iSq,No One Compares To You,2jZIfoe48eUeOEnP9Ho4h2,love,00:03:04,0,https://open.spotify.com/track/2jZIfoe48eUeOEnP9Ho4h2
+Justin Jesso,1QDrz3DMMaz3TB1cm0PGDu,Let it Be Me,12PJCkZit47Sr3K705SZIm,love,00:03:39,50,https://open.spotify.com/track/12PJCkZit47Sr3K705SZIm
+James Arthur,4IWBUUAFIplrNtaOHcJPRM,Naked,7krbSH3rd8lhIZvuzTV3Bl,love,00:03:54,69,https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl
+Bruno Mars,0du5cEVh5yTK9QJze8zA0C,Just the Way You Are,47Slg6LuqLaX0VodpSCvPt,love,00:03:40,79,https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt
+Sigala,1IueXOQyABrMOprrzwQJWN,Lullaby - Acoustic,4f5LDR4RWrboZT1YoSUfcy,love,00:03:57,55,https://open.spotify.com/track/4f5LDR4RWrboZT1YoSUfcy
+FINNEAS,37M5pPGs6V1fchFJSgCguX,Let's Fall in Love for the Night,7kQkmyoHCEqwe7QwDbkSXM,love,00:03:10,72,https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM
+Wallaby,5K2zBqDpxHKvH2N4sGjJMV,Anywhere With You (feat. Andie Nora),3mY5W2fJF9wKoy5d4IOtsZ,love,00:02:57,46,https://open.spotify.com/track/3mY5W2fJF9wKoy5d4IOtsZ
+Dean Lewis,3QSQFmccmX81fWCUSPTS7y,Be Alright,3EPXxR3ImUwfayaurPi3cm,love,00:03:16,80,https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm
+ZAYN,5ZsFI1h6hIdQRw2ti0hz81,There You Are,7MmnLaftYzin7boRbplKdA,love,00:03:19,0,https://open.spotify.com/track/7MmnLaftYzin7boRbplKdA
+Niall Horan,1Hsdzj7Dlq2I7tHP7501T4,Too Much To Ask,3hRZsdTF5uyGA2uhNqEuhm,love,00:03:43,0,https://open.spotify.com/track/3hRZsdTF5uyGA2uhNqEuhm
+Lauv,5JZ7CnR6gTvEMKX4g70Amv,There's No Way (feat. Julia Michaels),2hnxrRNzF74mdDzpQZQukQ,love,00:02:54,1,https://open.spotify.com/track/2hnxrRNzF74mdDzpQZQukQ
+Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,positions,7igeByaBM0MgGsgXtNxDJ7,love,00:02:52,5,https://open.spotify.com/track/7igeByaBM0MgGsgXtNxDJ7
+James TW,0B3N0ZINFWvizfa8bKiz4v,Say Love,1csB4kgdyglOQdH0EyFIqy,love,00:03:39,0,https://open.spotify.com/track/1csB4kgdyglOQdH0EyFIqy
+Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,Girlfriend,1UNs8AlFM8c0uAkSyjIW3P,love,00:02:57,65,https://open.spotify.com/track/1UNs8AlFM8c0uAkSyjIW3P
+Noah Cyrus,55fhWPvDiMpLnE4ZzNXZyW,July (feat. Leon Bridges),3V0nnQhqvbE3JmiDdnzQFQ,love,00:02:32,72,https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ
+Adele,4dpARuHxo51G3z768sgnrY,Make You Feel My Love,7rPLZ8Krm6CZIbraFUlnWZ,love,00:03:32,0,https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ
+Ali Gatie,4rTv3Ejc7hKMtmoBOK1B4T,It's You,6moU77g9RQyMzHNuKEaQKq,love,00:03:32,12,https://open.spotify.com/track/6moU77g9RQyMzHNuKEaQKq
+Etham,5fywYLnKJi950Y5yMqavxm,Before I Lose My Mind - Stripped,2UTHTASTtmJXiBUmSIXERT,love,00:03:46,61,https://open.spotify.com/track/2UTHTASTtmJXiBUmSIXERT
+Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,Patient,2ZrHbO88rM6Ijeg0aJmSzl,love,00:03:10,60,https://open.spotify.com/track/2ZrHbO88rM6Ijeg0aJmSzl
+Maisie Peters,2RVvqRBon9NgaGXKfywDSs,Favourite Ex,1a1SQeSqUKzH5OUVTEx4ae,love,00:03:21,64,https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae
+Peder Elias,56zJ6PZ3mNPBiBqglW2KxL,Good For You,2A8fh9MXaPMv88D8NdGnsM,love,00:02:41,45,https://open.spotify.com/track/2A8fh9MXaPMv88D8NdGnsM
+James TW,0B3N0ZINFWvizfa8bKiz4v,Suitcase,5HlFO9E6TgsCpJWVjguZDl,love,00:03:34,0,https://open.spotify.com/track/5HlFO9E6TgsCpJWVjguZDl
+Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,This Love,7cHje4KLujM18aBSLvaySE,love,00:03:40,61,https://open.spotify.com/track/7cHje4KLujM18aBSLvaySE
+Quinn XCII,3ApUX1o6oSz321MMECyIYd,Stay Next To Me (with Chelsea Cutler),6SGG5AxHShqSYiV9fCWpZz,love,00:03:26,5,https://open.spotify.com/track/6SGG5AxHShqSYiV9fCWpZz
+Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,24 Hours,385VOmGbguaPG57TgoW8Lh,love,00:02:30,57,https://open.spotify.com/track/385VOmGbguaPG57TgoW8Lh
+Joel Corry,6DgP9otnZw5z6daOntINxp,Head & Heart (feat. MNEK) - Acoustic,5ki4N5zDtVIshPU1lbLV1e,love,00:03:38,26,https://open.spotify.com/track/5ki4N5zDtVIshPU1lbLV1e
+Gabrielle Aplin,3w6zswp5THsSKYLICUbDTZ,Miss You 2,0j5QKkgh58UmjjONmDxYhE,love,00:03:16,46,https://open.spotify.com/track/0j5QKkgh58UmjjONmDxYhE
+ZAYN,5ZsFI1h6hIdQRw2ti0hz81,Good Years,22pBf2FVR5WYMcZ1ROSINP,love,00:03:00,0,https://open.spotify.com/track/22pBf2FVR5WYMcZ1ROSINP
+Zara Larsson,1Xylc3o4UrD53lo9CvFvVg,Ruin My Life,5tAa8Uaqr4VvA3693mbIhU,love,00:03:10,68,https://open.spotify.com/track/5tAa8Uaqr4VvA3693mbIhU
+5 Seconds of Summer,5Rl15oVamLq7FbSb0NNBNy,Best Years,20sijxoS2rNrSi82IdHbqj,love,00:03:10,0,https://open.spotify.com/track/20sijxoS2rNrSi82IdHbqj
+Lauren Daigle,40LHVA5BTQp9RxHOQ9JPYj,You Say,72b0ANL1ZiV71OiZRs0Lny,love,00:04:34,0,https://open.spotify.com/track/72b0ANL1ZiV71OiZRs0Lny
+Nina Nesbitt,7AzjETXRUKNRSJHMW9GIqd,Is It Really Me You're Missing,1WO6kvO7P8TOsuhBaqun5w,love,00:03:52,38,https://open.spotify.com/track/1WO6kvO7P8TOsuhBaqun5w
+Adele,4dpARuHxo51G3z768sgnrY,Rolling in the Deep,1eq1wUnLVLg4pdEfx9kajC,surprise,00:03:48,2,https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC
+Jairzinho,4owt1GWUqAh4gsXT13roop,"Tempo (feat. Sevn Alias, Bko & Boef)",2YeKWxs3kfBFt7UduCEXub,surprise,00:02:44,41,https://open.spotify.com/track/2YeKWxs3kfBFt7UduCEXub
+Ronnie Flex,5eir5zFJpES4j7gsymbVyl,Energie,1riPE3NCV1OBmSXqpYiMJY,surprise,00:02:45,59,https://open.spotify.com/track/1riPE3NCV1OBmSXqpYiMJY
+Dolly Parton,32vWCbZh0xZ4o9gkz4PsEU,9 to 5,4w3tQBXhn5345eUXDGBWZG,surprise,00:02:42,77,https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG
+Adele,4dpARuHxo51G3z768sgnrY,Hello,4aebBr4JAihzJQR0CiIZJv,surprise,00:04:55,2,https://open.spotify.com/track/4aebBr4JAihzJQR0CiIZJv
+Rihanna,5pKCCKE2ajJHZ9KAiaK11H,Diamonds,6O20JhBJPePEkBdrB5sqRx,surprise,00:03:45,76,https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx
+Taio Cruz,6MF9fzBmfXghAz953czmBC,Hangover,2tftivjRsvKs0jFH9h3Ti8,surprise,00:04:04,0,https://open.spotify.com/track/2tftivjRsvKs0jFH9h3Ti8
+Gym Class Heroes,4IJczjB0fJ04gs4uvP0Fli,Stereo Hearts (feat. Adam Levine),0qOnSQQF0yzuPWsXrQ9paz,surprise,00:03:30,82,https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz
+Eminem,7dGJo4pcD2V6oG8kP0tJRR,The Monster,48RrDBpOSSl1aLVCalGl5C,surprise,00:04:10,76,https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C
+Backstreet Boys,5rSXSAkZ67PYJSvpUpkOr7,I Want It That Way,68y6OIiE1nDdI1MLQdJNh8,surprise,00:03:33,0,https://open.spotify.com/track/68y6OIiE1nDdI1MLQdJNh8
+Eurythmics,0NKDgy9j66h3DLnN8qu1bB,Sweet Dreams (Are Made of This) - Remastered,1TfqLAPs4K3s2rJMoCokcS,surprise,00:03:36,82,https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS
+Jessie J,2gsggkzM5R49q6jpPvazou,Price Tag,2fTsFCKRFQ5M0igJgabnLA,surprise,00:03:43,74,https://open.spotify.com/track/2fTsFCKRFQ5M0igJgabnLA
+Katy Perry,6jJ0s89eD6GaHleKKya26X,Firework,1mXuMM6zjPgjL4asbBsgnt,surprise,00:03:47,74,https://open.spotify.com/track/1mXuMM6zjPgjL4asbBsgnt
+Shaggy,5EvFsr3kj42KNv97ZEnqij,It Wasn't Me,0OaunKfsxkgBvPv68jBbmm,surprise,00:03:47,62,https://open.spotify.com/track/0OaunKfsxkgBvPv68jBbmm
+Beyoncé,6vWDO969PvNqNYHIOW5v0m,Irreplaceable,6RX5iL93VZ5fKmyvNXvF1r,surprise,00:03:47,71,https://open.spotify.com/track/6RX5iL93VZ5fKmyvNXvF1r
+Pitbull,0TnOYISbd1XYRBk9myaseg,I Know You Want Me (Calle Ocho),5RzFJd6W40SDTyZkX6xx45,surprise,00:03:57,70,https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45
+Beyoncé,6vWDO969PvNqNYHIOW5v0m,Halo,4JehYebiI9JE8sR8MisGVb,surprise,00:04:21,75,https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb
+DJ Antoine,6yTYR09WCvsgdnurDW4WQo,Welcome To St. Tropez - DJ Antoine vs Mad Mark Radio Edit,4xZRjpm7bZjDSBEHikrJf6,surprise,00:03:15,0,https://open.spotify.com/track/4xZRjpm7bZjDSBEHikrJf6
+Iyaz,5tKXB9uuebKE34yowVaU3C,Replay,5vlEg2fT4cFWAqU5QptIpQ,surprise,00:03:02,73,https://open.spotify.com/track/5vlEg2fT4cFWAqU5QptIpQ
+Troy,6zTbBugfNc95zo8ClFDhIn,Breaking Free,4itkS9rw2pjr9PqnOOhxpb,surprise,00:03:29,51,https://open.spotify.com/track/4itkS9rw2pjr9PqnOOhxpb
+Magic System,6MvRVq0CtpQQlwnIiszV8F,Magic in the Air (feat. Ahmed Chawki),3s6ltUrI93LBKU8taezsLn,surprise,00:03:53,70,https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn
+Gloria Gaynor,6V6WCgi7waF55bJmylC4H5,I Will Survive - Extended Version,5FM2zyvBsSQtx9HXZ8dFsc,surprise,00:03:14,37,https://open.spotify.com/track/5FM2zyvBsSQtx9HXZ8dFsc
+The Weather Girls,19xz1vcuKNjniGEftTOSSH,It's Raining Men - Single Version,1HyduXJnVTuP4qjK8pexq9,surprise,00:03:31,48,https://open.spotify.com/track/1HyduXJnVTuP4qjK8pexq9
+Bruno Mars,0du5cEVh5yTK9QJze8zA0C,When I Was Your Man,0nJW01T7XtvILxQgC5J7Wh,surprise,00:03:33,85,https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh
+Bruno Mars,0du5cEVh5yTK9QJze8zA0C,Just the Way You Are,47Slg6LuqLaX0VodpSCvPt,surprise,00:03:40,79,https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt
+Bruno Mars,0du5cEVh5yTK9QJze8zA0C,Grenade,4lLtanYk6tkMvooU0tWzG8,surprise,00:03:42,78,https://open.spotify.com/track/4lLtanYk6tkMvooU0tWzG8
+Mr. Probz,33W1pnW9zScZtYTnAoWnOT,Space for Two,2vNyWYQtbrgOKcSG64SZMJ,surprise,00:03:26,0,https://open.spotify.com/track/2vNyWYQtbrgOKcSG64SZMJ
+Post Malone,246dkjvS1zLTtiykXe5h60,Better Now,7dt6x5M1jzdTEt8oCbisTK,surprise,00:03:51,82,https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK
+John Travolta,4hKkEHkaqCsyxNxXEsszVH,"You're The One That I Want - From ""Grease"" Original Motion Picture Soundtrack",1pj3RzpA5AoXkZln0NockI,surprise,00:02:49,0,https://open.spotify.com/track/1pj3RzpA5AoXkZln0NockI
+Black Eyed Peas,1yxSLGMDHlW21z4YXirZDS,Where Is The Love?,7oPnZNl1acGA7ELxsNirrR,surprise,00:04:32,36,https://open.spotify.com/track/7oPnZNl1acGA7ELxsNirrR
+Jody Bernal,7oKJmnPaABXLPkw3gT7rIa,"Que Si, Que No - Sunclub Radio Mix",7oYZ2no8GeXfAhjNhr6gHC,surprise,00:03:12,0,https://open.spotify.com/track/7oYZ2no8GeXfAhjNhr6gHC
+Kraantje Pappie,5yDkaiPTFbHGWCMXAEBt5Q,Feesttent,3jFnYU30fibZbOE9y4wPQx,surprise,00:03:03,57,https://open.spotify.com/track/3jFnYU30fibZbOE9y4wPQx
+Travie McCoy,7o9Nl7K1Al6NNAHX6jn6iG,Billionaire (feat. Bruno Mars),2M9ULmQwTaTGmAdXaXpfz5,surprise,00:03:31,73,https://open.spotify.com/track/2M9ULmQwTaTGmAdXaXpfz5
+Jason Mraz,4phGZZrJZRo4ElhRtViYdl,I'm Yours,1EzrEOXmMH3G43AXT1y7pA,surprise,00:04:02,81,https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA
+Lou Bega,46lnlnlU0dXTDpoAUmH6Qx,Mambo No. 5 (a Little Bit of...),6x4tKaOzfNJpEJHySoiJcs,surprise,00:03:40,77,https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs
+The Underdog Project,06XDzzi31mBGSsaAABTZLb,Summer Jam 2003 - Remix,6eQQLxpKeoNqwT90zSD4Em,surprise,00:03:49,62,https://open.spotify.com/track/6eQQLxpKeoNqwT90zSD4Em
+Robin Thicke,0ZrpamOxcZybMHGg1AYtHP,Blurred Lines,5PUvinSo4MNqW7vmomGRS7,surprise,00:04:23,57,https://open.spotify.com/track/5PUvinSo4MNqW7vmomGRS7
+Klangkarussell,041iTeoMIwXMlShuQPIVKo,Sonnentanz,4YRvb9B8cgvhst11qk8CKn,surprise,00:06:00,62,https://open.spotify.com/track/4YRvb9B8cgvhst11qk8CKn
+Juanes,0UWZUmn7sybxMCqrw9tGa7,La Camisa Negra,65o8SI1kfFAIr0EjXeBRkB,surprise,00:03:34,0,https://open.spotify.com/track/65o8SI1kfFAIr0EjXeBRkB
+Sérgio Mendes,65c5si0ePAwkOCn4M35Ho7,Mas Que Nada - Radio Edit,0vFs2Eorve6vnnQcmItot1,surprise,00:03:33,59,https://open.spotify.com/track/0vFs2Eorve6vnnQcmItot1
+Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,Nervous,0Dq49j3dELbttQVUJbtn0c,surprise,00:02:44,0,https://open.spotify.com/track/0Dq49j3dELbttQVUJbtn0c
+Matt Simons,1g0fXhQMHAxlRyIBkCbuE7,We Can Do Better,1hLjLWrzO18acdCFcccFWk,surprise,00:02:59,1,https://open.spotify.com/track/1hLjLWrzO18acdCFcccFWk
+Calvin Harris,7CajNmpbOovFoOoasH2HaY,One Kiss (with Dua Lipa),7ef4DlsgrMEH11cDZd32M6,surprise,00:03:34,89,https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6
+5 Seconds of Summer,5Rl15oVamLq7FbSb0NNBNy,Youngblood,2iUXsYOEPhVqEBwsqP70rE,surprise,00:03:23,82,https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE
+Esko,0rQ69yrbz7CeUmXUn1beIj,Hey Meisje,1c7Kh2uMMxG7k4QqNjjg95,surprise,00:03:17,56,https://open.spotify.com/track/1c7Kh2uMMxG7k4QqNjjg95
+Maroon 5,04gDigrS5kc9YWfZHwBETP,Girls Like You (feat. Cardi B) - Cardi B Version,7fa9MBXhVfQ8P8Df9OEbD8,surprise,00:03:55,74,https://open.spotify.com/track/7fa9MBXhVfQ8P8Df9OEbD8
+Alvaro Soler,2urF8dgLVfDjunO0pcHUEe,La Cintura,19MBk3PbNFE36wqIqkMq9H,surprise,00:03:25,0,https://open.spotify.com/track/19MBk3PbNFE36wqIqkMq9H
+Tom Walker,7z2avKuuiMAT4XZJFv8Rvh,Leave a Light On,6lOWoTqVnAWXchddtTH31W,surprise,00:03:05,71,https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W
+Cardi B,4kYSro6naA4h99UJvo89HB,I Like It,58q2HKrzhC3ozto2nDdN4z,surprise,00:04:13,80,https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z
+Nio Garcia,5hdhHgpxyniooUiQVaPxQ0,Te Boté - Remix,3V8UKqhEK5zBkBb6d6ub8i,surprise,00:06:57,78,https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i
+Becky G,4obzFoKoKRHIphyHzJ35G3,Sin Pijama,2ijef6ni2amuunRoKTlgww,surprise,00:03:08,70,https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww
+Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,Shape of You,7qiZfU4dY1lWllzX7mPBI3,surprise,00:03:53,86,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+The Knocks,2x7EATekOPhFGRx3syMGEC,Classic (feat. POWERS),42UaTVeWaNaME7ttu61ykG,surprise,00:04:08,52,https://open.spotify.com/track/42UaTVeWaNaME7ttu61ykG
+The Foundations,4GITZM5LCR2KcdlgEOrNLD,Build Me Up Buttercup,3XcuLPQb1LG13ZJEEa6wUI,surprise,00:02:58,0,https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI
+Fontella Bass,6k3YMXJ1MJLgUEAlSPC6hA,Rescue Me,5Gird0FlC1rfCDujzz0C4N,surprise,00:02:52,0,https://open.spotify.com/track/5Gird0FlC1rfCDujzz0C4N
+Michael Jackson,3fMbdgg4jU18AjLCKBhRSm,The Way You Make Me Feel - 2012 Remaster,0sKlV58cODrjxGFOyf9IXY,surprise,00:04:58,74,https://open.spotify.com/track/0sKlV58cODrjxGFOyf9IXY
+Michael Jackson,3fMbdgg4jU18AjLCKBhRSm,Rock with You - Single Version,7oOOI85fVQvVnK5ynNMdW7,surprise,00:03:40,75,https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7
+The Jackson 5,2iE18Oxc8YSumAU232n4rW,ABC,6nzhhT57iQYrbqumru9NNP,surprise,00:02:59,0,https://open.spotify.com/track/6nzhhT57iQYrbqumru9NNP
+Adele,4dpARuHxo51G3z768sgnrY,Someone Like You,6QPKYGnAW9QozVz2dSWqRg,surprise,00:04:45,3,https://open.spotify.com/track/6QPKYGnAW9QozVz2dSWqRg
+Adele,4dpARuHxo51G3z768sgnrY,Skyfall,3mr584ZFSkZrWja9kJAzlb,surprise,00:04:46,0,https://open.spotify.com/track/3mr584ZFSkZrWja9kJAzlb
+The Source,25EAVXsff9L7LHy7UIsPbR,You Got The Love,6hGysJfPg591z5fqvTYL8O,surprise,00:03:11,0,https://open.spotify.com/track/6hGysJfPg591z5fqvTYL8O
+Lukas Graham,25u4wHJWxCA9vO0CzxAbK7,7 Years,2vDT1uU6hZgdp3PbWGr0Xy,surprise,00:03:57,0,https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy
+OMI,5MouCg6ta7zAxsfMEbc1uh,Cheerleader - Felix Jaehn Remix Radio Edit,7vFoFDWqTX0mHzLfrF1Cfy,surprise,00:03:00,79,https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy
+Justin Bieber,1uNFoZAHBGtllmzznpCI3s,Love Yourself,3hB5DgAiMAQ4DzYbsMq1IT,surprise,00:03:53,1,https://open.spotify.com/track/3hB5DgAiMAQ4DzYbsMq1IT
+Sia,5WUlDfRSoLAfcVSX1WnrxN,Chandelier,4VrWlk8IQxevMvERoX08iC,surprise,00:03:36,79,https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC
+Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,Believer,05KfyCEE6otdlT1pp2VIjP,surprise,00:03:23,0,https://open.spotify.com/track/05KfyCEE6otdlT1pp2VIjP
+Sam Smith,2wY79sveU1sp5g7SokKOiI,Stay With Me,7IHOIqZUUInxjVkko181PB,surprise,00:02:52,4,https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB
+Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,Treat You Better,1rtDwblY1CJ9i490fMzJnc,surprise,00:03:07,0,https://open.spotify.com/track/1rtDwblY1CJ9i490fMzJnc
+Lorde,163tK9Wjr9P9DmM0AVK7lm,Royals,2dLLR6qlu5UJ5gk0dKz0h3,surprise,00:03:10,79,https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3
+Gotye,2AsusXITU8P25dlRNhcAbG,Somebody That I Used To Know,4wCmqSrbyCgxEXROQE6vtV,surprise,00:04:04,77,https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV
+American Authors,0MlOPi3zIDMVrfA9R04Fe3,Best Day Of My Life,5Hroj5K7vLpIG4FNCRIjbP,surprise,00:03:14,80,https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP
+Owl City,07QEuhtrNmmZ0zEcqE9SF6,Fireflies,3DamFFqW32WihKkTVlwTYQ,surprise,00:03:48,79,https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ
+ABBA,0LcJLqbBmaGUft1e9Mm8HV,Dancing Queen,0GjEhVFGZW8afUYGChu3Rr,surprise,00:03:50,83,https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr
+Queen,1dfeR4HaWDbWqFHLkxsg1d,Bohemian Rhapsody - Remastered 2011,1AhDOtG9vPSOmsWgNW0BEY,surprise,00:05:54,0,https://open.spotify.com/track/1AhDOtG9vPSOmsWgNW0BEY
+Macklemore & Ryan Lewis,5BcAKTbp20cv7tC5VqPFoC,Can't Hold Us (feat. Ray Dalton),3bidbhpOYeV4knp8AIu8Xn,surprise,00:04:18,83,https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn
+Hot Chocolate,72VzFto8DYvKHocaHYNWSi,You Sexy Thing,714hERk9U1W8FMYkoC83CO,surprise,00:04:04,73,https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO
+Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"thank u, next",2rPE9A1vEgShuZxxzR2tZH,surprise,00:03:27,23,https://open.spotify.com/track/2rPE9A1vEgShuZxxzR2tZH
+Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,High Hopes,1rqqCSm0Qe4I9rUvWncaom,surprise,00:03:10,82,https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom
+Mark Ronson,3hv9jJF3adDNsBSIQDqcjp,Valerie (feat. Amy Winehouse) - Version Revisited,4BfRDZLIiznSnwU7DdDL9N,surprise,00:03:39,1,https://open.spotify.com/track/4BfRDZLIiznSnwU7DdDL9N
+Céline Dion,4S9EykWXhStSc15wEx8QFK,"My Heart Will Go On - Love Theme from ""Titanic""",3oEHQmhvFLiE7ZYES0ulzv,surprise,00:04:40,0,https://open.spotify.com/track/3oEHQmhvFLiE7ZYES0ulzv
+Phil Collins,4lxfqrEsLX6N1N4OCSkILp,Strangers Like Me,3E99KpWAcYEnj64e86y6u9,surprise,00:03:00,0,https://open.spotify.com/track/3E99KpWAcYEnj64e86y6u9
+High School Musical Cast,2gUMs9PE8XZVQyzCDqaYmW,Just Wanna Be With You,0tPIrbTWGm3vZiBmJSlzID,surprise,00:02:38,28,https://open.spotify.com/track/0tPIrbTWGm3vZiBmJSlzID
+De Jeugd Van Tegenwoordig,1u7uShzlA1tXJeox3jMFPq,Sterrenstof,7D5vAulNfrQV6xEwzgH0OF,surprise,00:03:40,63,https://open.spotify.com/track/7D5vAulNfrQV6xEwzgH0OF
+Guus Meeuwis,72qVrKXRp9GeFQOesj0Pmv,Het Is Een Nacht... (Levensecht),1jnUXW29r0JgYRcQmC3gIp,surprise,00:03:45,58,https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp
+Queen,1dfeR4HaWDbWqFHLkxsg1d,We Will Rock You - Remastered 2011,4pbJqGIASGPr0ZpGpnWkDn,surprise,00:02:02,79,https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn
+Queen,1dfeR4HaWDbWqFHLkxsg1d,I Want To Break Free - Single Remix,3Au6174rC3JSzZN5BhCl3D,surprise,00:04:18,0,https://open.spotify.com/track/3Au6174rC3JSzZN5BhCl3D
+2 Unlimited,18JD8DVlD1fakDAw7E9LFC,No Limit,7pSJmBTlbA4S5zSLsj6Pzz,surprise,00:03:43,0,https://open.spotify.com/track/7pSJmBTlbA4S5zSLsj6Pzz
+Sean Kingston,6S0dmVVn4udvppDhZIWxCr,Beautiful Girls - Radio Edit,4Tf94tAHtlQxjbeeyU3y7C,surprise,00:03:45,53,https://open.spotify.com/track/4Tf94tAHtlQxjbeeyU3y7C
+Ultimate Kaos,1xu0cZR2dde8ZY9mztZ6Eq,Casanova,7GduBMXIgyho4M13qObu2C,surprise,00:03:50,27,https://open.spotify.com/track/7GduBMXIgyho4M13qObu2C
+Robbie Williams,2HcwFjNelS49kFbfvMxQYw,Angels,1M2nd8jNUkkwrc1dgBPTJz,surprise,00:04:25,73,https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz
+T-Spoon,6AGGV787LmMPGeyCgZqy6U,Sex On The Beach - Original Mix,4q7HqgwzTAK332xEbzuBVm,surprise,00:03:57,0,https://open.spotify.com/track/4q7HqgwzTAK332xEbzuBVm
+TLC,0TImkz4nPqjegtVSMZnMRq,No Scrubs,1KGi9sZVMeszgZOWivFpxs,surprise,00:03:34,79,https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs
+Eternal,7zYGAXxAaq15C9eM29M8Fj,I Wanna Be the Only One (feat. Bebe Winans),5CNtRWCtAfWivjpjr8QdR2,surprise,00:03:36,46,https://open.spotify.com/track/5CNtRWCtAfWivjpjr8QdR2
+Brandy,05oH07COxkXKIMt6mIPRee,The Boy Is Mine - Radio Edit,4CCdNOgv6hK3AzSL6CQUdp,surprise,00:04:00,0,https://open.spotify.com/track/4CCdNOgv6hK3AzSL6CQUdp
+Reel 2 Real,4AXX8UN3xaPrxHSqrgE3Ta,I Like To Move It (feat. The Mad Stuntman) - Radio Mix,48XTrEbn0R7YbCB6BSSIUW,surprise,00:03:41,40,https://open.spotify.com/track/48XTrEbn0R7YbCB6BSSIUW
+Carmen Twillie,6O3ZB5Cz5CNT3wQWouKcNJ,Circle of Life,0GrhBz0am9KFJ20MN9o6Lp,surprise,00:03:59,0,https://open.spotify.com/track/0GrhBz0am9KFJ20MN9o6Lp
+Kenny B,2NX52zvQRp4AxVzhp2cMiP,Parijs,1X5mydJvmC8nFhP2kW4q50,surprise,00:03:13,0,https://open.spotify.com/track/1X5mydJvmC8nFhP2kW4q50
+Danzel,0o2RZsw6cgJAO7e4N3x7dJ,Pump It Up - Radio Edit,4L4YgYtU6sGzQBdEXm6EM9,surprise,00:03:46,43,https://open.spotify.com/track/4L4YgYtU6sGzQBdEXm6EM9
+Jonas Brothers,7gOdHgIoIKoe4i9Tta6qdD,Sucker,4y3OI86AEP6PQoDE6olYhO,surprise,00:03:01,5,https://open.spotify.com/track/4y3OI86AEP6PQoDE6olYhO
+The Intermezzo Orchestra,6bXsF5Q9FHCEEXbZ4zMBLY,The Exorcist (Main Theme),0CLM9K4XOnfz0l6cBRgEnm,fear,00:03:32,0,https://open.spotify.com/track/0CLM9K4XOnfz0l6cBRgEnm
+John Carpenter,0hxQtmgWiPtEsDPeIuKxXq,Halloween Theme - Main Title,7swocJUCUWTCiRUAU9oerC,fear,00:02:55,49,https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC
+Michael Jackson,3fMbdgg4jU18AjLCKBhRSm,Thriller,1D9KEXIrlmPUkMTdYzqgX4,fear,00:05:57,58,https://open.spotify.com/track/1D9KEXIrlmPUkMTdYzqgX4
+The Citizens of Halloween,164hs3x1Tsp3FgJWNHee1r,This Is Halloween,1Tyt3O3DEznoixjn2K0C3v,fear,00:03:16,0,https://open.spotify.com/track/1Tyt3O3DEznoixjn2K0C3v
+Marilyn Manson,2VYQTNDsvvKN9wmU5W7xpj,Sweet Dreams (Are Made Of This),0Xq7FPQaLJgIHSB605YUMy,fear,00:04:51,50,https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy
+Charlie Clouser,1ZVa9Tz7T3lR30I6r7mhhf,Main Titles,2aAbjYIg2uHBm8sBFlGdBZ,fear,00:02:56,40,https://open.spotify.com/track/2aAbjYIg2uHBm8sBFlGdBZ
+Carl Orff,4LXxsm5BF85PWnQ1dUDAze,Carmina Burana: I. O Fortuna,3cYeGfQKi8rrVGuVTI30vG,fear,00:02:42,22,https://open.spotify.com/track/3cYeGfQKi8rrVGuVTI30vG
+The City of Prague Philharmonic Orchestra,2oQJQUIpJFFnfKvHJA0xBu,The Addams Family,4rzBn7FbXAel09UcinvyOA,fear,00:02:21,30,https://open.spotify.com/track/4rzBn7FbXAel09UcinvyOA
+Neku,1cSLWtq8penAi11GiMxgHc,Five Nights at Freddy's Song (feat. Lucia) [Remix],0TH4cZ87hKG05FMIaZcBtB,fear,00:02:40,36,https://open.spotify.com/track/0TH4cZ87hKG05FMIaZcBtB
+The Living Tombstone,0I6yADrmeyvw66g7yjkqIF,Five Nights at Freddy's,5ZbwPEUqw1hK6rp0ppD8lR,fear,00:02:45,64,https://open.spotify.com/track/5ZbwPEUqw1hK6rp0ppD8lR
+Rhaeide,2XC5Pip2Jfu0ADKwY3ytmp,Silent Hill 2 - Promise (Reprise),0f6t3kaQxnKcpfMSYpRdul,fear,00:01:55,0,https://open.spotify.com/track/0f6t3kaQxnKcpfMSYpRdul
+Myuu,5sP3ci0jwrXUBo76t8pGTF,Jeff The Killer (Piano Version) [Sweet Dreams Are Made Of Screams],2Anm4GeifbWzNOv7YDfkw6,fear,00:03:56,0,https://open.spotify.com/track/2Anm4GeifbWzNOv7YDfkw6
+Johann Sebastian Bach,5aIqB5nVVvmFsvSdExz408,"Toccata and Fugue in D Minor, BWV. 565: I. Toccata -",4nCkmqxoSLkL6sK16SyzKA,fear,00:02:34,20,https://open.spotify.com/track/4nCkmqxoSLkL6sK16SyzKA
+James Smith,2E1XBQ5DauwgbvXww0hFtI,Tili Tili Bom,0mEJsXPyIP9NEtO5NmRd4n,fear,00:02:05,0,https://open.spotify.com/track/0mEJsXPyIP9NEtO5NmRd4n
+Saivor,3PWW8caPs1jeuieVTfNB53,Ring Around The Rosie,1BxmH2gJrlzP3VQEW4ycv1,fear,00:05:51,24,https://open.spotify.com/track/1BxmH2gJrlzP3VQEW4ycv1
+Tobias Lilja,7tOyGdC9yAlKjbGHGInb1g,"Six's Theme, Pt. I",1UQqpBrtIFEi0OO1BusYq9,fear,00:01:17,35,https://open.spotify.com/track/1UQqpBrtIFEi0OO1BusYq9
+Tobias Lilja,7tOyGdC9yAlKjbGHGInb1g,"Six's Theme, Pt. II",5sPig8GP6ZyfJZ6sE3THlZ,fear,00:02:08,39,https://open.spotify.com/track/5sPig8GP6ZyfJZ6sE3THlZ
+NoXuu,1oJOBRfGi9NfdOvqrOw4CV,Spooky Scary Skeletons,5VwfTVaHLqNvpieW4nICpo,fear,00:02:42,0,https://open.spotify.com/track/5VwfTVaHLqNvpieW4nICpo
+Ray Parker Jr.,0NyzfcGDZZ6GM25EBG9BYK,Ghostbusters,3m0y8qLoznUYi73SUBP8GI,fear,00:04:05,65,https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI
+Marilyn Manson,2VYQTNDsvvKN9wmU5W7xpj,This Is Halloween,042Y7INHELtUGh8LRtl3X5,fear,00:03:22,49,https://open.spotify.com/track/042Y7INHELtUGh8LRtl3X5
+Mike Emilio,0ijmTKTGsjqOXfL5mWgUXC,Clown,4IYa4btcORknD6TcXOstaA,fear,00:02:18,46,https://open.spotify.com/track/4IYa4btcORknD6TcXOstaA
+Los Straitjackets,5a1rrmsSJwko0HqT6HvteB,Que Monstruos Son (feat. Keith Streng & Mary Huff),1eBTesQZ72agGVC4kKs6HN,fear,00:03:29,34,https://open.spotify.com/track/1eBTesQZ72agGVC4kKs6HN
+Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,bury a friend,4SSnFejRGlZikf02HLewEF,fear,00:03:13,76,https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF
+Zarcort,3ljuRRLVJKgXJKO0xNqzi6,Jeff the Killer,551JwWgwbctdbXRkL8hMeK,fear,00:02:45,27,https://open.spotify.com/track/551JwWgwbctdbXRkL8hMeK
+Angerfist,4sQNUQjOYj9rV2sdfJ8laS,Pennywise,5WhZTVKHE32TysmSwKqVGl,fear,00:04:12,53,https://open.spotify.com/track/5WhZTVKHE32TysmSwKqVGl
+Michael Jackson,3fMbdgg4jU18AjLCKBhRSm,Ghosts,2JzcEEYul9ngmGGPzvFVNL,fear,00:05:13,45,https://open.spotify.com/track/2JzcEEYul9ngmGGPzvFVNL
+Francisco Gabilondo Soler,4bXoVWClkJvJ4atW0URMzm,La Canción de las Brujas,3AYsZBXwRv27a8CtfSLIpC,fear,00:04:14,20,https://open.spotify.com/track/3AYsZBXwRv27a8CtfSLIpC
+Polymarchs,4PvEhCNbxMVlRoI1Pc80iD,La danza del diablo,5GyXDLI7LRRYk7a3miCT0p,fear,00:04:50,0,https://open.spotify.com/track/5GyXDLI7LRRYk7a3miCT0p
+Ghostemane,3uL4UpqShC4p2x1dJutoRW,Nihil,1nB6VmrPybx4xwkL80OqdA,fear,00:02:27,66,https://open.spotify.com/track/1nB6VmrPybx4xwkL80OqdA
+D-Devils,00Q38FFuCE7XCDMhuYYTao,The 6th Gate (Dance With the Devil) - Original Extended,5hc8WqSlO3UCbKgV0Wi7EV,fear,00:04:46,0,https://open.spotify.com/track/5hc8WqSlO3UCbKgV0Wi7EV
+Kyle Dixon & Michael Stein,00oL7zWxmWveTsKF7DnIRd,Stranger Things,0kwuKfWntoGh0EWyYb7Mpf,fear,00:01:07,67,https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf
+Bruno Coulais,5kjb55jtwPnbYXXDvP4x7R,End Credits,0Bt6Aeum1Id745Noz4kuAz,fear,00:01:54,48,https://open.spotify.com/track/0Bt6Aeum1Id745Noz4kuAz
+The Penguin Band,4AHIDLE82RvrqQMF93Mx9j,Ghosts Just Wanna Dance,1TchBTcjmNtWEW5WCa9v3i,fear,00:02:52,32,https://open.spotify.com/track/1TchBTcjmNtWEW5WCa9v3i
+Modus,3SPahqpoQoSxuXOrS3rvKr,Lmxl,6B47yJOsgP1hC4S2eO2S1r,fear,00:07:54,19,https://open.spotify.com/track/6B47yJOsgP1hC4S2eO2S1r
+Mandragora,2AasvmwafZPTgQANaoLoQY,Borscht Gonzales,3p32x7hnVUzTPzErVD1QG7,fear,00:04:01,23,https://open.spotify.com/track/3p32x7hnVUzTPzErVD1QG7
+23,2YsdzHeTSiaIBz9eYBjq6C,Pink Soldiers,7AUCyNjckeQBBnKol7MZ59,fear,00:00:38,51,https://open.spotify.com/track/7AUCyNjckeQBBnKol7MZ59
+Silver Mt. Zion,0bRpSBtMd3stO4J6TWclMb,13 Angels Standing Guard 'Round The Side Of Your Bed,3cEVhx8rkM0FlETJFFpxoF,fear,00:07:22,0,https://open.spotify.com/track/3cEVhx8rkM0FlETJFFpxoF
+Dj Skinhead,4qGkH9mxSnMg3U5oHGYiW5,Extreme Terror III,7dWnasS83DFLEz7Rmbelml,fear,00:03:40,25,https://open.spotify.com/track/7dWnasS83DFLEz7Rmbelml
+Destryur,4LoJzV2veCWijTidRRCQ8b,Cannibal Girls,2J3bcT96szUB75u207cX4A,fear,00:04:54,12,https://open.spotify.com/track/2J3bcT96szUB75u207cX4A
+Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,Six Feet Under,3xDvZswTmnHBWsB39z6Sbn,fear,00:03:09,0,https://open.spotify.com/track/3xDvZswTmnHBWsB39z6Sbn
+Alec Benjamin,5IH6FPUwQTxPSXurCrcIov,Outrunning Karma,2W0AJEbIC2vdZTV2nVSAsg,fear,00:03:08,67,https://open.spotify.com/track/2W0AJEbIC2vdZTV2nVSAsg
+MISSIO,2HOMW1liAxI3URnEq95SMS,Dizzy,5MxLy1RM6bGy1TK1eba4Ts,fear,00:03:29,61,https://open.spotify.com/track/5MxLy1RM6bGy1TK1eba4Ts
+Alec Benjamin,5IH6FPUwQTxPSXurCrcIov,Boy In The Bubble,60cYr5uuMoxvyuIx45rGEW,fear,00:03:01,71,https://open.spotify.com/track/60cYr5uuMoxvyuIx45rGEW
+AViVA,50tDsT4wwq8FCMJNkn1D67,RABBIT HOLE,6gJbvBnEoY69UvFYTQuzBD,fear,00:03:48,58,https://open.spotify.com/track/6gJbvBnEoY69UvFYTQuzBD
+Set It Off,06bDwgCHeMAwhgI8il4Y5k,Partners in Crime (feat. Ash Costello),4oaU0fMSg3n9kqOwmLPVhH,fear,00:03:31,69,https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH
+Twenty One Pilots,3YQKmKGau1PzlVlkL1iodx,Doubt,57yL3161hUMuw06zzzUCHi,fear,00:03:11,69,https://open.spotify.com/track/57yL3161hUMuw06zzzUCHi
+Unlike Pluto,4zjO8Jhi2pciJJzd8Q6rga,Villain Of My Own Story,1KZZezZg99LVBcfgjTfhFg,fear,00:03:15,47,https://open.spotify.com/track/1KZZezZg99LVBcfgjTfhFg
+XXXTENTACION,15UsOTVnJzReFVN1VCnxy4,Jocelyn Flores,7m9OqQk4RVRkw9JJdeAw96,fear,00:01:59,85,https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96
+AJR,6s22t5Y3prQHyaHWUN1R1C,Bang!,53BHUFdQphHiZUUG3nx9zn,fear,00:02:50,32,https://open.spotify.com/track/53BHUFdQphHiZUUG3nx9zn
+blackbear,2cFrymmkijnjDg9SS92EPM,anxiety (with FRND),7AhlMDKQelsNkWvFeZvmtC,fear,00:03:11,61,https://open.spotify.com/track/7AhlMDKQelsNkWvFeZvmtC
+Jacob Tillberg,6aJRwrwfOffz7RMh2Cfm8e,Ghosts,1Rpj9CZE7cGSXUCfiBf0eA,fear,00:03:35,59,https://open.spotify.com/track/1Rpj9CZE7cGSXUCfiBf0eA
+The Strumbellas,6ujr1NkqbZpYOhquczUUfl,Spirits,7GJ572zvnU94VZVrj5XRtb,fear,00:03:23,72,https://open.spotify.com/track/7GJ572zvnU94VZVrj5XRtb
+Besomorph,619CzMJPPWrCeZwx5qw6ko,Monster,2HCYh0kf5Xqqijv6h4bh3H,fear,00:02:12,48,https://open.spotify.com/track/2HCYh0kf5Xqqijv6h4bh3H
+Matt Maltese,12j6dJrPXanCBwY599pZxf,As the World Caves In,4JE6agBLHGA5TaF6FlqfBD,fear,00:03:38,74,https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD
+MISSIO,2HOMW1liAxI3URnEq95SMS,Sing To Me,44oCGRuPFy7Uz6w4KliMBS,fear,00:03:09,61,https://open.spotify.com/track/44oCGRuPFy7Uz6w4KliMBS
+Layto,0MqXw0plXKIaJtM342hIag,Ghost Town,1b7DozY0xHWXU1T84Lck1z,fear,00:03:13,61,https://open.spotify.com/track/1b7DozY0xHWXU1T84Lck1z
+Rixton,0kkxsdcaWmWU2yWAqclDh4,Me And My Broken Heart,1oew3nFNY3vMacJAsvry0S,fear,00:03:13,78,https://open.spotify.com/track/1oew3nFNY3vMacJAsvry0S
+ZAYN,5ZsFI1h6hIdQRw2ti0hz81,Dusk Till Dawn (feat. Sia) - Radio Edit,3e7sxremeOE3wTySiOhGiP,fear,00:03:59,78,https://open.spotify.com/track/3e7sxremeOE3wTySiOhGiP
+Stegosaurus Rex,2D5kO95AWEXMHRvqvCKb7K,Nowhere To Run,2PJhATOD9dWsevezmfjoMA,fear,00:05:00,69,https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA
+Bohnes,4aN7T7NNFFMRJgVbRPne8q,Middle Finger,0IK8y0vAO0sM630HsxwLht,fear,00:03:49,70,https://open.spotify.com/track/0IK8y0vAO0sM630HsxwLht
+Roar,7dIpKWlEeAljA20vFJ82RD,I Can't Handle Change,0I1eFRytp4XRhLCjT6tZm7,fear,00:03:18,81,https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7
+Caleb Hyles,6jDwZUFYUH1dC4xWzOd8QU,Other Friends,26rvZvXZsbizgU7hsO9zN8,fear,00:02:50,55,https://open.spotify.com/track/26rvZvXZsbizgU7hsO9zN8
+cabbagepatchcid,33S5KGacLlj0ojCXiVlxAU,buts,4dsT6ZxLmsYPiqYeSiujep,fear,00:01:21,0,https://open.spotify.com/track/4dsT6ZxLmsYPiqYeSiujep
+YUNGBLUD,6Ad91Jof8Niiw0lGLLi3NW,parents,5v4OkFH0TJ6W1hCFxyn0px,fear,00:02:51,71,https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px
+Maretu,7p1fL0cAuCPDMG6oBswFhM,Mind brand,2KvhjbZPPtNXTB6wib1rXB,fear,00:04:19,62,https://open.spotify.com/track/2KvhjbZPPtNXTB6wib1rXB
+Gorillaz,3AA28KZvwAUcZuOKwyblJQ,Feel Good Inc.,0d28khcov6AiegSCpG5TuT,fear,00:03:42,84,https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT
+Michael Bublé,1GxkXlMwML1oSg5eLPiAz3,Feeling Good,3I09LQbHS3NSU46Ly3tPpR,fear,00:03:57,68,https://open.spotify.com/track/3I09LQbHS3NSU46Ly3tPpR
+Get Scared,5r9uIJCoquVtEkCkvcn8Ez,Don't You Dare Forget the Sun,4JIYKZzKnlPhL28h0uixzZ,fear,00:03:13,65,https://open.spotify.com/track/4JIYKZzKnlPhL28h0uixzZ
+Wrabel,7r2uG6BlFXKcwmh9ItqlII,The Village,6epvwUINain4iSHCTWA0sj,fear,00:03:50,65,https://open.spotify.com/track/6epvwUINain4iSHCTWA0sj
+Big Data,4S1nvNHWiZLP4rzwmULmUa,Dangerous (feat. Joywave) - Oliver Remix,3PVukkbEGmJGoyJG2lfBPP,fear,00:04:37,60,https://open.spotify.com/track/3PVukkbEGmJGoyJG2lfBPP
+Unlike Pluto,4zjO8Jhi2pciJJzd8Q6rga,Worst in Me,5fxTqRkibJsbCD1FSz8U8X,fear,00:03:17,56,https://open.spotify.com/track/5fxTqRkibJsbCD1FSz8U8X
+Kim Petras,3Xt3RrJMFv5SZkCfUE8C1J,<demons>,3dBKhZCi905UfyeodO8Epl,fear,00:01:57,40,https://open.spotify.com/track/3dBKhZCi905UfyeodO8Epl
+Varien,2g1JSu9UfRcQQYb3b03Km7,Can You Feel My Heart,4cuBQhxCjoXW9EX2UqeQwo,fear,00:03:52,65,https://open.spotify.com/track/4cuBQhxCjoXW9EX2UqeQwo
+Molly Kate Kestner,390x0qxDdsMmN20RAwspbf,Prom Queen,2WEAKylXBPr9PJNANBSTDG,fear,00:03:46,65,https://open.spotify.com/track/2WEAKylXBPr9PJNANBSTDG
+MISSIO,2HOMW1liAxI3URnEq95SMS,Twisted,4TQcARE7Fd58akNhr3N7AE,fear,00:03:42,67,https://open.spotify.com/track/4TQcARE7Fd58akNhr3N7AE
+grandson,4ZgQDCtRqZlhLswVS6MHN4,Blood // Water,7clyJIrLkEbXUDwj1tC9zz,fear,00:03:34,71,https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz
+Hey Violet,4JNfz6aO9ZFz0gp5GY88am,O.D.D.,1HuIahUPUXCx7Kz4rgMXFU,fear,00:03:42,61,https://open.spotify.com/track/1HuIahUPUXCx7Kz4rgMXFU
+The Living Tombstone,0I6yADrmeyvw66g7yjkqIF,No Mercy (feat. BlackGryph0n & LittleJayneyCakes),468BsK9sjyvH3vQFfRbBwD,fear,00:02:34,61,https://open.spotify.com/track/468BsK9sjyvH3vQFfRbBwD
+Sam Tinnesz,70TsVY28EcEUYSGG5Yw7mp,Play with Fire (feat. Yacht Money),7vguMCv8uVuZLiQJ156u3Z,fear,00:03:00,75,https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z
+Melanie Martinez,63yrD80RY3RNEM2YDpUpO8,Cake,5H3TCfiw0CQTX1XU7A9TXM,fear,00:03:19,78,https://open.spotify.com/track/5H3TCfiw0CQTX1XU7A9TXM
+MISSIO,2HOMW1liAxI3URnEq95SMS,Everybody Gets High,3nH3Gtm9GQVfiaYDr4AXji,fear,00:03:32,62,https://open.spotify.com/track/3nH3Gtm9GQVfiaYDr4AXji
+Lewis Blissett,5SrdmCdwa3qLV6EObwuEW7,Killing Butterflies,3R8PKPTPgHApBhCt3NUJ0q,fear,00:02:50,61,https://open.spotify.com/track/3R8PKPTPgHApBhCt3NUJ0q
+Gabbie Hanna,4WmAQDrrYtyygkRlm6VTtB,Dandelion,17s5CealxqsQrPcRXHZcm2,fear,00:02:41,54,https://open.spotify.com/track/17s5CealxqsQrPcRXHZcm2
+Lauren Babic,6nT7RjBCuuggrafnb43vUX,Lovely,0ze7uSchHez7Aq8RGZcyDz,fear,00:03:01,0,https://open.spotify.com/track/0ze7uSchHez7Aq8RGZcyDz
+Halestorm,6om12Ev5ppgoMy3OYSoech,Bad Romance,0n3sHHfdOq6Awix3JPe3xl,fear,00:04:08,64,https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl
+Melanie Martinez,63yrD80RY3RNEM2YDpUpO8,Mad Hatter,5gWtkdgdyt5bZt9i6n3Kqd,fear,00:03:21,72,https://open.spotify.com/track/5gWtkdgdyt5bZt9i6n3Kqd
+Lincoln,6RcxmUOBnyAQr2rRsNfQI5,Saint Bernard,3JPnVN4wYlmQnuD7OgDx88,fear,00:01:43,63,https://open.spotify.com/track/3JPnVN4wYlmQnuD7OgDx88
+Lund,5uLkZ7FWMTBUg1corQqdkR,Broken,4W8sUeokQKfHt1uTXp0Jq0,fear,00:03:20,72,https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0
+Rory Webley,2vlC4o7h61xlMUop6QCuvK,Joker,7yxRcqOT4KYsjFebZtgJyi,fear,00:02:21,59,https://open.spotify.com/track/7yxRcqOT4KYsjFebZtgJyi
+Stephen,64N1HzkQEXvjlJBQinWeu2,Crossfire,5lJH3o6AFW9Aig1CdRdAF1,fear,00:04:30,58,https://open.spotify.com/track/5lJH3o6AFW9Aig1CdRdAF1
+Halsey,26VFTg2z8YR0cCuwLzESi2,Control,3SKzTIl9mW0DadTys9SFo3,fear,00:03:34,71,https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3
+AViVA,50tDsT4wwq8FCMJNkn1D67,PSYCHO,4H0LPPwhIgrVO37eYOo8Ip,fear,00:03:34,57,https://open.spotify.com/track/4H0LPPwhIgrVO37eYOo8Ip
+Call Me Karizma,5fENlrINIVP0gJOtKxvORt,Rebels,7fBKbK8897K5V5zgr7ymIz,fear,00:02:15,65,https://open.spotify.com/track/7fBKbK8897K5V5zgr7ymIz
+The Cab,2C2sVVXanbOpymYBMpsi89,Angel With A Shotgun,49rpdsNYJirTTf6p6mMvag,fear,00:03:41,64,https://open.spotify.com/track/49rpdsNYJirTTf6p6mMvag
+The Tech Thieves,06bun5reMRmLxFCbcB6UHW,Fake,5d7P5eapBbN3gfce5ARfuh,fear,00:02:21,68,https://open.spotify.com/track/5d7P5eapBbN3gfce5ARfuh
+The Living Tombstone,0I6yADrmeyvw66g7yjkqIF,My Ordinary Life,6tMdpUXfT70TD6Eh3XfB1p,fear,00:03:50,80,https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p
+Unlike Pluto,4zjO8Jhi2pciJJzd8Q6rga,Everything Black,3UEnF6y5tyHVtMzldS3svp,fear,00:03:48,73,https://open.spotify.com/track/3UEnF6y5tyHVtMzldS3svp
+Air Traffic Controller,2Oboq4Pq88TcC9eUn2HSW9,This Is Love,2cls4groLeYT1zmlXN1pO2,fear,00:02:43,60,https://open.spotify.com/track/2cls4groLeYT1zmlXN1pO2
+Jaymes Young,6QrQ7OrISRYIfS5mtacaw2,Infinity,1SOClUWhOi8vHZYMz3GluK,fear,00:03:57,89,https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK
+Bohnes,4aN7T7NNFFMRJgVbRPne8q,Raging on a Sunday,5rvyUmsWA1LQGHI11FaVai,fear,00:03:28,64,https://open.spotify.com/track/5rvyUmsWA1LQGHI11FaVai
+I DONT KNOW HOW BUT THEY FOUND ME,0Raaw7kr1Vzat4ZvHzjsJR,Choke,37mfTcSlX60JtAvAETytGs,fear,00:03:15,72,https://open.spotify.com/track/37mfTcSlX60JtAvAETytGs
+Zella Day,100sLnojEpcadRx4edEBA6,East of Eden,2Wc2tcQl7cPetPKeXH3GD3,fear,00:03:06,68,https://open.spotify.com/track/2Wc2tcQl7cPetPKeXH3GD3
+Sub Urban,7gXb99Sf9nNmpNYeAgIQFG,Cradles,1y4jsQt7MjnZhiD1L6qFBC,fear,00:03:29,60,https://open.spotify.com/track/1y4jsQt7MjnZhiD1L6qFBC
+Au/Ra,1eMmoIprPDWeFdB1FxU6ZV,Dance in the Dark,3i5jKbMOcBqgnKlx5UyH9d,fear,00:02:58,56,https://open.spotify.com/track/3i5jKbMOcBqgnKlx5UyH9d
+XYL?,6ioOEWNNGK40H8xrGj6XPW,yes & no,6UVZo6UKUZC1J2KPP3IIwQ,fear,00:02:58,61,https://open.spotify.com/track/6UVZo6UKUZC1J2KPP3IIwQ
+blackbear,2cFrymmkijnjDg9SS92EPM,idfc - Tarro Remix,1wsZ0cp5He4Wm4yohNjwIs,fear,00:04:08,65,https://open.spotify.com/track/1wsZ0cp5He4Wm4yohNjwIs
+Royal & the Serpent,64EHXDoln95lnccszdPum0,Weddings & Funerals,5XGjHvW9kqp8QqFpMHmESt,fear,00:02:56,52,https://open.spotify.com/track/5XGjHvW9kqp8QqFpMHmESt
+Lil Peep,2kCcBybjl3SAtIcwdWpUe3,Falling Down - Bonus Track,4jvjzW7Hm0yK4LvvE0Paz9,fear,00:03:16,81,https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9
+Zach Callison,57YFNq46Xx86nl7ETkd1Ei,interlude IV (Showtime),1kF9FK8ZuhbTlC7HZtekzD,fear,00:01:43,58,https://open.spotify.com/track/1kF9FK8ZuhbTlC7HZtekzD
+Or3o,3Tqz477C42DxC4UT7rk3yx,All Eyes on Me,0gg5h5BgdjVlXTti79TUao,fear,00:04:02,62,https://open.spotify.com/track/0gg5h5BgdjVlXTti79TUao
+MGMT,0SwO7SWeDHJijQ3XNS7xEE,Little Dark Age,2Y0iGXY6m6immVb2ktbseM,fear,00:04:59,82,https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM
+Jon Bellion,50JJSqHUf2RQ9xsHs0KMHg,iRobot,453QwgDIG95NmmLqSxnPsR,fear,00:03:28,50,https://open.spotify.com/track/453QwgDIG95NmmLqSxnPsR
+june,4HPbe1kKBultculBbxH66X,A Little Messed Up,5iDaEbPX8Lq2evx3ZpAgQU,fear,00:02:48,58,https://open.spotify.com/track/5iDaEbPX8Lq2evx3ZpAgQU
+Grace VanderWaal,3YdT8QvV4QvY4DfVJhxdcZ,Burned,4mz7WAJCJz7QbXsFA2WoXK,fear,00:03:11,62,https://open.spotify.com/track/4mz7WAJCJz7QbXsFA2WoXK
+Porter Robinson,3dz0NnIZhtKKeXZxLOxCam,Goodbye To A World,786ymAh5BmHoIpvjyrvjXk,fear,00:05:28,64,https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk
+Moncrieff,7axEazQlDDxu7KBQyFTfoC,Serial Killer,2pTnasibfxSW1dXhljWByn,fear,00:03:31,57,https://open.spotify.com/track/2pTnasibfxSW1dXhljWByn
+Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,House of Memories,2DgdHcjWmO3qd50RzuBLgZ,fear,00:03:28,88,https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ
+Layto,0MqXw0plXKIaJtM342hIag,Little Poor Me,6TqoydI7ZJdRkwBgPYy7eb,fear,00:03:18,59,https://open.spotify.com/track/6TqoydI7ZJdRkwBgPYy7eb
+The Ready Set,2eRJjYEaWyGZbOBGYFLBoC,Killer,2LYAG9jlH9rul11nalRxR0,fear,00:03:03,59,https://open.spotify.com/track/2LYAG9jlH9rul11nalRxR0
+Au/Ra,1eMmoIprPDWeFdB1FxU6ZV,Panic Room,7uUahoeqGNRMbpdeiLj1rS,fear,00:03:57,74,https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS
+Alec Benjamin,5IH6FPUwQTxPSXurCrcIov,If I Killed Someone For You,0WHi11uzahqpEtPGYCW6oQ,fear,00:03:05,72,https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ
+Nico Collins,1iGwHlKgQKtdrtzmlwZ71U,Our Way Out,01WJWHv12F3nWeXGYsmOOs,fear,00:04:03,56,https://open.spotify.com/track/01WJWHv12F3nWeXGYsmOOs
+Maria Mena,3rTRHzFfbTk5GL3LpYZGHR,It Took Me By Surprise,0Z3AGsU11hASarHrOPLUn9,fear,00:02:59,58,https://open.spotify.com/track/0Z3AGsU11hASarHrOPLUn9
+grandson,4ZgQDCtRqZlhLswVS6MHN4,Blood // Water - Acoustic,3uC8zcoHtdlCCBZAqD62UH,fear,00:03:50,48,https://open.spotify.com/track/3uC8zcoHtdlCCBZAqD62UH
+Kailee Morgue,245PKF3hKjtxJKIG153kF0,Siren,4xb8JHIN56xixSl6vkSPjm,fear,00:03:20,64,https://open.spotify.com/track/4xb8JHIN56xixSl6vkSPjm
+Benny,0nl9MMpxs0QjMuls72wc8K,Little Game,0ODyahnUlK9G5bT4dA5NCI,fear,00:03:58,55,https://open.spotify.com/track/0ODyahnUlK9G5bT4dA5NCI
+Jaymes Young,6QrQ7OrISRYIfS5mtacaw2,Feel Something,0vMI3AJPQMjytAu8XMWr65,fear,00:03:37,67,https://open.spotify.com/track/0vMI3AJPQMjytAu8XMWr65
+Weathers,4OTFxPi5CtWyj1NThDe6z5,Happy Pills,3zjjzKg16tczCMwckGKGuH,fear,00:03:23,72,https://open.spotify.com/track/3zjjzKg16tczCMwckGKGuH
+Ricky Montgomery,0ZUvK7zGdXLd78mQr3t1Tw,Mr Loverman,2IVsRhKrx8hlQBOWy4qebo,fear,00:03:36,80,https://open.spotify.com/track/2IVsRhKrx8hlQBOWy4qebo
+Lovejoy,33tFkBLsl6f8TjKkV0uF0C,One Day,0IUprcNjE2hDtlvY8rq2W9,fear,00:02:24,71,https://open.spotify.com/track/0IUprcNjE2hDtlvY8rq2W9
+Ricky Montgomery,0ZUvK7zGdXLd78mQr3t1Tw,Talk to You,5YIAMIFBXGXsyJwJmqUMZo,fear,00:03:34,63,https://open.spotify.com/track/5YIAMIFBXGXsyJwJmqUMZo
