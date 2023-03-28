@@ -3,7 +3,8 @@ Introduction to Database Systems - Final Project\
 2022 Spring, by Prof. 曾意儒
 ### Introduction
 
-透過 Decision Tree Classifier 分析句子情緒，並連接到 Spotify，推薦使用者相符情緒的音樂。
+透過 Decision Tree Classifier 分析句子情緒，並連接到 Spotify，推薦使用者相符情緒的音樂。\
+為 [Introduction to Artificial Intelligence - Final Project](https://github.com/sheepycat/Music_Recommendation_AI.git)的延伸 : 改動架構，並加入DBMS。
 
 ### Demo
 
