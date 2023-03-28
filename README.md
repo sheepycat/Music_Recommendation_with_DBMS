@@ -13,12 +13,12 @@ https://user-images.githubusercontent.com/74719131/228342833-33b21057-4c41-4a0a-
 
 ### Application description
 
-1. 預先擷取Spotify歌單並輸入至DBMS處理資料
-2. 預先將Emotions dataset中的資料用sklearn中的DecisionTreeClassifier訓練情緒分
+1. 預先擷取 Spotify 歌單並輸入至 DBMS 處理資料
+2. 預先將 [Emotions dataset](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp) 中的資料用 sklearn 中的 DecisionTreeClassifier 訓練情緒分
 類器
 3. 使用者輸入句子
-4. 用情緒分類器判斷輸入句子的情緒，得到emotion tag
-5. 連線database，用query隨機找出符合emotion tag的一首歌曲，並輸出歌名、歌手、
-url等資訊
-6. 利用webbrowser模組根據url開啟Spotify新分頁
+4. 用情緒分類器判斷輸入句子的情緒，得到 emotion tag
+5. 連線 database，用 query 隨機找出符合 emotion tag 的一首歌曲，並輸出歌名、歌手、
+url 等資訊
+6. 利用 webbrowser 模組根據 url 開啟 Spotify 新分頁
 
