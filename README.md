@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/74719131/228342833-33b21057-4c41-4a0a-
 
 ### Application description
 
-1. 預先擷取 Spotify 歌單並輸入至 DBMS 處理資料
+1. 預先擷取 Spotify 歌單並輸入至 DBMS 處理資料 (使用 AWS Learner Lab)
 2. 預先將 [Emotions dataset](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp) 中的資料用 sklearn 中的 DecisionTreeClassifier 訓練情緒分
 類器
 3. 使用者輸入句子
